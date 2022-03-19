@@ -1,0 +1,90 @@
+
+level_100.png
+size: 1952,872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 581, 200
+  size: 34, 70
+  orig: 36, 72
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 523, 127
+  size: 50, 71
+  orig: 52, 73
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 742, 274
+  size: 50, 73
+  orig: 52, 75
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 523, 200
+  size: 56, 70
+  orig: 58, 72
+  offset: 1, 1
+  index: -1
+binh
+  rotate: false
+  xy: 2, 326
+  size: 977, 543
+  orig: 979, 545
+  offset: 1, 1
+  index: -1
+binh2
+  rotate: false
+  xy: 2, 39
+  size: 309, 285
+  orig: 310, 287
+  offset: 0, 1
+  index: -1
+dongnc
+  rotate: true
+  xy: 313, 272
+  size: 52, 427
+  orig: 52, 427
+  offset: 0, 0
+  index: -1
+nuoc1
+  rotate: false
+  xy: 2, 3
+  size: 271, 34
+  orig: 271, 34
+  offset: 0, 0
+  index: -1
+nuoc2
+  rotate: false
+  xy: 981, 2
+  size: 969, 337
+  orig: 969, 337
+  offset: 0, 0
+  index: -1
+vobinh
+  rotate: false
+  xy: 981, 341
+  size: 967, 528
+  orig: 969, 530
+  offset: 1, 1
+  index: -1
+voi
+  rotate: false
+  xy: 313, 87
+  size: 208, 183
+  orig: 210, 186
+  offset: 1, 1
+  index: -1
+water
+  rotate: true
+  xy: 313, 57
+  size: 28, 79
+  orig: 30, 82
+  offset: 1, 1
+  index: -1

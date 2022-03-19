@@ -1,0 +1,83 @@
+
+level_122.png
+size: 560,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ao1
+  rotate: false
+  xy: 2, 193
+  size: 231, 363
+  orig: 231, 363
+  offset: 0, 0
+  index: -1
+BANTAY_P1
+  rotate: false
+  xy: 470, 54
+  size: 72, 109
+  orig: 72, 109
+  offset: 0, 0
+  index: -1
+Khiuytay_P1
+  rotate: false
+  xy: 357, 2
+  size: 111, 161
+  orig: 111, 161
+  offset: 0, 0
+  index: -1
+Khiuytay_T1
+  rotate: true
+  xy: 235, 193
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+Layer 341
+  rotate: false
+  xy: 2, 60
+  size: 242, 131
+  orig: 242, 131
+  offset: 0, 0
+  index: -1
+bantay_P2
+  rotate: true
+  xy: 2, 5
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+baptay_P1
+  rotate: false
+  xy: 433, 335
+  size: 102, 221
+  orig: 102, 221
+  offset: 0, 0
+  index: -1
+baptay_T1
+  rotate: true
+  xy: 235, 416
+  size: 140, 196
+  orig: 140, 196
+  offset: 0, 0
+  index: -1
+chan ng1
+  rotate: false
+  xy: 400, 165
+  size: 109, 168
+  orig: 109, 168
+  offset: 0, 0
+  index: -1
+chan ng1_1
+  rotate: false
+  xy: 246, 23
+  size: 109, 168
+  orig: 109, 168
+  offset: 0, 0
+  index: -1
+ghe
+  rotate: false
+  xy: 235, 298
+  size: 163, 116
+  orig: 163, 116
+  offset: 0, 0
+  index: -1

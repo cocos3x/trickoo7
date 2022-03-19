@@ -1,0 +1,48 @@
+
+level_180.png
+size: 672,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: false
+  xy: 497, 2
+  size: 128, 26
+  orig: 128, 26
+  offset: 0, 0
+  index: -1
+deb_tr
+  rotate: true
+  xy: 591, 127
+  size: 204, 76
+  orig: 204, 76
+  offset: 0, 0
+  index: -1
+mat
+  rotate: true
+  xy: 324, 59
+  size: 272, 265
+  orig: 272, 265
+  offset: 0, 0
+  index: -1
+mui
+  rotate: false
+  xy: 324, 11
+  size: 171, 46
+  orig: 171, 46
+  offset: 0, 0
+  index: -1
+than_xe
+  rotate: true
+  xy: 2, 3
+  size: 328, 320
+  orig: 328, 320
+  offset: 0, 0
+  index: -1
+trang_ph
+  rotate: false
+  xy: 497, 30
+  size: 155, 27
+  orig: 155, 27
+  offset: 0, 0
+  index: -1

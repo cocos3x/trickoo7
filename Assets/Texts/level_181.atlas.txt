@@ -1,0 +1,62 @@
+
+level_181.png
+size: 684,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D.
+  rotate: false
+  xy: 519, 16
+  size: 94, 78
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+Vong_a
+  rotate: false
+  xy: 261, 190
+  size: 326, 114
+  orig: 326, 114
+  offset: 0, 0
+  index: -1
+Vong_b
+  rotate: false
+  xy: 2, 2
+  size: 255, 114
+  orig: 255, 114
+  offset: 0, 0
+  index: -1
+Vong_c
+  rotate: false
+  xy: 261, 2
+  size: 256, 186
+  orig: 256, 186
+  offset: 0, 0
+  index: -1
+Vong_d
+  rotate: false
+  xy: 2, 118
+  size: 257, 186
+  orig: 257, 186
+  offset: 0, 0
+  index: -1
+a.
+  rotate: true
+  xy: 589, 210
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+b.
+  rotate: true
+  xy: 602, 115
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+c.
+  rotate: true
+  xy: 519, 96
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+level4_jutsu.png
+size: 1592,1592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1_butt_men
+  rotate: false
+  xy: 688, 908
+  size: 657, 679
+  orig: 657, 679
+  offset: 0, 0
+  index: -1
+arm_f_butt_men
+  rotate: false
+  xy: 472, 158
+  size: 405, 401
+  orig: 405, 401
+  offset: 0, 0
+  index: -1
+hair copy 2_butt_men
+  rotate: true
+  xy: 879, 286
+  size: 377, 492
+  orig: 377, 492
+  offset: 0, 0
+  index: -1
+hand_b_butt_men
+  rotate: true
+  xy: 472, 2
+  size: 154, 429
+  orig: 154, 429
+  offset: 0, 0
+  index: -1
+jutsu effect
+  rotate: false
+  xy: 2, 117
+  size: 468, 442
+  orig: 468, 442
+  offset: 0, 0
+  index: -1
+jutsu hand
+  rotate: true
+  xy: 903, 16
+  size: 268, 372
+  orig: 268, 372
+  offset: 0, 0
+  index: -1
+leg_butt_men
+  rotate: false
+  xy: 2, 561
+  size: 684, 1026
+  orig: 684, 1026
+  offset: 0, 0
+  index: -1
+shoulder_shirt_butt_men
+  rotate: true
+  xy: 688, 665
+  size: 241, 575
+  orig: 241, 575
+  offset: 0, 0
+  index: -1

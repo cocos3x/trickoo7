@@ -1,0 +1,230 @@
+
+level_143.png
+size: 1480,1480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 2
+  rotate: false
+  xy: 2, 239
+  size: 706, 1238
+  orig: 706, 1238
+  offset: 0, 0
+  index: -1
+Layer 109 copy
+  rotate: false
+  xy: 2, 107
+  size: 1026, 130
+  orig: 1026, 130
+  offset: 0, 0
+  index: -1
+Shape 48
+  rotate: true
+  xy: 940, 250
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+nam_ch/Layer 47 copy
+  rotate: false
+  xy: 1134, 1070
+  size: 135, 88
+  orig: 135, 88
+  offset: 0, 0
+  index: -1
+nam_ch/Layer 47 copy 2
+  rotate: true
+  xy: 1271, 1076
+  size: 82, 131
+  orig: 82, 131
+  offset: 0, 0
+  index: -1
+nam_ch/Layer 72
+  rotate: false
+  xy: 1067, 511
+  size: 170, 168
+  orig: 170, 168
+  offset: 0, 0
+  index: -1
+nam_ch/Layer 80
+  rotate: false
+  xy: 1405, 1031
+  size: 72, 127
+  orig: 72, 127
+  offset: 0, 0
+  index: -1
+nam_ch/Layer 81
+  rotate: true
+  xy: 898, 770
+  size: 72, 126
+  orig: 72, 126
+  offset: 0, 0
+  index: -1
+nam_ch/Layer 84
+  rotate: false
+  xy: 747, 6
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+nam_ch/Shape 67
+  rotate: true
+  xy: 940, 315
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+nam_ch/Shape 69
+  rotate: false
+  xy: 710, 498
+  size: 186, 489
+  orig: 186, 489
+  offset: 0, 0
+  index: -1
+nam_ch/Shape 72
+  rotate: true
+  xy: 290, 7
+  size: 98, 243
+  orig: 98, 243
+  offset: 0, 0
+  index: -1
+nam_ch/Shape 73
+  rotate: false
+  xy: 898, 505
+  size: 167, 174
+  orig: 167, 174
+  offset: 0, 0
+  index: -1
+nam_ch/Shape 73 copy
+  rotate: false
+  xy: 898, 505
+  size: 167, 174
+  orig: 167, 174
+  offset: 0, 0
+  index: -1
+nam_ch/Shape 78
+  rotate: false
+  xy: 1034, 17
+  size: 369, 343
+  orig: 369, 343
+  offset: 0, 0
+  index: -1
+nam_ch/Shape 79
+  rotate: true
+  xy: 1030, 1160
+  size: 317, 406
+  orig: 317, 406
+  offset: 0, 0
+  index: -1
+nam_ch/Vector Smart Object
+  rotate: true
+  xy: 799, 7
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+nam_ch/q_143
+  rotate: false
+  xy: 1244, 615
+  size: 200, 262
+  orig: 200, 262
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 100
+  rotate: true
+  xy: 1352, 879
+  size: 150, 121
+  orig: 150, 121
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 102
+  rotate: false
+  xy: 1271, 929
+  size: 74, 145
+  orig: 74, 145
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 103
+  rotate: false
+  xy: 1030, 681
+  size: 212, 349
+  orig: 212, 349
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 105
+  rotate: true
+  xy: 710, 253
+  size: 107, 228
+  orig: 107, 228
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 87
+  rotate: true
+  xy: 2, 19
+  size: 86, 286
+  orig: 86, 286
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 88
+  rotate: true
+  xy: 535, 2
+  size: 103, 210
+  orig: 103, 210
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 89
+  rotate: true
+  xy: 747, 31
+  size: 74, 285
+  orig: 74, 285
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 91
+  rotate: true
+  xy: 834, 3
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 94
+  rotate: false
+  xy: 2, 5
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 95
+  rotate: true
+  xy: 1438, 1417
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+nu_ch/Layer 96
+  rotate: false
+  xy: 1030, 1032
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+nu_ch/Shape 34 copy
+  rotate: false
+  xy: 907, 844
+  size: 121, 633
+  orig: 121, 633
+  offset: 0, 0
+  index: -1
+nu_ch/Shape 34 copy 2
+  rotate: true
+  xy: 710, 362
+  size: 134, 640
+  orig: 134, 640
+  offset: 0, 0
+  index: -1
+nu_ch/Shape 83
+  rotate: false
+  xy: 710, 989
+  size: 195, 488
+  orig: 195, 488
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+level_95.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++
+  rotate: false
+  xy: 918, 22
+  size: 103, 103
+  orig: 105, 105
+  offset: 1, 1
+  index: -1
+-
+  rotate: false
+  xy: 918, 6
+  size: 103, 14
+  orig: 105, 16
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 692, 5
+  size: 120, 224
+  orig: 122, 226
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 463, 3
+  size: 122, 227
+  orig: 124, 229
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 233, 2
+  size: 123, 228
+  orig: 125, 230
+  offset: 1, 1
+  index: -1
+9
+  rotate: true
+  xy: 2, 2
+  size: 123, 229
+  orig: 125, 231
+  offset: 1, 1
+  index: -1
+=
+  rotate: true
+  xy: 1023, 25
+  size: 100, 52
+  orig: 102, 54
+  offset: 1, 1
+  index: -1

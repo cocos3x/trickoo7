@@ -1,0 +1,41 @@
+
+level_111.png
+size: 1188,1188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sao
+  rotate: false
+  xy: 2, 417
+  size: 429, 409
+  orig: 429, 409
+  offset: 0, 0
+  index: -1
+tam giac
+  rotate: false
+  xy: 2, 2
+  size: 415, 413
+  orig: 415, 413
+  offset: 0, 0
+  index: -1
+thang
+  rotate: false
+  xy: 2, 828
+  size: 492, 355
+  orig: 492, 355
+  offset: 0, 0
+  index: -1
+tron
+  rotate: false
+  xy: 496, 826
+  size: 357, 357
+  orig: 357, 357
+  offset: 0, 0
+  index: -1
+vuong
+  rotate: false
+  xy: 433, 412
+  size: 412, 412
+  orig: 412, 412
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,391 @@
+
+level_112.png
+size: 1036,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baptay_P
+  rotate: false
+  xy: 643, 516
+  size: 141, 222
+  orig: 141, 222
+  offset: 0, 0
+  index: -1
+Baptay_T
+  rotate: false
+  xy: 266, 292
+  size: 160, 213
+  orig: 160, 213
+  offset: 0, 0
+  index: -1
+Chna_P
+  rotate: false
+  xy: 2, 507
+  size: 136, 527
+  orig: 136, 527
+  offset: 0, 0
+  index: -1
+Chna_TY
+  rotate: false
+  xy: 140, 507
+  size: 136, 527
+  orig: 136, 527
+  offset: 0, 0
+  index: -1
+Hong
+  rotate: false
+  xy: 428, 162
+  size: 196, 166
+  orig: 196, 166
+  offset: 0, 0
+  index: -1
+Layer 13 copy
+  rotate: true
+  xy: 197, 270
+  size: 235, 67
+  orig: 235, 67
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 197, 107
+  size: 79, 161
+  orig: 79, 161
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 278, 957
+  size: 377, 77
+  orig: 377, 77
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 657, 969
+  size: 290, 65
+  orig: 290, 65
+  offset: 0, 0
+  index: -1
+Loa2
+  rotate: false
+  xy: 428, 330
+  size: 191, 174
+  orig: 191, 174
+  offset: 0, 0
+  index: -1
+Tre1_head
+  rotate: true
+  xy: 480, 740
+  size: 215, 189
+  orig: 215, 189
+  offset: 0, 0
+  index: -1
+Tre1_headBantay_P
+  rotate: true
+  xy: 632, 2
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+Tre1_headBantay_P copy
+  rotate: false
+  xy: 373, 2
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+Tre1_headBaptay_P
+  rotate: false
+  xy: 182, 2
+  size: 63, 103
+  orig: 63, 103
+  offset: 0, 0
+  index: -1
+Tre1_headBaptay_P copy
+  rotate: true
+  xy: 774, 352
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+Tre1_headKhuytay_P
+  rotate: false
+  xy: 907, 427
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+Tre1_headKhuytay_P copy
+  rotate: true
+  xy: 875, 360
+  size: 65, 94
+  orig: 65, 94
+  offset: 0, 0
+  index: -1
+Tre1_headbc
+  rotate: true
+  xy: 632, 50
+  size: 136, 97
+  orig: 136, 97
+  offset: 0, 0
+  index: -1
+Tre1_headbody
+  rotate: false
+  xy: 626, 188
+  size: 124, 145
+  orig: 124, 145
+  offset: 0, 0
+  index: -1
+Tre1_headchan_P
+  rotate: true
+  xy: 844, 742
+  size: 105, 175
+  orig: 105, 175
+  offset: 0, 0
+  index: -1
+Tre1_headchan_T
+  rotate: false
+  xy: 278, 94
+  size: 95, 196
+  orig: 95, 196
+  offset: 0, 0
+  index: -1
+Tre2_Bantay_P
+  rotate: false
+  xy: 851, 196
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+Tre2_Bantay_P copy 2
+  rotate: false
+  xy: 375, 174
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Tre2_Baptay_P
+  rotate: true
+  xy: 949, 990
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+Tre2_Baptay_T
+  rotate: false
+  xy: 961, 283
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Tre2_body
+  rotate: false
+  xy: 671, 743
+  size: 171, 224
+  orig: 171, 224
+  offset: 0, 0
+  index: -1
+Tre2_chan_P
+  rotate: true
+  xy: 247, 33
+  size: 59, 124
+  orig: 59, 124
+  offset: 0, 0
+  index: -1
+Tre2_chan_T
+  rotate: false
+  xy: 731, 61
+  size: 56, 125
+  orig: 56, 125
+  offset: 0, 0
+  index: -1
+Tre2_face
+  rotate: false
+  xy: 786, 428
+  size: 119, 92
+  orig: 119, 92
+  offset: 0, 0
+  index: -1
+Tre2_head
+  rotate: true
+  xy: 278, 515
+  size: 225, 186
+  orig: 225, 186
+  offset: 0, 0
+  index: -1
+Tre2_khuytay_P
+  rotate: false
+  xy: 422, 5
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+Tre3_Bantay_P
+  rotate: false
+  xy: 976, 428
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Tre3_Bantay_T
+  rotate: false
+  xy: 961, 178
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Tre3_Baptay_P
+  rotate: false
+  xy: 976, 464
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+Tre3_Baptay_T
+  rotate: false
+  xy: 375, 213
+  size: 43, 77
+  orig: 43, 77
+  offset: 0, 0
+  index: -1
+Tre3_bc
+  rotate: true
+  xy: 752, 196
+  size: 137, 97
+  orig: 137, 97
+  offset: 0, 0
+  index: -1
+Tre3_bc2
+  rotate: false
+  xy: 375, 52
+  size: 137, 108
+  orig: 137, 108
+  offset: 0, 0
+  index: -1
+Tre3_body
+  rotate: false
+  xy: 514, 31
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+Tre3_chan_P
+  rotate: false
+  xy: 851, 238
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+Tre3_chan_T
+  rotate: false
+  xy: 906, 246
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+Tre3_head
+  rotate: false
+  xy: 278, 742
+  size: 200, 213
+  orig: 200, 213
+  offset: 0, 0
+  index: -1
+Tre3_khuytay_P
+  rotate: false
+  xy: 971, 372
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+Tre3_khuytay_T
+  rotate: false
+  xy: 678, 18
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+Tre3_quan
+  rotate: true
+  xy: 789, 74
+  size: 120, 97
+  orig: 120, 97
+  offset: 0, 0
+  index: -1
+bantay_P
+  rotate: false
+  xy: 961, 217
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+bantay_T
+  rotate: true
+  xy: 890, 174
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+bc1
+  rotate: true
+  xy: 789, 2
+  size: 70, 111
+  orig: 70, 111
+  offset: 0, 0
+  index: -1
+bc2
+  rotate: false
+  xy: 621, 335
+  size: 151, 169
+  orig: 151, 169
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 135
+  size: 193, 370
+  orig: 193, 370
+  offset: 0, 0
+  index: -1
+bubble John
+  rotate: true
+  xy: 466, 506
+  size: 232, 175
+  orig: 232, 175
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 786, 522
+  size: 163, 218
+  orig: 163, 218
+  offset: 0, 0
+  index: -1
+khuytay_P
+  rotate: true
+  xy: 2, 2
+  size: 131, 178
+  orig: 131, 178
+  offset: 0, 0
+  index: -1
+khuytay_P 2
+  rotate: false
+  xy: 951, 535
+  size: 70, 205
+  orig: 70, 205
+  offset: 0, 0
+  index: -1
+khuytay_T
+  rotate: true
+  xy: 844, 849
+  size: 118, 190
+  orig: 118, 190
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 1021, 829
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1

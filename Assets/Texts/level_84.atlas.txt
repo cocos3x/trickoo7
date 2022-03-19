@@ -1,0 +1,202 @@
+
+level_84.png
+size: 2004,1292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1662, 169
+  size: 57, 231
+  orig: 57, 231
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 1585, 421
+  size: 317, 128
+  orig: 317, 128
+  offset: 0, 0
+  index: -1
+banh
+  rotate: true
+  xy: 1879, 290
+  size: 110, 85
+  orig: 110, 85
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1337, 740
+  size: 394, 549
+  orig: 394, 549
+  offset: 0, 0
+  index: -1
+cachua
+  rotate: true
+  xy: 1742, 84
+  size: 92, 103
+  orig: 92, 103
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1590, 90
+  size: 150, 77
+  orig: 150, 77
+  offset: 0, 0
+  index: -1
+eye copy
+  rotate: false
+  xy: 1721, 290
+  size: 156, 110
+  orig: 156, 110
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1733, 995
+  size: 269, 294
+  orig: 269, 294
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1715, 402
+  size: 312, 246
+  orig: 312, 246
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 1084, 28
+  size: 247, 179
+  orig: 247, 179
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 1721, 178
+  size: 137, 110
+  orig: 137, 110
+  offset: 0, 0
+  index: -1
+handasda
+  rotate: false
+  xy: 1337, 122
+  size: 251, 222
+  orig: 251, 222
+  offset: 0, 0
+  index: -1
+handsd
+  rotate: true
+  xy: 1860, 148
+  size: 140, 101
+  orig: 140, 101
+  offset: 0, 0
+  index: -1
+hanndtr
+  rotate: true
+  xy: 1847, 51
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 1337, 346
+  size: 246, 392
+  orig: 246, 392
+  offset: 0, 0
+  index: -1
+kitchen
+  rotate: false
+  xy: 2, 33
+  size: 1080, 1256
+  orig: 1080, 1256
+  offset: 0, 0
+  index: -1
+mouse_Layer 4
+  rotate: false
+  xy: 1575, 5
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+mouse_Layer 5
+  rotate: false
+  xy: 1963, 664
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+mouse_body
+  rotate: true
+  xy: 1333, 3
+  size: 117, 240
+  orig: 117, 240
+  offset: 0, 0
+  index: -1
+mouse_eye
+  rotate: false
+  xy: 1901, 3
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+mouse_hand
+  rotate: false
+  xy: 1669, 9
+  size: 68, 79
+  orig: 68, 79
+  offset: 0, 0
+  index: -1
+mouse_legg
+  rotate: false
+  xy: 2, 4
+  size: 151, 27
+  orig: 151, 27
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1836, 2
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+mouth copy
+  rotate: false
+  xy: 155, 8
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+potds
+  rotate: true
+  xy: 1590, 169
+  size: 250, 70
+  orig: 250, 70
+  offset: 0, 0
+  index: -1
+potdsa
+  rotate: false
+  xy: 1733, 716
+  size: 269, 277
+  orig: 269, 277
+  offset: 0, 0
+  index: -1
+tieu
+  rotate: true
+  xy: 1739, 4
+  size: 78, 95
+  orig: 78, 95
+  offset: 0, 0
+  index: -1
+vegetable
+  rotate: true
+  xy: 1084, 209
+  size: 1080, 251
+  orig: 1080, 256
+  offset: 0, 5
+  index: -1

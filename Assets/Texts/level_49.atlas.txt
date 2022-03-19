@@ -1,0 +1,69 @@
+
+level_49.png
+size: 964,476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 622, 106
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+B
+  rotate: true
+  xy: 717, 79
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+C
+  rotate: true
+  xy: 717, 116
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+D
+  rotate: true
+  xy: 669, 111
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+Ellipse 3 copy
+  rotate: false
+  xy: 2, 2
+  size: 618, 470
+  orig: 618, 470
+  offset: 0, 0
+  index: -1
+cake_a
+  rotate: false
+  xy: 622, 313
+  size: 178, 159
+  orig: 178, 159
+  offset: 0, 0
+  index: -1
+cake_b
+  rotate: true
+  xy: 802, 294
+  size: 178, 158
+  orig: 178, 158
+  offset: 0, 0
+  index: -1
+cake_c
+  rotate: false
+  xy: 622, 154
+  size: 178, 157
+  orig: 178, 157
+  offset: 0, 0
+  index: -1
+cake_d
+  rotate: true
+  xy: 802, 114
+  size: 178, 157
+  orig: 178, 157
+  offset: 0, 0
+  index: -1

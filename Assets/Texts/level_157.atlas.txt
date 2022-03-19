@@ -1,0 +1,167 @@
+
+level_157.png
+size: 2036,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 21
+  rotate: false
+  xy: 2, 513
+  size: 1080, 245
+  orig: 1080, 245
+  offset: 0, 0
+  index: -1
+hd_buon_bong
+  rotate: false
+  xy: 768, 2
+  size: 444, 111
+  orig: 444, 111
+  offset: 0, 0
+  index: -1
+hd_cuoi_bong
+  rotate: false
+  xy: 768, 2
+  size: 444, 111
+  orig: 444, 111
+  offset: 0, 0
+  index: -1
+hd_buon_co
+  rotate: false
+  xy: 2, 266
+  size: 1080, 245
+  orig: 1080, 245
+  offset: 0, 0
+  index: -1
+hd_buon_hoa
+  rotate: true
+  xy: 1084, 211
+  size: 266, 367
+  orig: 266, 367
+  offset: 0, 0
+  index: -1
+hd_buon_mat
+  rotate: false
+  xy: 1548, 3
+  size: 135, 133
+  orig: 135, 133
+  offset: 0, 0
+  index: -1
+hd_buon_than
+  rotate: true
+  xy: 1084, 479
+  size: 279, 649
+  orig: 279, 649
+  offset: 0, 0
+  index: -1
+hd_cuoi_than
+  rotate: true
+  xy: 1084, 479
+  size: 279, 649
+  orig: 279, 649
+  offset: 0, 0
+  index: -1
+hd_buon_zz
+  rotate: false
+  xy: 1214, 9
+  size: 246, 200
+  orig: 246, 200
+  offset: 0, 0
+  index: -1
+hd_cuoi_Ellipse 3
+  rotate: true
+  xy: 1859, 42
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+hd_cuoi_Ellipse 3 copy
+  rotate: true
+  xy: 1942, 42
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+hd_cuoi_Shape 1
+  rotate: false
+  xy: 1025, 231
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+hd_cuoi_Shape 1 copy
+  rotate: false
+  xy: 2, 5
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+hd_cuoi_hoa
+  rotate: false
+  xy: 1685, 115
+  size: 349, 352
+  orig: 349, 352
+  offset: 0, 0
+  index: -1
+hd_cuoi_may_1
+  rotate: false
+  xy: 2, 44
+  size: 403, 220
+  orig: 403, 220
+  offset: 0, 0
+  index: -1
+hd_cuoi_may_2
+  rotate: false
+  xy: 1462, 138
+  size: 181, 109
+  orig: 181, 109
+  offset: 0, 0
+  index: -1
+hd_cuoi_may_3
+  rotate: false
+  xy: 1753, 51
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+hd_cuoi_may_4
+  rotate: false
+  xy: 407, 48
+  size: 359, 216
+  orig: 359, 216
+  offset: 0, 0
+  index: -1
+hd_cuoi_may_5
+  rotate: false
+  xy: 768, 137
+  size: 255, 127
+  orig: 255, 127
+  offset: 0, 0
+  index: -1
+hd_cuoi_mieng
+  rotate: true
+  xy: 1462, 2
+  size: 134, 84
+  orig: 134, 84
+  offset: 0, 0
+  index: -1
+hd_cuoi_mt_
+  rotate: false
+  xy: 1453, 249
+  size: 230, 228
+  orig: 230, 228
+  offset: 0, 0
+  index: -1
+hd_cuoi_mt__bong
+  rotate: false
+  xy: 1735, 469
+  size: 292, 289
+  orig: 292, 289
+  offset: 0, 0
+  index: -1
+hd_cuoi_mt_mat
+  rotate: true
+  xy: 1685, 2
+  size: 111, 66
+  orig: 111, 66
+  offset: 0, 0
+  index: -1

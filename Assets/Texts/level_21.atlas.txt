@@ -1,0 +1,286 @@
+
+level_21.png
+size: 1404,1404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BC
+  rotate: false
+  xy: 887, 182
+  size: 93, 118
+  orig: 93, 118
+  offset: 0, 0
+  index: -1
+Ban tay
+  rotate: true
+  xy: 1060, 32
+  size: 44, 111
+  orig: 44, 111
+  offset: 0, 0
+  index: -1
+Ban tay1
+  rotate: true
+  xy: 982, 187
+  size: 113, 54
+  orig: 113, 54
+  offset: 0, 0
+  index: -1
+Chan_T
+  rotate: false
+  xy: 765, 809
+  size: 162, 593
+  orig: 162, 593
+  offset: 0, 0
+  index: -1
+Khuytay2
+  rotate: true
+  xy: 841, 4
+  size: 176, 74
+  orig: 176, 74
+  offset: 0, 0
+  index: -1
+Khuytay_P
+  rotate: true
+  xy: 1059, 383
+  size: 51, 196
+  orig: 51, 196
+  offset: 0, 0
+  index: -1
+Khuytay_T
+  rotate: false
+  xy: 1283, 684
+  size: 77, 186
+  orig: 77, 186
+  offset: 0, 0
+  index: -1
+Layer 131
+  rotate: true
+  xy: 887, 313
+  size: 305, 53
+  orig: 305, 53
+  offset: 0, 0
+  index: -1
+Layer 144
+  rotate: true
+  xy: 1311, 208
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+Toc
+  rotate: true
+  xy: 1055, 232
+  size: 149, 169
+  orig: 149, 169
+  offset: 0, 0
+  index: -1
+ao
+  rotate: true
+  xy: 765, 620
+  size: 187, 276
+  orig: 187, 276
+  offset: 0, 0
+  index: -1
+ban tay2
+  rotate: true
+  xy: 1308, 101
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+ban tay3
+  rotate: false
+  xy: 1211, 18
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+bantay_P1
+  rotate: false
+  xy: 1141, 638
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+bap tay_P1
+  rotate: false
+  xy: 942, 404
+  size: 115, 214
+  orig: 115, 214
+  offset: 0, 0
+  index: -1
+bap tay_T
+  rotate: false
+  xy: 1043, 638
+  size: 96, 209
+  orig: 96, 209
+  offset: 0, 0
+  index: -1
+bap tay_T1
+  rotate: true
+  xy: 1257, 405
+  size: 84, 131
+  orig: 84, 131
+  offset: 0, 0
+  index: -1
+chan_P
+  rotate: true
+  xy: 2, 28
+  size: 140, 590
+  orig: 140, 590
+  offset: 0, 0
+  index: -1
+girl_BC1
+  rotate: true
+  xy: 942, 302
+  size: 100, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+girl_BC2
+  rotate: false
+  xy: 1211, 123
+  size: 95, 107
+  orig: 95, 107
+  offset: 0, 0
+  index: -1
+girl_BC3
+  rotate: true
+  xy: 1362, 788
+  size: 82, 23
+  orig: 82, 23
+  offset: 0, 0
+  index: -1
+girl_Ban tay_T1
+  rotate: false
+  xy: 1288, 30
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+girl_Ban tay_T2
+  rotate: false
+  xy: 1339, 30
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+girl_Dui phai
+  rotate: false
+  xy: 1286, 872
+  size: 103, 530
+  orig: 103, 530
+  offset: 0, 0
+  index: -1
+girl_angry
+  rotate: false
+  xy: 1060, 78
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+girl_bap tay_P
+  rotate: false
+  xy: 1226, 244
+  size: 83, 137
+  orig: 83, 137
+  offset: 0, 0
+  index: -1
+girl_body
+  rotate: false
+  xy: 1101, 881
+  size: 183, 521
+  orig: 183, 521
+  offset: 0, 0
+  index: -1
+girl_dui trai
+  rotate: false
+  xy: 929, 849
+  size: 170, 553
+  orig: 170, 553
+  offset: 0, 0
+  index: -1
+girl_girl_head
+  rotate: false
+  xy: 917, 26
+  size: 141, 154
+  orig: 141, 154
+  offset: 0, 0
+  index: -1
+girl_hand2
+  rotate: false
+  xy: 594, 12
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+girl_khuy tay_P
+  rotate: false
+  xy: 1311, 292
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+girl_khuytay_P
+  rotate: true
+  xy: 929, 811
+  size: 36, 90
+  orig: 36, 90
+  offset: 0, 0
+  index: -1
+girl_khuytay_T1
+  rotate: true
+  xy: 594, 72
+  size: 96, 102
+  orig: 96, 102
+  offset: 0, 0
+  index: -1
+girl_no
+  rotate: false
+  xy: 1141, 721
+  size: 140, 158
+  orig: 140, 158
+  offset: 0, 0
+  index: -1
+girl_toc duoi
+  rotate: false
+  xy: 1059, 436
+  size: 177, 200
+  orig: 177, 200
+  offset: 0, 0
+  index: -1
+girl_toc tren
+  rotate: false
+  xy: 1238, 491
+  size: 154, 191
+  orig: 154, 191
+  offset: 0, 0
+  index: -1
+khung rem
+  rotate: false
+  xy: 2, 619
+  size: 761, 783
+  orig: 761, 783
+  offset: 0, 0
+  index: -1
+kinh
+  rotate: true
+  xy: 2, 170
+  size: 447, 694
+  orig: 447, 694
+  offset: 0, 0
+  index: -1
+ma hong
+  rotate: true
+  xy: 698, 2
+  size: 178, 141
+  orig: 178, 141
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 698, 182
+  size: 187, 435
+  orig: 187, 435
+  offset: 0, 0
+  index: -1

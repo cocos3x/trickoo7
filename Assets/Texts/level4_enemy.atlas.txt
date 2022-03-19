@@ -1,0 +1,174 @@
+
+level4_enemy.png
+size: 872,872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: true
+  xy: 2, 28
+  size: 287, 106
+  orig: 287, 106
+  offset: 0, 0
+  index: -1
+bra
+  rotate: false
+  xy: 630, 294
+  size: 163, 98
+  orig: 163, 98
+  offset: 0, 0
+  index: -1
+g_ao
+  rotate: false
+  xy: 455, 5
+  size: 173, 108
+  orig: 173, 108
+  offset: 0, 0
+  index: -1
+g_arm_b
+  rotate: true
+  xy: 630, 755
+  size: 114, 201
+  orig: 114, 201
+  offset: 0, 0
+  index: -1
+g_body
+  rotate: false
+  xy: 630, 394
+  size: 195, 359
+  orig: 195, 359
+  offset: 0, 0
+  index: -1
+g_chan1
+  rotate: false
+  xy: 2, 317
+  size: 162, 552
+  orig: 162, 552
+  offset: 0, 0
+  index: -1
+g_chan2
+  rotate: false
+  xy: 166, 325
+  size: 128, 544
+  orig: 128, 544
+  offset: 0, 0
+  index: -1
+g_dau
+  rotate: true
+  xy: 469, 739
+  size: 130, 156
+  orig: 130, 156
+  offset: 0, 0
+  index: -1
+g_dau2
+  rotate: false
+  xy: 387, 398
+  size: 136, 164
+  orig: 136, 164
+  offset: 0, 0
+  index: -1
+g_mat
+  rotate: true
+  xy: 749, 126
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+g_quandui
+  rotate: false
+  xy: 262, 2
+  size: 191, 111
+  orig: 191, 111
+  offset: 0, 0
+  index: -1
+g_tay2
+  rotate: false
+  xy: 296, 334
+  size: 171, 58
+  orig: 171, 58
+  offset: 0, 0
+  index: -1
+g_toc1
+  rotate: false
+  xy: 469, 582
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+g_tocsau
+  rotate: true
+  xy: 262, 115
+  size: 208, 363
+  orig: 208, 363
+  offset: 0, 0
+  index: -1
+g_vai1
+  rotate: false
+  xy: 110, 55
+  size: 150, 260
+  orig: 150, 260
+  offset: 0, 0
+  index: -1
+g_vai2
+  rotate: false
+  xy: 296, 564
+  size: 168, 135
+  orig: 168, 135
+  offset: 0, 0
+  index: -1
+p_bao
+  rotate: true
+  xy: 749, 208
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+p_btay1
+  rotate: false
+  xy: 525, 466
+  size: 101, 114
+  orig: 101, 114
+  offset: 0, 0
+  index: -1
+p_bua
+  rotate: true
+  xy: 469, 327
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+p_keo
+  rotate: false
+  xy: 553, 345
+  size: 68, 119
+  orig: 68, 119
+  offset: 0, 0
+  index: -1
+p_tay2
+  rotate: true
+  xy: 296, 395
+  size: 167, 89
+  orig: 167, 89
+  offset: 0, 0
+  index: -1
+p_vai2
+  rotate: true
+  xy: 296, 701
+  size: 168, 170
+  orig: 168, 170
+  offset: 0, 0
+  index: -1
+shoes_b
+  rotate: true
+  xy: 630, 37
+  size: 120, 117
+  orig: 120, 117
+  offset: 0, 0
+  index: -1
+shoes_f
+  rotate: false
+  xy: 627, 159
+  size: 82, 133
+  orig: 82, 133
+  offset: 0, 0
+  index: -1

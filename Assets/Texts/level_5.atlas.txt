@@ -1,0 +1,167 @@
+
+level_5.png
+size: 896,896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bantay_tRAI
+  rotate: true
+  xy: 2, 7
+  size: 66, 105
+  orig: 66, 105
+  offset: 0, 0
+  index: -1
+BapTay_Trai
+  rotate: true
+  xy: 419, 290
+  size: 62, 202
+  orig: 62, 202
+  offset: 0, 0
+  index: -1
+Bap_Tay_P4
+  rotate: true
+  xy: 419, 209
+  size: 79, 174
+  orig: 79, 174
+  offset: 0, 0
+  index: -1
+Bap_Tay_T4
+  rotate: false
+  xy: 623, 198
+  size: 159, 116
+  orig: 159, 116
+  offset: 0, 0
+  index: -1
+Baptay_Phai
+  rotate: false
+  xy: 618, 43
+  size: 127, 153
+  orig: 127, 153
+  offset: 0, 0
+  index: -1
+Bnatyat_P4
+  rotate: false
+  xy: 816, 545
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+Bnatyat_T4
+  rotate: true
+  xy: 808, 627
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 747, 47
+  size: 128, 149
+  orig: 128, 149
+  offset: 0, 0
+  index: -1
+Dui_Phai
+  rotate: false
+  xy: 176, 325
+  size: 232, 569
+  orig: 232, 569
+  offset: 0, 0
+  index: -1
+Dui_Trai
+  rotate: false
+  xy: 2, 262
+  size: 172, 632
+  orig: 172, 632
+  offset: 0, 0
+  index: -1
+Face buon
+  rotate: true
+  xy: 797, 368
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+Face vui
+  rotate: true
+  xy: 797, 286
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+KhuyTay_P4
+  rotate: false
+  xy: 808, 680
+  size: 57, 214
+  orig: 57, 214
+  offset: 0, 0
+  index: -1
+KhuyTay_T4
+  rotate: false
+  xy: 642, 469
+  size: 172, 147
+  orig: 172, 147
+  offset: 0, 0
+  index: -1
+KhuyTay_tRAI
+  rotate: true
+  xy: 176, 262
+  size: 61, 241
+  orig: 61, 241
+  offset: 0, 0
+  index: -1
+Layer 98
+  rotate: false
+  xy: 186, 136
+  size: 215, 124
+  orig: 215, 124
+  offset: 0, 0
+  index: -1
+Line ao con
+  rotate: false
+  xy: 628, 316
+  size: 167, 151
+  orig: 167, 151
+  offset: 0, 0
+  index: -1
+Line toc mai tren
+  rotate: true
+  xy: 480, 40
+  size: 167, 136
+  orig: 167, 136
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 410, 485
+  size: 230, 409
+  orig: 230, 409
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 642, 618
+  size: 164, 276
+  orig: 164, 276
+  offset: 0, 0
+  index: -1
+bongnv
+  rotate: false
+  xy: 186, 37
+  size: 292, 97
+  orig: 292, 97
+  offset: 0, 0
+  index: -1
+line toc duoi
+  rotate: true
+  xy: 2, 75
+  size: 185, 182
+  orig: 185, 182
+  offset: 0, 0
+  index: -1
+tay phai
+  rotate: true
+  xy: 410, 354
+  size: 129, 216
+  orig: 129, 216
+  offset: 0, 0
+  index: -1

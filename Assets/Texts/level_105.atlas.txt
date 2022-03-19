@@ -1,0 +1,235 @@
+
+level_105.png
+size: 2036,1428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 2, 1261
+  size: 402, 101
+  orig: 402, 101
+  offset: 0, 0
+  index: -1
+Layer 2 copy
+  rotate: false
+  xy: 2, 1364
+  size: 239, 60
+  orig: 239, 60
+  offset: 0, 0
+  index: -1
+boy_Layer 2 copy 2
+  rotate: false
+  xy: 243, 1364
+  size: 281, 60
+  orig: 281, 60
+  offset: 0, 0
+  index: -1
+boy_Layer 3
+  rotate: true
+  xy: 2, 2
+  size: 841, 1198
+  orig: 841, 1198
+  offset: 0, 0
+  index: -1
+boy_body
+  rotate: true
+  xy: 2, 1008
+  size: 251, 358
+  orig: 251, 358
+  offset: 0, 0
+  index: -1
+boy_face copy
+  rotate: false
+  xy: 820, 1226
+  size: 134, 124
+  orig: 134, 124
+  offset: 0, 0
+  index: -1
+boy_hair
+  rotate: false
+  xy: 1770, 1327
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+boy_hand
+  rotate: false
+  xy: 561, 1231
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+boy_mouth copy
+  rotate: false
+  xy: 1377, 1343
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+boy_mouth copy 3
+  rotate: false
+  xy: 1129, 1350
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+fish
+  rotate: false
+  xy: 362, 917
+  size: 363, 308
+  orig: 363, 308
+  offset: 0, 0
+  index: -1
+girl_body
+  rotate: true
+  xy: 1096, 1179
+  size: 163, 224
+  orig: 163, 224
+  offset: 0, 0
+  index: -1
+girl_face
+  rotate: false
+  xy: 684, 1227
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+girl_hair
+  rotate: true
+  xy: 956, 1218
+  size: 132, 138
+  orig: 132, 138
+  offset: 0, 0
+  index: -1
+girl_hairsd
+  rotate: false
+  xy: 1322, 1170
+  size: 247, 165
+  orig: 247, 165
+  offset: 0, 0
+  index: -1
+girl_hand
+  rotate: true
+  xy: 719, 1352
+  size: 72, 138
+  orig: 72, 138
+  offset: 0, 0
+  index: -1
+girl_hand1
+  rotate: true
+  xy: 1899, 1314
+  size: 110, 116
+  orig: 110, 116
+  offset: 0, 0
+  index: -1
+girl_leg
+  rotate: true
+  xy: 1461, 1337
+  size: 87, 152
+  orig: 87, 152
+  offset: 0, 0
+  index: -1
+girl_leg copy
+  rotate: true
+  xy: 1615, 1336
+  size: 88, 153
+  orig: 88, 153
+  offset: 0, 0
+  index: -1
+girl_mouth
+  rotate: true
+  xy: 1294, 1344
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+girl_mouth copy 2
+  rotate: false
+  xy: 1212, 1345
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+ol_body
+  rotate: true
+  xy: 1571, 1142
+  size: 183, 252
+  orig: 183, 252
+  offset: 0, 0
+  index: -1
+ol_face
+  rotate: true
+  xy: 406, 1234
+  size: 118, 153
+  orig: 118, 153
+  offset: 0, 0
+  index: -1
+ol_hand
+  rotate: true
+  xy: 1825, 1126
+  size: 186, 206
+  orig: 186, 206
+  offset: 0, 0
+  index: -1
+ol_hand2
+  rotate: true
+  xy: 859, 1352
+  size: 72, 268
+  orig: 72, 268
+  offset: 0, 0
+  index: -1
+ol_leg
+  rotate: true
+  xy: 727, 845
+  size: 332, 562
+  orig: 332, 562
+  offset: 0, 0
+  index: -1
+ol_mouthe
+  rotate: true
+  xy: 526, 1354
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+ol_mouthe copy
+  rotate: true
+  xy: 618, 1354
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+
+level_1052.png
+size: 1420,1932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl_fishing rod
+  rotate: true
+  xy: 2, 2
+  size: 977, 1212
+  orig: 977, 1212
+  offset: 0, 0
+  index: -1
+ol_fishing rod copy
+  rotate: true
+  xy: 2, 981
+  size: 947, 1415
+  orig: 947, 1415
+  offset: 0, 0
+  index: -1
+
+level_1053.png
+size: 1004,1832
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+man
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1826
+  orig: 1008, 1837
+  offset: 4, 5
+  index: -1

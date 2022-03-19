@@ -1,0 +1,153 @@
+
+level_107.png
+size: 1860,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 copy 3
+  rotate: false
+  xy: 2, 10
+  size: 1080, 498
+  orig: 1080, 498
+  offset: 0, 0
+  index: -1
+BUBBLE
+  rotate: true
+  xy: 1084, 142
+  size: 366, 183
+  orig: 366, 183
+  offset: 0, 0
+  index: -1
+CK copy
+  rotate: false
+  xy: 1271, 2
+  size: 286, 210
+  orig: 286, 210
+  offset: 0, 0
+  index: -1
+CK1
+  rotate: true
+  xy: 1269, 214
+  size: 294, 236
+  orig: 294, 236
+  offset: 0, 0
+  index: -1
+EGG
+  rotate: false
+  xy: 1785, 349
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+EGG copy
+  rotate: false
+  xy: 1785, 349
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+EGG copy 5
+  rotate: false
+  xy: 1785, 349
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+EGG copy 2
+  rotate: false
+  xy: 1785, 269
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+EGG copy 3
+  rotate: false
+  xy: 1785, 269
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+EGG copy 4
+  rotate: true
+  xy: 1785, 211
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+FOXXEYE
+  rotate: true
+  xy: 1762, 19
+  size: 105, 88
+  orig: 105, 88
+  offset: 0, 0
+  index: -1
+FOXXHAND
+  rotate: true
+  xy: 1559, 7
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+FOXXHAND copy
+  rotate: true
+  xy: 1644, 7
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+FOXXLEG
+  rotate: false
+  xy: 1729, 126
+  size: 50, 92
+  orig: 50, 92
+  offset: 0, 0
+  index: -1
+FOXXLEG copy
+  rotate: true
+  xy: 1668, 74
+  size: 50, 92
+  orig: 50, 92
+  offset: 0, 0
+  index: -1
+FOXXMOUTH
+  rotate: true
+  xy: 1785, 430
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+FOXXMOUTH1
+  rotate: true
+  xy: 1668, 179
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+FOXXbody
+  rotate: true
+  xy: 1507, 220
+  size: 288, 276
+  orig: 288, 277
+  offset: 0, 1
+  index: -1
+WING copy
+  rotate: true
+  xy: 1559, 68
+  size: 141, 107
+  orig: 141, 107
+  offset: 0, 0
+  index: -1
+WING1
+  rotate: true
+  xy: 1084, 7
+  size: 133, 127
+  orig: 133, 127
+  offset: 0, 0
+  index: -1
+X3
+  rotate: true
+  xy: 1213, 10
+  size: 130, 56
+  orig: 130, 56
+  offset: 0, 0
+  index: -1

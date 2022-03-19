@@ -1,0 +1,76 @@
+
+lv_50.png
+size: 1856,1304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1085, 218
+  size: 540, 470
+  orig: 540, 470
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 6
+  size: 511, 1294
+  orig: 511, 1294
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 515, 142
+  size: 568, 616
+  orig: 568, 616
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 515, 760
+  size: 540, 1320
+  orig: 540, 1320
+  offset: 0, 0
+  index: -1
+kc
+  rotate: true
+  xy: 971, 59
+  size: 81, 178
+  orig: 81, 178
+  offset: 0, 0
+  index: -1
+kc_lap_lanh
+  rotate: false
+  xy: 515, 2
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+vase
+  rotate: false
+  xy: 1557, 405
+  size: 297, 353
+  orig: 297, 353
+  offset: 0, 0
+  index: -1
+xuong_1
+  rotate: false
+  xy: 1151, 39
+  size: 320, 177
+  orig: 320, 177
+  offset: 0, 0
+  index: -1
+xuong_2
+  rotate: false
+  xy: 1557, 174
+  size: 234, 229
+  orig: 234, 229
+  offset: 0, 0
+  index: -1
+xuong_3
+  rotate: false
+  xy: 655, 25
+  size: 314, 115
+  orig: 314, 115
+  offset: 0, 0
+  index: -1

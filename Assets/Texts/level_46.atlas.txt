@@ -1,0 +1,202 @@
+
+level_46.png
+size: 1468,1468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 829, 34
+  size: 198, 149
+  orig: 198, 149
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 22
+  size: 540, 653
+  orig: 540, 653
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 981, 827
+  size: 275, 275
+  orig: 275, 275
+  offset: 0, 0
+  index: -1
+diamond
+  rotate: true
+  xy: 1211, 130
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 1115, 195
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: false
+  xy: 1134, 39
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+fgirl_ace
+  rotate: false
+  xy: 1340, 357
+  size: 126, 146
+  orig: 126, 146
+  offset: 0, 0
+  index: -1
+girl_body
+  rotate: false
+  xy: 829, 234
+  size: 138, 380
+  orig: 138, 380
+  offset: 0, 0
+  index: -1
+girl_eye
+  rotate: false
+  xy: 1134, 112
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+girl_hair
+  rotate: true
+  xy: 1172, 344
+  size: 159, 166
+  orig: 159, 166
+  offset: 0, 0
+  index: -1
+girl_hair2
+  rotate: true
+  xy: 1264, 203
+  size: 139, 84
+  orig: 139, 84
+  offset: 0, 0
+  index: -1
+girl_hand2
+  rotate: false
+  xy: 981, 677
+  size: 248, 148
+  orig: 248, 148
+  offset: 0, 0
+  index: -1
+girl_handl
+  rotate: true
+  xy: 1231, 677
+  size: 108, 214
+  orig: 108, 214
+  offset: 0, 0
+  index: -1
+girl_leg
+  rotate: true
+  xy: 981, 1214
+  size: 252, 485
+  orig: 252, 485
+  offset: 0, 0
+  index: -1
+girl_leg2
+  rotate: true
+  xy: 981, 1104
+  size: 108, 461
+  orig: 108, 461
+  offset: 0, 0
+  index: -1
+girlmouth
+  rotate: false
+  xy: 439, 588
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+guard
+  rotate: false
+  xy: 2, 564
+  size: 435, 902
+  orig: 435, 902
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1342, 544
+  size: 131, 109
+  orig: 131, 109
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1258, 787
+  size: 204, 315
+  orig: 204, 315
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 1172, 505
+  size: 168, 170
+  orig: 168, 170
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: false
+  xy: 657, 11
+  size: 170, 603
+  orig: 170, 603
+  offset: 0, 0
+  index: -1
+left leg copy
+  rotate: true
+  xy: 439, 616
+  size: 193, 525
+  orig: 193, 525
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 980, 145
+  size: 133, 152
+  orig: 133, 152
+  offset: 0, 0
+  index: -1
+mouth copy
+  rotate: true
+  xy: 980, 10
+  size: 133, 152
+  orig: 133, 152
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1080, 365
+  size: 310, 90
+  orig: 310, 90
+  offset: 0, 0
+  index: -1
+shadow 2
+  rotate: false
+  xy: 439, 811
+  size: 540, 655
+  orig: 540, 655
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: true
+  xy: 969, 299
+  size: 376, 109
+  orig: 376, 109
+  offset: 0, 0
+  index: -1
+switch
+  rotate: false
+  xy: 1350, 225
+  size: 95, 130
+  orig: 95, 130
+  offset: 0, 0
+  index: -1

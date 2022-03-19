@@ -1,0 +1,62 @@
+
+level_83.png
+size: 1880,1932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HAPPY
+  rotate: true
+  xy: 1225, 943
+  size: 582, 282
+  orig: 582, 282
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 2, 918
+  size: 1009, 1024
+  orig: 1009, 1024
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 915, 14
+  size: 881, 902
+  orig: 881, 902
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 2, 2
+  size: 911, 914
+  orig: 911, 914
+  offset: 0, 0
+  index: -1
+cream cake
+  rotate: true
+  xy: 1509, 923
+  size: 241, 150
+  orig: 241, 150
+  offset: 0, 0
+  index: -1
+fridge
+  rotate: true
+  xy: 1225, 1527
+  size: 400, 631
+  orig: 400, 631
+  offset: 0, 0
+  index: -1
+kitchen
+  rotate: true
+  xy: 1028, 1008
+  size: 919, 195
+  orig: 919, 195
+  offset: 0, 0
+  index: -1
+vegetabble
+  rotate: false
+  xy: 1509, 1166
+  size: 366, 359
+  orig: 366, 359
+  offset: 0, 0
+  index: -1

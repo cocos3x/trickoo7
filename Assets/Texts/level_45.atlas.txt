@@ -1,0 +1,181 @@
+
+level_45.png
+size: 1212,884
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++ copy
+  rotate: true
+  xy: 1125, 243
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
++ copy 2
+  rotate: true
+  xy: 1125, 243
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+dau_cong
+  rotate: true
+  xy: 1125, 243
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+=
+  rotate: true
+  xy: 1165, 364
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+= copy
+  rotate: true
+  xy: 1165, 364
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+= copy 2
+  rotate: true
+  xy: 1165, 364
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+A
+  rotate: false
+  xy: 1053, 220
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+B
+  rotate: true
+  xy: 1053, 77
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 1053, 137
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 1053, 558
+  size: 135, 161
+  orig: 135, 161
+  offset: 0, 0
+  index: -1
+Layer 1 copy
+  rotate: false
+  xy: 1053, 558
+  size: 135, 161
+  orig: 135, 161
+  offset: 0, 0
+  index: -1
+Layer 1 copy 2
+  rotate: false
+  xy: 1053, 558
+  size: 135, 161
+  orig: 135, 161
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 1053, 721
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+Layer 2 copy
+  rotate: true
+  xy: 1053, 721
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 1053, 300
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+Layer 3 copy
+  rotate: true
+  xy: 1053, 300
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+Layer 3 copy 2
+  rotate: true
+  xy: 1053, 300
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+bang
+  rotate: false
+  xy: 2, 2
+  size: 1049, 879
+  orig: 1049, 879
+  offset: 0, 0
+  index: -1
+dau_hoi
+  rotate: true
+  xy: 1120, 170
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+dau_tru
+  rotate: false
+  xy: 1120, 154
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+kim cuong
+  rotate: true
+  xy: 1053, 421
+  size: 135, 114
+  orig: 135, 114
+  offset: 0, 0
+  index: -1
+kim cuong copy
+  rotate: true
+  xy: 1053, 421
+  size: 135, 114
+  orig: 135, 114
+  offset: 0, 0
+  index: -1
+kim cuong copy 2
+  rotate: true
+  xy: 1053, 421
+  size: 135, 114
+  orig: 135, 114
+  offset: 0, 0
+  index: -1
+kim cuong copy 3
+  rotate: true
+  xy: 1053, 421
+  size: 135, 114
+  orig: 135, 114
+  offset: 0, 0
+  index: -1
+lap_lanh
+  rotate: false
+  xy: 1165, 332
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

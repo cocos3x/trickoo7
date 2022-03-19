@@ -1,0 +1,293 @@
+
+level_81.png
+size: 1968,1260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BC
+  rotate: true
+  xy: 1487, 2
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1
+Bantay_Pdf
+  rotate: false
+  xy: 592, 27
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+Bantay_Pf
+  rotate: false
+  xy: 1232, 171
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+Baptay_Pdf
+  rotate: false
+  xy: 1501, 532
+  size: 201, 122
+  orig: 201, 122
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 1186, 2
+  size: 160, 146
+  orig: 160, 146
+  offset: 0, 0
+  index: -1
+Khuytay_Pdf
+  rotate: true
+  xy: 1161, 150
+  size: 188, 69
+  orig: 188, 69
+  offset: 0, 0
+  index: -1
+Toc
+  rotate: true
+  xy: 1260, 510
+  size: 247, 239
+  orig: 247, 239
+  offset: 0, 0
+  index: -1
+Vay2
+  rotate: false
+  xy: 674, 759
+  size: 826, 274
+  orig: 826, 274
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 379, 3
+  size: 211, 62
+  orig: 211, 62
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 674, 1035
+  size: 1060, 223
+  orig: 1060, 223
+  offset: 0, 0
+  index: -1
+botuong
+  rotate: false
+  xy: 2, 380
+  size: 670, 878
+  orig: 670, 878
+  offset: 0, 0
+  index: -1
+csBC1
+  rotate: false
+  xy: 1781, 88
+  size: 114, 97
+  orig: 114, 97
+  offset: 0, 0
+  index: -1
+csBC2
+  rotate: false
+  xy: 1897, 93
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+csBaptay_T1
+  rotate: true
+  xy: 1232, 229
+  size: 141, 222
+  orig: 141, 222
+  offset: 0, 0
+  index: -1
+csChna_Ps
+  rotate: true
+  xy: 674, 340
+  size: 136, 527
+  orig: 136, 527
+  offset: 0, 0
+  index: -1
+csChna_TYsd
+  rotate: true
+  xy: 657, 11
+  size: 136, 527
+  orig: 136, 527
+  offset: 0, 0
+  index: -1
+csbantay _P1
+  rotate: false
+  xy: 1778, 6
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+csbantay_T1
+  rotate: false
+  xy: 1841, 11
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+csbaptay_Psd
+  rotate: true
+  xy: 1485, 271
+  size: 138, 186
+  orig: 138, 186
+  offset: 0, 0
+  index: -1
+csbody2
+  rotate: true
+  xy: 2, 67
+  size: 311, 653
+  orig: 311, 653
+  offset: 0, 0
+  index: -1
+csbongb4
+  rotate: true
+  xy: 1862, 663
+  size: 349, 74
+  orig: 349, 74
+  offset: 0, 0
+  index: -1
+cskhuytay _P2
+  rotate: true
+  xy: 1501, 411
+  size: 119, 187
+  orig: 119, 187
+  offset: 0, 0
+  index: -1
+cskhuytay_T3
+  rotate: false
+  xy: 1834, 304
+  size: 131, 178
+  orig: 131, 178
+  offset: 0, 0
+  index: -1
+csmu
+  rotate: true
+  xy: 1736, 1014
+  size: 244, 225
+  orig: 244, 225
+  offset: 0, 0
+  index: -1
+ht_BC1
+  rotate: true
+  xy: 1487, 83
+  size: 186, 176
+  orig: 186, 176
+  offset: 0, 0
+  index: -1
+ht_BC2
+  rotate: true
+  xy: 1901, 23
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+ht_Bantay_Psd
+  rotate: true
+  xy: 1665, 4
+  size: 80, 111
+  orig: 80, 111
+  offset: 0, 0
+  index: -1
+ht_Baty_Pa
+  rotate: false
+  xy: 1348, 28
+  size: 137, 199
+  orig: 137, 199
+  offset: 0, 0
+  index: -1
+ht_Baty_Td
+  rotate: false
+  xy: 1260, 372
+  size: 223, 136
+  orig: 223, 136
+  offset: 0, 0
+  index: -1
+ht_Body3
+  rotate: false
+  xy: 1502, 656
+  size: 200, 377
+  orig: 200, 377
+  offset: 0, 0
+  index: -1
+ht_Chan_T_CHangtrai copy
+  rotate: false
+  xy: 1704, 487
+  size: 156, 525
+  orig: 156, 525
+  offset: 0, 0
+  index: -1
+ht_Chan_T_CHangtrais
+  rotate: true
+  xy: 657, 149
+  size: 189, 502
+  orig: 189, 502
+  offset: 0, 0
+  index: -1
+ht_Khuytay_P2
+  rotate: false
+  xy: 1862, 484
+  size: 86, 177
+  orig: 86, 177
+  offset: 0, 0
+  index: -1
+ht_Khuytay_Tsd
+  rotate: false
+  xy: 1665, 86
+  size: 114, 183
+  orig: 114, 183
+  offset: 0, 0
+  index: -1
+ht_Layer 30
+  rotate: false
+  xy: 2, 4
+  size: 375, 61
+  orig: 375, 61
+  offset: 0, 0
+  index: -1
+ht_Toc1
+  rotate: false
+  xy: 1781, 187
+  size: 182, 115
+  orig: 182, 115
+  offset: 0, 0
+  index: -1
+ht_bantaycamdao
+  rotate: true
+  xy: 1574, 19
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+ht_facesád
+  rotate: false
+  xy: 1690, 310
+  size: 142, 175
+  orig: 142, 175
+  offset: 0, 0
+  index: -1
+huytsao_BC2
+  rotate: false
+  xy: 1690, 507
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+mau
+  rotate: false
+  xy: 674, 478
+  size: 584, 279
+  orig: 584, 279
+  offset: 0, 0
+  index: -1
+nhac
+  rotate: false
+  xy: 1938, 958
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1

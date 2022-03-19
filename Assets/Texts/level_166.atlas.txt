@@ -1,0 +1,349 @@
+
+level_166.png
+size: 1988,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1536, 96
+  size: 153, 156
+  orig: 153, 156
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1111, 14
+  size: 180, 191
+  orig: 182, 192
+  offset: 1, 0
+  index: -1
+3
+  rotate: false
+  xy: 409, 2
+  size: 148, 147
+  orig: 148, 147
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1019, 207
+  size: 215, 213
+  orig: 215, 213
+  offset: 0, 0
+  index: -1
+Bady 1Lawer 8
+  rotate: false
+  xy: 1799, 123
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Bady 1Layer 8 cđsaopy
+  rotate: true
+  xy: 1851, 277
+  size: 49, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+Bady 1ad
+  rotate: true
+  xy: 2, 109
+  size: 313, 100
+  orig: 313, 100
+  offset: 0, 0
+  index: -1
+LaBady 3er 10
+  rotate: true
+  xy: 2, 109
+  size: 313, 100
+  orig: 313, 100
+  offset: 0, 0
+  index: -1
+boy2_sdbogn
+  rotate: true
+  xy: 2, 109
+  size: 313, 100
+  orig: 313, 100
+  offset: 0, 0
+  index: -1
+Bady 1ayer asdaf copy
+  rotate: false
+  xy: 1826, 52
+  size: 57, 47
+  orig: 57, 48
+  offset: 0, 1
+  index: -1
+Bady 1baptay copy
+  rotate: false
+  xy: 1835, 328
+  size: 83, 94
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+Bady 1baptsday
+  rotate: false
+  xy: 2, 3
+  size: 64, 104
+  orig: 65, 104
+  offset: 0, 0
+  index: -1
+Bady 1bc1ad
+  rotate: true
+  xy: 1569, 270
+  size: 152, 148
+  orig: 153, 148
+  offset: 1, 0
+  index: -1
+Bady 1bc2
+  rotate: true
+  xy: 1691, 118
+  size: 150, 106
+  orig: 150, 106
+  offset: 0, 0
+  index: -1
+Bady 1body
+  rotate: false
+  xy: 1378, 81
+  size: 156, 168
+  orig: 156, 168
+  offset: 0, 0
+  index: -1
+Bady 1chanaw
+  rotate: true
+  xy: 1234, 244
+  size: 178, 83
+  orig: 178, 83
+  offset: 0, 0
+  index: -1
+Bady 1chdqwn
+  rotate: true
+  xy: 1911, 219
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+Bady 1chsdf
+  rotate: true
+  xy: 905, 7
+  size: 194, 101
+  orig: 194, 101
+  offset: 0, 0
+  index: -1
+Bady 1dsLayer 9
+  rotate: false
+  xy: 1920, 361
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+Bady 1facesd
+  rotate: false
+  xy: 601, 180
+  size: 219, 242
+  orig: 220, 242
+  offset: 0, 0
+  index: -1
+Bady 1huytay copy
+  rotate: true
+  xy: 1906, 85
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+Bady 1khuaegytay
+  rotate: true
+  xy: 1568, 9
+  size: 85, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+Bady 1khuysaday copy
+  rotate: true
+  xy: 1719, 325
+  size: 97, 56
+  orig: 98, 56
+  offset: 1, 0
+  index: -1
+Bady 1runiHOANTH9IEN copy
+  rotate: false
+  xy: 307, 19
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
+Bady 3Layer 15
+  rotate: true
+  xy: 1920, 303
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+Bady 3Layer 8
+  rotate: false
+  xy: 1885, 32
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+Bady 3ayer 14
+  rotate: true
+  xy: 559, 35
+  size: 114, 74
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+Bady 3baptay
+  rotate: false
+  xy: 68, 3
+  size: 64, 104
+  orig: 65, 104
+  offset: 1, 0
+  index: -1
+Bady 3baptay copy
+  rotate: false
+  xy: 1826, 176
+  size: 83, 94
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+Bady 3bc1
+  rotate: true
+  xy: 791, 7
+  size: 171, 112
+  orig: 171, 112
+  offset: 0, 0
+  index: -1
+Bady 3bc2
+  rotate: false
+  xy: 134, 15
+  size: 171, 118
+  orig: 171, 118
+  offset: 0, 0
+  index: -1
+Bady 3bodady
+  rotate: false
+  xy: 1411, 254
+  size: 156, 168
+  orig: 156, 168
+  offset: 0, 0
+  index: -1
+Bady 3chan
+  rotate: true
+  xy: 1911, 135
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+Bady 3chank
+  rotate: true
+  xy: 1008, 7
+  size: 194, 101
+  orig: 194, 101
+  offset: 0, 0
+  index: -1
+Bady 3facse
+  rotate: true
+  xy: 822, 203
+  size: 219, 195
+  orig: 220, 195
+  offset: 1, 0
+  index: -1
+Bady 3han
+  rotate: true
+  xy: 1293, 64
+  size: 178, 83
+  orig: 178, 83
+  offset: 0, 0
+  index: -1
+Bady 3khuytaay
+  rotate: true
+  xy: 1666, 9
+  size: 85, 96
+  orig: 86, 96
+  offset: 1, 0
+  index: -1
+Bady 3khuytay copy
+  rotate: true
+  xy: 1777, 325
+  size: 97, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+LBady 3ayer 8 copy
+  rotate: false
+  xy: 1826, 3
+  size: 57, 47
+  orig: 57, 48
+  offset: 0, 1
+  index: -1
+boy2_Layer 19sa
+  rotate: true
+  xy: 383, 151
+  size: 271, 216
+  orig: 271, 216
+  offset: 0, 0
+  index: -1
+boy2_Layer 20dfdau
+  rotate: false
+  xy: 104, 135
+  size: 277, 287
+  orig: 277, 287
+  offset: 0, 0
+  index: -1
+boy2_Layer 23 copysd
+  rotate: true
+  xy: 1293, 2
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+boy2_Layer 23f
+  rotate: false
+  xy: 1764, 7
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+boy2_Layer 26
+  rotate: true
+  xy: 1847, 101
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+boy2_bc1
+  rotate: false
+  xy: 1404, 2
+  size: 162, 77
+  orig: 162, 77
+  offset: 0, 0
+  index: -1
+boy2_c2
+  rotate: true
+  xy: 1319, 251
+  size: 171, 90
+  orig: 172, 90
+  offset: 0, 0
+  index: -1
+boy2_tay copys
+  rotate: false
+  xy: 1785, 272
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+boy2_taya
+  rotate: false
+  xy: 1719, 272
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+rubi
+  rotate: false
+  xy: 635, 2
+  size: 154, 176
+  orig: 154, 176
+  offset: 0, 0
+  index: -1

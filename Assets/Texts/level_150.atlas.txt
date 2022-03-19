@@ -1,0 +1,41 @@
+
+level_150.png
+size: 860,860
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: true
+  xy: 291, 572
+  size: 285, 395
+  orig: 285, 395
+  offset: 0, 0
+  index: -1
+J
+  rotate: true
+  xy: 291, 287
+  size: 283, 393
+  orig: 283, 393
+  offset: 0, 0
+  index: -1
+J dung copy
+  rotate: false
+  xy: 2, 460
+  size: 287, 397
+  orig: 287, 397
+  offset: 0, 0
+  index: -1
+Q
+  rotate: true
+  xy: 291, 2
+  size: 283, 393
+  orig: 283, 393
+  offset: 0, 0
+  index: -1
+matsau2
+  rotate: false
+  xy: 2, 62
+  size: 287, 396
+  orig: 287, 396
+  offset: 0, 0
+  index: -1

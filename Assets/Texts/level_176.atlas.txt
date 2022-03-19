@@ -1,0 +1,76 @@
+
+level_176.png
+size: 764,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 7
+  rotate: true
+  xy: 535, 198
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+May copy
+  rotate: true
+  xy: 608, 648
+  size: 312, 151
+  orig: 312, 151
+  offset: 0, 0
+  index: -1
+May copy 4
+  rotate: false
+  xy: 484, 47
+  size: 264, 131
+  orig: 264, 131
+  offset: 0, 0
+  index: -1
+May copy 5
+  rotate: false
+  xy: 210, 47
+  size: 272, 131
+  orig: 272, 131
+  offset: 0, 0
+  index: -1
+bantay
+  rotate: false
+  xy: 608, 264
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1
+cnah tay
+  rotate: false
+  xy: 608, 373
+  size: 145, 273
+  orig: 145, 273
+  offset: 0, 0
+  index: -1
+day
+  rotate: false
+  xy: 2, 196
+  size: 531, 764
+  orig: 531, 764
+  offset: 0, 0
+  index: -1
+daythang
+  rotate: true
+  xy: 2, 180
+  size: 14, 755
+  orig: 14, 755
+  offset: 0, 0
+  index: -1
+dong nuoc
+  rotate: true
+  xy: 535, 245
+  size: 715, 71
+  orig: 716, 71
+  offset: 1, 0
+  index: -1
+fish
+  rotate: true
+  xy: 2, 2
+  size: 176, 206
+  orig: 176, 206
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+level_74.png
+size: 592,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BC
+  rotate: false
+  xy: 415, 108
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1
+BC copy 2
+  rotate: false
+  xy: 245, 177
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 312, 342
+  size: 277, 247
+  orig: 277, 247
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 210, 176
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+Tail_T
+  rotate: false
+  xy: 2, 205
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+Tail_T copy
+  rotate: false
+  xy: 106, 205
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+Tay_t
+  rotate: false
+  xy: 210, 232
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+Tay_t copy
+  rotate: false
+  xy: 432, 162
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 315
+  size: 308, 274
+  orig: 308, 274
+  offset: 0, 0
+  index: -1
+chanheo
+  rotate: false
+  xy: 520, 88
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+chanheo copy
+  rotate: false
+  xy: 520, 88
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 359, 86
+  size: 105, 54
+  orig: 105, 54
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 553, 173
+  size: 167, 32
+  orig: 167, 32
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 183
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+q_74.1
+  rotate: false
+  xy: 312, 245
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+q_74.2
+  rotate: false
+  xy: 298, 193
+  size: 132, 50
+  orig: 132, 50
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 98
+  size: 355, 73
+  orig: 355, 73
+  offset: 0, 0
+  index: -1

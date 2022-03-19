@@ -1,0 +1,69 @@
+
+ban_tay.png
+size: 1312,1088
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 497, 832
+  size: 253, 177
+  orig: 253, 177
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 497, 417
+  size: 268, 130
+  orig: 268, 130
+  offset: 0, 0
+  index: -1
+effect
+  rotate: true
+  xy: 497, 687
+  size: 143, 152
+  orig: 143, 152
+  offset: 0, 0
+  index: -1
+hulk_tay_ph
+  rotate: false
+  xy: 288, 421
+  size: 207, 664
+  orig: 210, 664
+  offset: 0, 0
+  index: -1
+hulk_tay_tr
+  rotate: true
+  xy: 684, 22
+  size: 439, 546
+  orig: 439, 546
+  offset: 0, 0
+  index: -1
+spiderman_tayph
+  rotate: false
+  xy: 2, 402
+  size: 284, 683
+  orig: 337, 683
+  offset: 25, 0
+  index: -1
+spiderman_taytr
+  rotate: true
+  xy: 2, 2
+  size: 398, 680
+  orig: 400, 682
+  offset: 2, 0
+  index: -1
+thano2
+  rotate: true
+  xy: 684, 762
+  size: 323, 625
+  orig: 349, 632
+  offset: 16, 0
+  index: -1
+thanos
+  rotate: true
+  xy: 651, 463
+  size: 297, 654
+  orig: 297, 654
+  offset: 0, 0
+  index: -1

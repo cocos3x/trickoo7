@@ -1,0 +1,286 @@
+
+level_171.png
+size: 1660,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 1349, 201
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+bc
+  rotate: false
+  xy: 1363, 135
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+bc2
+  rotate: false
+  xy: 1445, 136
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+bc3
+  rotate: true
+  xy: 1124, 131
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+bong
+  rotate: true
+  xy: 550, 58
+  size: 252, 53
+  orig: 252, 53
+  offset: 0, 0
+  index: -1
+gk_bc
+  rotate: false
+  xy: 1606, 42
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+gk_bc2
+  rotate: false
+  xy: 550, 4
+  size: 83, 52
+  orig: 83, 52
+  offset: 0, 0
+  index: -1
+gk_bc3
+  rotate: false
+  xy: 1579, 87
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+gk_btay1
+  rotate: false
+  xy: 1478, 5
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+gk_btay2
+  rotate: true
+  xy: 1549, 94
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+gk_chan1
+  rotate: false
+  xy: 803, 2
+  size: 44, 99
+  orig: 44, 99
+  offset: 0, 0
+  index: -1
+gk_chan2
+  rotate: false
+  xy: 1358, 30
+  size: 45, 101
+  orig: 45, 101
+  offset: 0, 0
+  index: -1
+gk_dau
+  rotate: true
+  xy: 1579, 236
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+gk_dui1
+  rotate: false
+  xy: 1484, 137
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+gk_dui2
+  rotate: true
+  xy: 635, 2
+  size: 95, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+gk_giay1
+  rotate: true
+  xy: 1562, 23
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+gk_giay2
+  rotate: true
+  xy: 1400, 136
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+gk_hong
+  rotate: false
+  xy: 1286, 133
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+gk_tay1
+  rotate: true
+  xy: 1537, 241
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+gk_tay2
+  rotate: false
+  xy: 1405, 3
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1
+gk_than
+  rotate: false
+  xy: 715, 2
+  size: 86, 99
+  orig: 86, 99
+  offset: 0, 0
+  index: -1
+gk_vai1
+  rotate: false
+  xy: 1579, 146
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+gk_vai2
+  rotate: false
+  xy: 1579, 193
+  size: 79, 41
+  orig: 79, 41
+  offset: 0, 0
+  index: -1
+gon
+  rotate: false
+  xy: 2, 10
+  size: 546, 300
+  orig: 546, 300
+  offset: 0, 0
+  index: -1
+td_ao
+  rotate: false
+  xy: 856, 127
+  size: 132, 183
+  orig: 132, 183
+  offset: 0, 0
+  index: -1
+td_bchan1
+  rotate: true
+  xy: 1460, 216
+  size: 94, 75
+  orig: 94, 75
+  offset: 0, 0
+  index: -1
+td_bchan2
+  rotate: true
+  xy: 849, 3
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+td_btay1
+  rotate: true
+  xy: 1501, 37
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+td_btay2
+  rotate: false
+  xy: 1501, 88
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+td_chan1
+  rotate: true
+  xy: 1063, 2
+  size: 127, 179
+  orig: 127, 179
+  offset: 0, 0
+  index: -1
+td_chan2
+  rotate: false
+  xy: 990, 131
+  size: 132, 179
+  orig: 132, 179
+  offset: 0, 0
+  index: -1
+td_co
+  rotate: true
+  xy: 1207, 131
+  size: 40, 77
+  orig: 40, 77
+  offset: 0, 0
+  index: -1
+td_dau
+  rotate: true
+  xy: 916, 9
+  size: 116, 145
+  orig: 116, 145
+  offset: 0, 0
+  index: -1
+td_dui1
+  rotate: true
+  xy: 710, 103
+  size: 207, 144
+  orig: 207, 144
+  offset: 0, 0
+  index: -1
+td_dui2
+  rotate: false
+  xy: 605, 99
+  size: 103, 211
+  orig: 103, 211
+  offset: 0, 0
+  index: -1
+td_hong
+  rotate: true
+  xy: 1124, 173
+  size: 137, 90
+  orig: 137, 90
+  offset: 0, 0
+  index: -1
+td_tay1
+  rotate: false
+  xy: 1216, 173
+  size: 49, 137
+  orig: 49, 137
+  offset: 0, 0
+  index: -1
+td_tay2
+  rotate: false
+  xy: 1405, 34
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+td_vai1
+  rotate: false
+  xy: 1244, 3
+  size: 112, 126
+  orig: 112, 126
+  offset: 0, 0
+  index: -1
+td_vai2
+  rotate: false
+  xy: 1267, 185
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1

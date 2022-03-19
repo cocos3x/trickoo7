@@ -1,0 +1,125 @@
+
+level_146.png
+size: 2020,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 89
+  rotate: true
+  xy: 1913, 449
+  size: 215, 63
+  orig: 215, 63
+  offset: 0, 0
+  index: -1
+TABLE
+  rotate: false
+  xy: 966, 666
+  size: 872, 355
+  orig: 872, 355
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 1268, 14
+  size: 274, 197
+  orig: 274, 197
+  offset: 0, 0
+  index: -1
+chair
+  rotate: true
+  xy: 966, 213
+  size: 451, 542
+  orig: 451, 542
+  offset: 0, 0
+  index: -1
+doc
+  rotate: false
+  xy: 2, 129
+  size: 962, 892
+  orig: 962, 892
+  offset: 0, 0
+  index: -1
+doc_2
+  rotate: true
+  xy: 1510, 228
+  size: 436, 401
+  orig: 436, 401
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 966, 3
+  size: 208, 300
+  orig: 208, 300
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 1913, 243
+  size: 99, 204
+  orig: 99, 204
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1721, 70
+  size: 147, 156
+  orig: 147, 156
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 1870, 70
+  size: 147, 156
+  orig: 147, 156
+  offset: 0, 0
+  index: -1
+key
+  rotate: false
+  xy: 795, 39
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+leg_f
+  rotate: true
+  xy: 397, 20
+  size: 107, 396
+  orig: 107, 396
+  offset: 0, 0
+  index: -1
+leg_f copy
+  rotate: true
+  xy: 2, 2
+  size: 125, 393
+  orig: 125, 393
+  offset: 0, 0
+  index: -1
+shirt
+  rotate: false
+  xy: 1840, 794
+  size: 151, 227
+  orig: 151, 227
+  offset: 0, 0
+  index: -1
+shoulder_l
+  rotate: true
+  xy: 1840, 666
+  size: 62, 147
+  orig: 62, 147
+  offset: 0, 0
+  index: -1
+shoulder_r
+  rotate: true
+  xy: 1840, 730
+  size: 62, 148
+  orig: 62, 148
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 1544, 32
+  size: 175, 194
+  orig: 175, 194
+  offset: 0, 0
+  index: -1

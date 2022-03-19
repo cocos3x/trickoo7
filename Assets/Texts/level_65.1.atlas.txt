@@ -1,0 +1,83 @@
+
+level_65.1.png
+size: 704,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl_1
+  rotate: false
+  xy: 445, 9
+  size: 96, 151
+  orig: 96, 151
+  offset: 0, 0
+  index: -1
+girl_1vay
+  rotate: true
+  xy: 396, 162
+  size: 133, 240
+  orig: 133, 240
+  offset: 0, 0
+  index: -1
+girl_2
+  rotate: false
+  xy: 638, 136
+  size: 56, 159
+  orig: 56, 159
+  offset: 0, 0
+  index: -1
+girl_3
+  rotate: true
+  xy: 2, 18
+  size: 113, 106
+  orig: 113, 106
+  offset: 0, 0
+  index: -1
+girl_5
+  rotate: false
+  xy: 612, 44
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+girl_6
+  rotate: false
+  xy: 346, 2
+  size: 97, 158
+  orig: 97, 158
+  offset: 0, 0
+  index: -1
+girl_7
+  rotate: true
+  xy: 2, 210
+  size: 85, 392
+  orig: 85, 392
+  offset: 0, 0
+  index: -1
+girl_8
+  rotate: true
+  xy: 2, 133
+  size: 75, 342
+  orig: 78, 342
+  offset: 0, 0
+  index: -1
+girl_9
+  rotate: true
+  xy: 543, 38
+  size: 122, 67
+  orig: 122, 67
+  offset: 0, 0
+  index: -1
+girl_Angry
+  rotate: true
+  xy: 110, 24
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+girl_smile
+  rotate: false
+  xy: 207, 36
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1

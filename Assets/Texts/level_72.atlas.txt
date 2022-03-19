@@ -1,0 +1,153 @@
+
+level_72.png
+size: 948,948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: true
+  xy: 2, 926
+  size: 19, 133
+  orig: 19, 133
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 137, 926
+  size: 19, 132
+  orig: 19, 132
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 271, 926
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 406, 926
+  size: 19, 132
+  orig: 19, 132
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 540, 926
+  size: 19, 133
+  orig: 19, 133
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 675, 926
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1
+m
+  rotate: true
+  xy: 810, 926
+  size: 19, 133
+  orig: 19, 133
+  offset: 0, 0
+  index: -1
+m10
+  rotate: true
+  xy: 137, 884
+  size: 19, 133
+  orig: 19, 133
+  offset: 0, 0
+  index: -1
+m11
+  rotate: false
+  xy: 272, 884
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1
+m12
+  rotate: false
+  xy: 407, 884
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1
+m13
+  rotate: true
+  xy: 542, 884
+  size: 19, 133
+  orig: 19, 133
+  offset: 0, 0
+  index: -1
+m14
+  rotate: false
+  xy: 677, 884
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1
+m14.1
+  rotate: true
+  xy: 812, 884
+  size: 19, 133
+  orig: 19, 133
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 2, 905
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1
+m3
+  rotate: false
+  xy: 137, 905
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1
+m4
+  rotate: true
+  xy: 272, 905
+  size: 19, 133
+  orig: 19, 133
+  offset: 0, 0
+  index: -1
+m5
+  rotate: false
+  xy: 407, 905
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1
+m6
+  rotate: false
+  xy: 542, 905
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1
+m7
+  rotate: true
+  xy: 677, 905
+  size: 19, 133
+  orig: 19, 133
+  offset: 0, 0
+  index: -1
+m8
+  rotate: false
+  xy: 812, 905
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1
+m9
+  rotate: false
+  xy: 2, 884
+  size: 133, 19
+  orig: 133, 19
+  offset: 0, 0
+  index: -1

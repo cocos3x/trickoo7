@@ -1,0 +1,202 @@
+
+level_14.png
+size: 1224,1224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baptay_phai
+  rotate: false
+  xy: 1116, 426
+  size: 73, 176
+  orig: 73, 176
+  offset: 0, 0
+  index: -1
+Baptay_trai
+  rotate: false
+  xy: 1032, 604
+  size: 185, 162
+  orig: 185, 162
+  offset: 0, 0
+  index: -1
+Dui_Trai copy
+  rotate: true
+  xy: 298, 1090
+  size: 129, 702
+  orig: 129, 702
+  offset: 0, 0
+  index: -1
+FACE
+  rotate: false
+  xy: 471, 69
+  size: 148, 187
+  orig: 148, 187
+  offset: 0, 0
+  index: -1
+Group 4
+  rotate: true
+  xy: 2, 16
+  size: 231, 302
+  orig: 231, 302
+  offset: 0, 0
+  index: -1
+Layer 167
+  rotate: true
+  xy: 939, 597
+  size: 364, 91
+  orig: 364, 91
+  offset: 0, 0
+  index: -1
+Layer 167 copy
+  rotate: true
+  xy: 804, 230
+  size: 365, 123
+  orig: 365, 123
+  offset: 0, 0
+  index: -1
+Mat troi
+  rotate: true
+  xy: 2, 249
+  size: 380, 352
+  orig: 380, 352
+  offset: 0, 0
+  index: -1
+Tocmai
+  rotate: true
+  xy: 306, 37
+  size: 210, 163
+  orig: 210, 163
+  offset: 0, 0
+  index: -1
+Vay
+  rotate: false
+  xy: 356, 258
+  size: 271, 374
+  orig: 271, 374
+  offset: 0, 0
+  index: -1
+bantay_Trai
+  rotate: false
+  xy: 1066, 77
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+bc1
+  rotate: false
+  xy: 946, 38
+  size: 118, 101
+  orig: 118, 101
+  offset: 0, 0
+  index: -1
+bc2
+  rotate: true
+  xy: 1057, 151
+  size: 126, 90
+  orig: 126, 90
+  offset: 0, 0
+  index: -1
+bikini
+  rotate: false
+  xy: 1002, 1093
+  size: 211, 126
+  orig: 211, 126
+  offset: 0, 0
+  index: -1
+bikini copy
+  rotate: true
+  xy: 1032, 768
+  size: 214, 162
+  orig: 214, 162
+  offset: 0, 0
+  index: -1
+da mat hong
+  rotate: false
+  xy: 804, 96
+  size: 140, 132
+  orig: 140, 132
+  offset: 0, 0
+  index: -1
+day dien
+  rotate: false
+  xy: 298, 634
+  size: 388, 327
+  orig: 388, 327
+  offset: 0, 0
+  index: -1
+dui Phai copy
+  rotate: true
+  xy: 298, 963
+  size: 125, 703
+  orig: 125, 703
+  offset: 0, 0
+  index: -1
+khuytay_Trai
+  rotate: false
+  xy: 1003, 984
+  size: 170, 107
+  orig: 170, 107
+  offset: 0, 0
+  index: -1
+khuytay_phai
+  rotate: false
+  xy: 1116, 291
+  size: 72, 133
+  orig: 72, 133
+  offset: 0, 0
+  index: -1
+line body
+  rotate: false
+  xy: 688, 597
+  size: 249, 364
+  orig: 249, 364
+  offset: 0, 0
+  index: -1
+o dien
+  rotate: true
+  xy: 629, 108
+  size: 487, 173
+  orig: 487, 173
+  offset: 0, 0
+  index: -1
+quat
+  rotate: false
+  xy: 2, 631
+  size: 294, 588
+  orig: 294, 588
+  offset: 0, 0
+  index: -1
+sweat
+  rotate: true
+  xy: 2, 3
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+toc sau
+  rotate: false
+  xy: 929, 279
+  size: 185, 316
+  orig: 185, 316
+  offset: 0, 0
+  index: -1
+vong_tai
+  rotate: false
+  xy: 1175, 1039
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+vong_tai copy
+  rotate: true
+  xy: 1066, 22
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 946, 141
+  size: 109, 136
+  orig: 109, 136
+  offset: 0, 0
+  index: -1

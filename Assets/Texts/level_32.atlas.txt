@@ -1,0 +1,41 @@
+
+level_32.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire
+  rotate: false
+  xy: 603, 54
+  size: 276, 440
+  orig: 276, 440
+  offset: 0, 0
+  index: -1
+fox
+  rotate: false
+  xy: 881, 234
+  size: 224, 260
+  orig: 224, 260
+  offset: 0, 0
+  index: -1
+khoi
+  rotate: false
+  xy: 1080, 76
+  size: 118, 156
+  orig: 118, 156
+  offset: 0, 0
+  index: -1
+meat
+  rotate: true
+  xy: 881, 2
+  size: 230, 197
+  orig: 230, 197
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 2, 73
+  size: 599, 421
+  orig: 640, 464
+  offset: 11, 8
+  index: -1

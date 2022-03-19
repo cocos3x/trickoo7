@@ -1,0 +1,314 @@
+
+level_104.png
+size: 1432,1432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 1286, 948
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+arm
+  rotate: true
+  xy: 1016, 708
+  size: 83, 243
+  orig: 83, 243
+  offset: 0, 0
+  index: -1
+arm copy
+  rotate: true
+  xy: 1015, 437
+  size: 64, 196
+  orig: 64, 196
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 119, 441
+  size: 199, 320
+  orig: 199, 320
+  offset: 0, 0
+  index: -1
+boy_1_Layer 4
+  rotate: false
+  xy: 274, 19
+  size: 133, 285
+  orig: 133, 285
+  offset: 0, 0
+  index: -1
+boy_1_Layer 5
+  rotate: true
+  xy: 856, 1037
+  size: 197, 428
+  orig: 197, 428
+  offset: 0, 0
+  index: -1
+boy_1_Layer 7
+  rotate: true
+  xy: 119, 374
+  size: 65, 156
+  orig: 65, 156
+  offset: 0, 0
+  index: -1
+boy_1_Layer 7 copy
+  rotate: false
+  xy: 891, 13
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1
+boy_2_Layer 7 copy
+  rotate: false
+  xy: 891, 13
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1
+boy_1_Layer 8
+  rotate: true
+  xy: 891, 134
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+boy_1_arm
+  rotate: true
+  xy: 314, 767
+  size: 77, 221
+  orig: 77, 221
+  offset: 0, 0
+  index: -1
+boy_1_arm copy 2
+  rotate: false
+  xy: 1287, 1232
+  size: 143, 198
+  orig: 143, 198
+  offset: 0, 0
+  index: -1
+boy_1_ayer 6
+  rotate: false
+  xy: 537, 566
+  size: 316, 278
+  orig: 316, 278
+  offset: 0, 0
+  index: -1
+boy_1_body
+  rotate: false
+  xy: 409, 24
+  size: 244, 280
+  orig: 244, 280
+  offset: 0, 0
+  index: -1
+boy_1_face
+  rotate: true
+  xy: 1195, 218
+  size: 148, 162
+  orig: 148, 162
+  offset: 0, 0
+  index: -1
+boy_1_hair
+  rotate: true
+  xy: 855, 570
+  size: 191, 159
+  orig: 191, 159
+  offset: 0, 0
+  index: -1
+boy_1_mouth copy
+  rotate: true
+  xy: 918, 244
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1
+boy_1_scaryface
+  rotate: false
+  xy: 1041, 19
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+boy_2_Layer 4
+  rotate: true
+  xy: 527, 308
+  size: 256, 188
+  orig: 256, 188
+  offset: 0, 0
+  index: -1
+boy_2_Layer 4 copy
+  rotate: true
+  xy: 717, 316
+  size: 248, 199
+  orig: 248, 199
+  offset: 0, 0
+  index: -1
+boy_2_Layer 5
+  rotate: false
+  xy: 856, 1236
+  size: 429, 194
+  orig: 429, 194
+  offset: 0, 0
+  index: -1
+boy_2_Layer 5 copy
+  rotate: false
+  xy: 856, 793
+  size: 410, 242
+  orig: 410, 242
+  offset: 0, 0
+  index: -1
+boy_2_Layer 7
+  rotate: false
+  xy: 1131, 22
+  size: 151, 99
+  orig: 151, 99
+  offset: 0, 0
+  index: -1
+boy_2_arm
+  rotate: false
+  xy: 1235, 368
+  size: 184, 161
+  orig: 184, 161
+  offset: 0, 0
+  index: -1
+boy_2_arm copy 2
+  rotate: false
+  xy: 1268, 763
+  size: 162, 183
+  orig: 162, 183
+  offset: 0, 0
+  index: -1
+boy_2_back hair
+  rotate: true
+  xy: 1016, 503
+  size: 203, 217
+  orig: 203, 217
+  offset: 0, 0
+  index: -1
+boy_2_body
+  rotate: false
+  xy: 2, 12
+  size: 270, 359
+  orig: 270, 359
+  offset: 0, 0
+  index: -1
+boy_2_face
+  rotate: false
+  xy: 1013, 123
+  size: 158, 134
+  orig: 158, 134
+  offset: 0, 0
+  index: -1
+boy_2_hair
+  rotate: true
+  xy: 1261, 580
+  size: 181, 164
+  orig: 181, 164
+  offset: 0, 0
+  index: -1
+boy_2_headphone
+  rotate: false
+  xy: 320, 597
+  size: 215, 168
+  orig: 215, 168
+  offset: 0, 0
+  index: -1
+boy_2_mouth copy
+  rotate: false
+  xy: 1274, 132
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+boy_2_mouth1
+  rotate: false
+  xy: 1359, 294
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+face copy
+  rotate: false
+  xy: 1286, 1081
+  size: 136, 149
+  orig: 136, 149
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1015, 259
+  size: 176, 178
+  orig: 176, 178
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 320, 306
+  size: 289, 205
+  orig: 289, 205
+  offset: 0, 0
+  index: -1
+leg copy
+  rotate: false
+  xy: 655, 40
+  size: 234, 266
+  orig: 234, 266
+  offset: 0, 0
+  index: -1
+leg copy 2
+  rotate: false
+  xy: 2, 766
+  size: 310, 78
+  orig: 310, 78
+  offset: 0, 0
+  index: -1
+leg copy 3
+  rotate: true
+  xy: 2, 373
+  size: 388, 115
+  orig: 388, 115
+  offset: 0, 0
+  index: -1
+mouth copy 2
+  rotate: false
+  xy: 1173, 132
+  size: 99, 84
+  orig: 99, 84
+  offset: 0, 0
+  index: -1
+q_104.2
+  rotate: true
+  xy: 918, 419
+  size: 149, 95
+  orig: 149, 95
+  offset: 0, 0
+  index: -1
+q_104.3
+  rotate: true
+  xy: 1235, 531
+  size: 47, 188
+  orig: 47, 188
+  offset: 0, 0
+  index: -1
+q_104.4
+  rotate: false
+  xy: 277, 369
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+scaryface
+  rotate: true
+  xy: 918, 329
+  size: 88, 95
+  orig: 88, 95
+  offset: 0, 0
+  index: -1
+tham
+  rotate: false
+  xy: 2, 846
+  size: 852, 584
+  orig: 852, 584
+  offset: 0, 0
+  index: -1

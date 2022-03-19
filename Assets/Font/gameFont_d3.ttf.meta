@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 98f2ceb236f34ddea05ac08666bd08af
+timeCreated: 1647679152
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "gameFont"
+  fontNames:
+  - iCiel Cadena
+  - iCiel Pequena
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 6ce6aa800c770ae7328bc2bcdfb64b0d.bundle
+  assetBundleVariant: 

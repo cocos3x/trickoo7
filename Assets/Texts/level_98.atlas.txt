@@ -1,0 +1,76 @@
+
+level_98.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 86, 141
+  size: 111, 82
+  orig: 113, 84
+  offset: 1, 1
+  index: -1
+100
+  rotate: true
+  xy: 2, 77
+  size: 175, 82
+  orig: 175, 82
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 254, 133
+  size: 54, 55
+  orig: 56, 57
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: true
+  xy: 86, 28
+  size: 111, 82
+  orig: 113, 84
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 254, 190
+  size: 57, 62
+  orig: 59, 64
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: true
+  xy: 170, 141
+  size: 111, 82
+  orig: 113, 84
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: false
+  xy: 86, 2
+  size: 44, 24
+  orig: 46, 26
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: true
+  xy: 170, 28
+  size: 111, 82
+  orig: 113, 84
+  offset: 1, 1
+  index: -1
+Layer 8
+  rotate: true
+  xy: 254, 77
+  size: 54, 39
+  orig: 56, 41
+  offset: 1, 1
+  index: -1
+Layer 9
+  rotate: true
+  xy: 2, 19
+  size: 56, 82
+  orig: 58, 84
+  offset: 1, 1
+  index: -1

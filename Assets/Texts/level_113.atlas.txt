@@ -1,0 +1,83 @@
+
+level_113.png
+size: 1408,1408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bong
+  rotate: false
+  xy: 711, 1242
+  size: 695, 164
+  orig: 695, 164
+  offset: 0, 0
+  index: -1
+Kim
+  rotate: false
+  xy: 244, 1280
+  size: 265, 126
+  orig: 265, 126
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 785
+  size: 254, 248
+  orig: 254, 248
+  offset: 0, 0
+  index: -1
+chia khoa
+  rotate: false
+  xy: 2, 1337
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+cuon len
+  rotate: true
+  xy: 511, 1245
+  size: 161, 198
+  orig: 161, 198
+  offset: 0, 0
+  index: -1
+cuong khoa
+  rotate: true
+  xy: 100, 1318
+  size: 88, 142
+  orig: 88, 142
+  offset: 0, 0
+  index: -1
+gau bong
+  rotate: true
+  xy: 2, 1035
+  size: 243, 435
+  orig: 243, 435
+  offset: 0, 0
+  index: -1
+nap1
+  rotate: false
+  xy: 439, 999
+  size: 564, 241
+  orig: 564, 241
+  offset: 0, 0
+  index: -1
+nap2
+  rotate: false
+  xy: 258, 634
+  size: 507, 363
+  orig: 507, 363
+  offset: 0, 0
+  index: -1
+ruong
+  rotate: false
+  xy: 767, 614
+  size: 566, 378
+  orig: 566, 378
+  offset: 0, 0
+  index: -1
+so
+  rotate: false
+  xy: 1005, 994
+  size: 385, 246
+  orig: 385, 246
+  offset: 0, 0
+  index: -1

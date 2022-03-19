@@ -1,0 +1,216 @@
+
+level_174.png
+size: 1924,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boy_btay1
+  rotate: false
+  xy: 1110, 4
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+Boy_btay2
+  rotate: false
+  xy: 1678, 124
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+Boy_chan1
+  rotate: true
+  xy: 1183, 3
+  size: 127, 69
+  orig: 127, 69
+  offset: 0, 0
+  index: -1
+Boy_chan2
+  rotate: true
+  xy: 1785, 8
+  size: 82, 97
+  orig: 82, 97
+  offset: 0, 0
+  index: -1
+Boy_dau
+  rotate: false
+  xy: 1360, 156
+  size: 135, 158
+  orig: 135, 158
+  offset: 0, 0
+  index: -1
+Boy_dui1
+  rotate: false
+  xy: 1254, 6
+  size: 73, 125
+  orig: 73, 125
+  offset: 0, 0
+  index: -1
+Boy_qdui2
+  rotate: true
+  xy: 1750, 114
+  size: 83, 115
+  orig: 83, 115
+  offset: 0, 0
+  index: -1
+Boy_run
+  rotate: true
+  xy: 1136, 132
+  size: 182, 90
+  orig: 182, 90
+  offset: 0, 0
+  index: -1
+Boy_tay1
+  rotate: false
+  xy: 1055, 67
+  size: 91, 39
+  orig: 91, 39
+  offset: 0, 0
+  index: -1
+Boy_tay2
+  rotate: false
+  xy: 970, 65
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+Boy_than
+  rotate: false
+  xy: 1561, 24
+  size: 115, 135
+  orig: 115, 135
+  offset: 0, 0
+  index: -1
+Boy_vai1
+  rotate: false
+  xy: 910, 3
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1
+Boy_vai2
+  rotate: true
+  xy: 1867, 92
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+Dog_bc
+  rotate: false
+  xy: 1329, 9
+  size: 112, 122
+  orig: 112, 122
+  offset: 0, 0
+  index: -1
+Dog_body
+  rotate: true
+  xy: 1497, 161
+  size: 153, 131
+  orig: 153, 131
+  offset: 0, 0
+  index: -1
+Dog_caugian
+  rotate: false
+  xy: 1872, 189
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Dog_chans1
+  rotate: true
+  xy: 1678, 6
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+Dog_chans2
+  rotate: true
+  xy: 754, 10
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+Dog_chantr1
+  rotate: false
+  xy: 1016, 2
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+Dog_chantr2
+  rotate: true
+  xy: 1872, 227
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+Dog_face
+  rotate: false
+  xy: 1228, 133
+  size: 130, 181
+  orig: 130, 181
+  offset: 0, 0
+  index: -1
+bong
+  rotate: true
+  xy: 688, 28
+  size: 286, 64
+  orig: 286, 64
+  offset: 0, 0
+  index: -1
+cua
+  rotate: false
+  xy: 910, 63
+  size: 58, 251
+  orig: 58, 251
+  offset: 0, 0
+  index: -1
+da1
+  rotate: true
+  xy: 970, 108
+  size: 206, 164
+  orig: 206, 164
+  offset: 0, 0
+  index: -1
+da2
+  rotate: false
+  xy: 1750, 199
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+da3
+  rotate: true
+  xy: 754, 39
+  size: 275, 154
+  orig: 275, 154
+  offset: 0, 0
+  index: -1
+dog 2
+  rotate: false
+  xy: 1443, 9
+  size: 116, 145
+  orig: 116, 145
+  offset: 0, 0
+  index: -1
+duong
+  rotate: true
+  xy: 1630, 183
+  size: 131, 118
+  orig: 131, 118
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 688, 11
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+nha
+  rotate: true
+  xy: 2, 3
+  size: 311, 684
+  orig: 311, 684
+  offset: 0, 0
+  index: -1

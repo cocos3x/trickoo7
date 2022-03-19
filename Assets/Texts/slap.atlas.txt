@@ -1,0 +1,97 @@
+
+slap.png
+size: 1892,1892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slap
+  rotate: true
+  xy: 851, 608
+  size: 202, 164
+  orig: 202, 164
+  offset: 0, 0
+  index: -1
+slap hand
+  rotate: true
+  xy: 1018, 676
+  size: 281, 787
+  orig: 281, 787
+  offset: 0, 0
+  index: -1
+slap_456body
+  rotate: true
+  xy: 1018, 959
+  size: 931, 870
+  orig: 931, 870
+  offset: 0, 0
+  index: -1
+slap_blood
+  rotate: false
+  xy: 1852, 911
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+slap_eye
+  rotate: false
+  xy: 1807, 747
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+slap_head1
+  rotate: false
+  xy: 2, 352
+  size: 386, 458
+  orig: 386, 458
+  offset: 0, 0
+  index: -1
+slap_head2
+  rotate: true
+  xy: 390, 429
+  size: 381, 459
+  orig: 381, 459
+  offset: 0, 0
+  index: -1
+slap_hurt
+  rotate: false
+  xy: 1017, 456
+  size: 141, 218
+  orig: 141, 218
+  offset: 0, 0
+  index: -1
+slap_mouth
+  rotate: true
+  xy: 390, 342
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+slap_sweat
+  rotate: true
+  xy: 851, 428
+  size: 178, 130
+  orig: 178, 130
+  offset: 0, 0
+  index: -1
+slap_tear
+  rotate: false
+  xy: 1807, 615
+  size: 43, 130
+  orig: 43, 130
+  offset: 0, 0
+  index: -1
+slap_tear1
+  rotate: false
+  xy: 1807, 818
+  size: 43, 139
+  orig: 43, 139
+  offset: 0, 0
+  index: -1
+slap_vest man
+  rotate: false
+  xy: 2, 812
+  size: 1014, 1078
+  orig: 1014, 1078
+  offset: 0, 0
+  index: -1

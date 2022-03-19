@@ -1,0 +1,118 @@
+
+level_193.png
+size: 1360,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 36
+  rotate: false
+  xy: 1235, 448
+  size: 105, 151
+  orig: 105, 151
+  offset: 0, 0
+  index: -1
+ball_do
+  rotate: false
+  xy: 1231, 351
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+ball_xanh
+  rotate: false
+  xy: 1215, 255
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+bong
+  rotate: true
+  xy: 1082, 27
+  size: 419, 66
+  orig: 419, 66
+  offset: 0, 0
+  index: -1
+cangat
+  rotate: true
+  xy: 841, 14
+  size: 22, 130
+  orig: 22, 130
+  offset: 0, 0
+  index: -1
+caugat
+  rotate: false
+  xy: 1215, 105
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+chery
+  rotate: true
+  xy: 1150, 390
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+chuong
+  rotate: false
+  xy: 1215, 167
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+coin_fx
+  rotate: true
+  xy: 1082, 483
+  size: 300, 151
+  orig: 300, 151
+  offset: 0, 0
+  index: -1
+den_off
+  rotate: false
+  xy: 810, 6
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+den_on
+  rotate: true
+  xy: 1312, 310
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+duahau
+  rotate: false
+  xy: 1235, 699
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1
+jack
+  rotate: true
+  xy: 1235, 601
+  size: 96, 117
+  orig: 96, 117
+  offset: 0, 0
+  index: -1
+may1
+  rotate: true
+  xy: 2, 6
+  size: 777, 806
+  orig: 777, 806
+  offset: 0, 0
+  index: -1
+may2
+  rotate: true
+  xy: 810, 38
+  size: 745, 270
+  orig: 745, 270
+  offset: 0, 0
+  index: -1
+tien
+  rotate: true
+  xy: 1150, 2
+  size: 386, 63
+  orig: 386, 63
+  offset: 0, 0
+  index: -1

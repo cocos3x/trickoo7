@@ -1,0 +1,118 @@
+
+level_6.png
+size: 820,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1-chaan
+  rotate: true
+  xy: 250, 434
+  size: 85, 358
+  orig: 85, 358
+  offset: 0, 0
+  index: -1
+g1-face1
+  rotate: false
+  xy: 725, 457
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1
+g1-face2
+  rotate: false
+  xy: 684, 210
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+g1-hair2
+  rotate: true
+  xy: 672, 294
+  size: 161, 112
+  orig: 161, 112
+  offset: 0, 0
+  index: -1
+g1-leg
+  rotate: true
+  xy: 250, 643
+  size: 172, 362
+  orig: 172, 362
+  offset: 0, 0
+  index: -1
+g1-mat
+  rotate: false
+  xy: 549, 80
+  size: 133, 158
+  orig: 133, 158
+  offset: 0, 0
+  index: -1
+g1-tay
+  rotate: false
+  xy: 614, 546
+  size: 201, 269
+  orig: 201, 269
+  offset: 0, 0
+  index: -1
+g1-tay2
+  rotate: true
+  xy: 2, 8
+  size: 173, 240
+  orig: 173, 240
+  offset: 0, 0
+  index: -1
+g1-thaan
+  rotate: false
+  xy: 244, 25
+  size: 167, 220
+  orig: 167, 220
+  offset: 0, 0
+  index: -1
+g1-toc
+  rotate: false
+  xy: 2, 500
+  size: 246, 315
+  orig: 246, 315
+  offset: 0, 0
+  index: -1
+g1-toc2
+  rotate: false
+  xy: 2, 183
+  size: 220, 315
+  orig: 220, 315
+  offset: 0, 0
+  index: -1
+g1-vay
+  rotate: false
+  xy: 487, 240
+  size: 183, 192
+  orig: 183, 192
+  offset: 0, 0
+  index: -1
+g1-water
+  rotate: true
+  xy: 224, 247
+  size: 185, 261
+  orig: 185, 261
+  offset: 0, 0
+  index: -1
+g1_hand2
+  rotate: true
+  xy: 610, 457
+  size: 87, 113
+  orig: 87, 113
+  offset: 0, 0
+  index: -1
+g1_hand2-1
+  rotate: false
+  xy: 413, 58
+  size: 134, 180
+  orig: 134, 180
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 250, 521
+  size: 335, 120
+  orig: 335, 120
+  offset: 0, 0
+  index: -1

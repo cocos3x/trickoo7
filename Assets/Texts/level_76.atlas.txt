@@ -1,0 +1,76 @@
+
+level_76.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan1
+  rotate: true
+  xy: 362, 9
+  size: 70, 184
+  orig: 70, 184
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: true
+  xy: 548, 9
+  size: 70, 184
+  orig: 70, 184
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 2, 30
+  size: 471, 358
+  orig: 473, 360
+  offset: 1, 1
+  index: -1
+face1
+  rotate: true
+  xy: 898, 270
+  size: 231, 126
+  orig: 231, 126
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 1010, 52
+  size: 216, 122
+  orig: 218, 124
+  offset: 1, 1
+  index: -1
+giay
+  rotate: true
+  xy: 734, 2
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+giay2
+  rotate: true
+  xy: 804, 19
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+tay1
+  rotate: true
+  xy: 751, 98
+  size: 143, 257
+  orig: 143, 257
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: false
+  xy: 751, 243
+  size: 145, 258
+  orig: 145, 258
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 362, 81
+  size: 387, 420
+  orig: 387, 420
+  offset: 0, 0
+  index: -1

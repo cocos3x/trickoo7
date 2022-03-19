@@ -1,0 +1,62 @@
+
+LV_172.png
+size: 796,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 492, 150
+  size: 211, 26
+  orig: 211, 26
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 492, 178
+  size: 211, 32
+  orig: 211, 32
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 258, 2
+  size: 204, 150
+  orig: 204, 150
+  offset: 0, 0
+  index: -1
+Layer 6 copy
+  rotate: false
+  xy: 652, 29
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+bantay gap
+  rotate: true
+  xy: 464, 17
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+bantay_1
+  rotate: true
+  xy: 2, 2
+  size: 150, 254
+  orig: 150, 254
+  offset: 0, 0
+  index: -1
+cot
+  rotate: true
+  xy: 2, 212
+  size: 308, 789
+  orig: 308, 789
+  offset: 0, 0
+  index: -1
+ong
+  rotate: false
+  xy: 2, 154
+  size: 488, 56
+  orig: 488, 56
+  offset: 0, 0
+  index: -1

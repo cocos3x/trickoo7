@@ -1,0 +1,153 @@
+
+level3_456.png
+size: 1424,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: true
+  xy: 1299, 26
+  size: 99, 60
+  orig: 99, 60
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 2, 7
+  size: 397, 130
+  orig: 397, 130
+  offset: 0, 0
+  index: -1
+btay1
+  rotate: true
+  xy: 1063, 26
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+bua
+  rotate: true
+  xy: 1361, 83
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+chan
+  rotate: true
+  xy: 2, 139
+  size: 251, 713
+  orig: 251, 713
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 912, 17
+  size: 108, 149
+  orig: 108, 149
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1334, 239
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+eye copy
+  rotate: true
+  xy: 1334, 160
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1334, 318
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+keo
+  rotate: true
+  xy: 1162, 33
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+lmay1
+  rotate: false
+  xy: 808, 161
+  size: 52, 21
+  orig: 54, 23
+  offset: 1, 1
+  index: -1
+lmay2
+  rotate: false
+  xy: 717, 143
+  size: 36, 12
+  orig: 38, 14
+  offset: 1, 1
+  index: -1
+mom1
+  rotate: false
+  xy: 862, 164
+  size: 39, 18
+  orig: 41, 20
+  offset: 1, 1
+  index: -1
+mom2
+  rotate: false
+  xy: 1162, 2
+  size: 41, 29
+  orig: 43, 31
+  offset: 1, 1
+  index: -1
+ngaingung
+  rotate: true
+  xy: 1241, 9
+  size: 116, 56
+  orig: 118, 58
+  offset: 1, 1
+  index: -1
+tay1
+  rotate: true
+  xy: 401, 2
+  size: 135, 365
+  orig: 135, 365
+  offset: 0, 0
+  index: -1
+tay2
+  rotate: true
+  xy: 717, 157
+  size: 233, 89
+  orig: 233, 89
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 912, 127
+  size: 263, 420
+  orig: 263, 420
+  offset: 0, 0
+  index: -1
+toc
+  rotate: true
+  xy: 768, 9
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: false
+  xy: 1361, 20
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+vai2
+  rotate: false
+  xy: 808, 184
+  size: 93, 206
+  orig: 93, 206
+  offset: 0, 0
+  index: -1

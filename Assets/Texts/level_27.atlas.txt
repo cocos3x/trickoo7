@@ -1,0 +1,27 @@
+
+level_27.png
+size: 372,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 98
+  size: 176, 411
+  orig: 176, 411
+  offset: 0, 0
+  index: -1
+42
+  rotate: true
+  xy: 180, 184
+  size: 325, 189
+  orig: 325, 189
+  offset: 0, 0
+  index: -1
+999
+  rotate: false
+  xy: 2, 2
+  size: 259, 94
+  orig: 259, 94
+  offset: 0, 0
+  index: -1

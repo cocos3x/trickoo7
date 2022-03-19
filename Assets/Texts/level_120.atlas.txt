@@ -1,0 +1,97 @@
+
+level_120.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple
+  rotate: true
+  xy: 1669, 56
+  size: 86, 106
+  orig: 88, 108
+  offset: 1, 1
+  index: -1
+bong
+  rotate: false
+  xy: 1589, 498
+  size: 369, 130
+  orig: 369, 130
+  offset: 0, 0
+  index: -1
+cay
+  rotate: true
+  xy: 1098, 2
+  size: 309, 569
+  orig: 311, 571
+  offset: 1, 1
+  index: -1
+dau
+  rotate: true
+  xy: 1589, 630
+  size: 325, 224
+  orig: 327, 226
+  offset: 1, 1
+  index: -1
+dry_tree
+  rotate: true
+  xy: 2, 132
+  size: 823, 1094
+  orig: 825, 1096
+  offset: 1, 1
+  index: -1
+leg_b_1
+  rotate: true
+  xy: 1740, 297
+  size: 62, 192
+  orig: 62, 192
+  offset: 0, 0
+  index: -1
+leg_b_2
+  rotate: true
+  xy: 1815, 635
+  size: 52, 172
+  orig: 52, 172
+  offset: 0, 0
+  index: -1
+leg_f_1
+  rotate: true
+  xy: 1740, 216
+  size: 79, 188
+  orig: 79, 188
+  offset: 0, 0
+  index: -1
+leg_f_2
+  rotate: false
+  xy: 1669, 144
+  size: 69, 215
+  orig: 69, 215
+  offset: 0, 0
+  index: -1
+plate
+  rotate: false
+  xy: 1589, 361
+  size: 272, 135
+  orig: 274, 137
+  offset: 1, 1
+  index: -1
+tail
+  rotate: true
+  xy: 1863, 427
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+tanla
+  rotate: true
+  xy: 1098, 313
+  size: 642, 489
+  orig: 644, 491
+  offset: 1, 1
+  index: -1
+than
+  rotate: true
+  xy: 1815, 689
+  size: 266, 204
+  orig: 266, 204
+  offset: 0, 0
+  index: -1

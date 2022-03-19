@@ -1,0 +1,160 @@
+
+level_114.png
+size: 1924,1004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 511, 237
+  size: 764, 739
+  orig: 766, 741
+  offset: 1, 1
+  index: -1
+b_body
+  rotate: true
+  xy: 1278, 2
+  size: 238, 524
+  orig: 238, 524
+  offset: 0, 0
+  index: -1
+b_btay1
+  rotate: true
+  xy: 547, 71
+  size: 79, 57
+  orig: 81, 59
+  offset: 1, 1
+  index: -1
+b_btay2
+  rotate: false
+  xy: 1804, 202
+  size: 79, 52
+  orig: 81, 54
+  offset: 1, 1
+  index: -1
+b_face1
+  rotate: true
+  xy: 511, 152
+  size: 83, 93
+  orig: 85, 96
+  offset: 1, 2
+  index: -1
+b_face2
+  rotate: true
+  xy: 1817, 597
+  size: 89, 103
+  orig: 91, 105
+  offset: 1, 1
+  index: -1
+b_hair
+  rotate: false
+  xy: 1319, 246
+  size: 172, 202
+  orig: 175, 205
+  offset: 2, 1
+  index: -1
+b_tay1
+  rotate: true
+  xy: 360, 19
+  size: 129, 79
+  orig: 149, 98
+  offset: 1, 1
+  index: -1
+b_tay2
+  rotate: true
+  xy: 1804, 47
+  size: 153, 45
+  orig: 155, 47
+  offset: 1, 1
+  index: -1
+binh
+  rotate: true
+  xy: 1617, 256
+  size: 183, 294
+  orig: 185, 296
+  offset: 1, 1
+  index: -1
+cabinet
+  rotate: false
+  xy: 2, 150
+  size: 507, 851
+  orig: 509, 853
+  offset: 1, 1
+  index: -1
+girl
+  rotate: true
+  xy: 1252, 688
+  size: 313, 662
+  orig: 315, 664
+  offset: 1, 1
+  index: -1
+manhvo
+  rotate: false
+  xy: 792, 15
+  size: 484, 220
+  orig: 486, 222
+  offset: 1, 1
+  index: -1
+nao2
+  rotate: true
+  xy: 441, 22
+  size: 126, 104
+  orig: 128, 106
+  offset: 1, 1
+  index: -1
+water
+  rotate: false
+  xy: 2, 15
+  size: 356, 133
+  orig: 358, 135
+  offset: 1, 1
+  index: -1
+zb_arm copy
+  rotate: true
+  xy: 1817, 441
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+zb_arm copy 2
+  rotate: true
+  xy: 1817, 520
+  size: 75, 103
+  orig: 75, 105
+  offset: 0, 1
+  index: -1
+zb_body copy 2
+  rotate: true
+  xy: 1278, 450
+  size: 236, 537
+  orig: 236, 537
+  offset: 0, 0
+  index: -1
+zb_dau
+  rotate: true
+  xy: 606, 12
+  size: 223, 184
+  orig: 225, 186
+  offset: 1, 1
+  index: -1
+zb_hand
+  rotate: false
+  xy: 1493, 252
+  size: 122, 196
+  orig: 122, 196
+  offset: 0, 0
+  index: -1
+zb_hand2
+  rotate: false
+  xy: 1252, 242
+  size: 65, 206
+  orig: 66, 206
+  offset: 1, 0
+  index: -1
+zb_mouth
+  rotate: false
+  xy: 547, 45
+  size: 41, 24
+  orig: 44, 27
+  offset: 1, 1
+  index: -1

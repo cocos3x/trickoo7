@@ -1,0 +1,153 @@
+
+level_199.png
+size: 1648,1648
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ban tay
+  rotate: false
+  xy: 761, 2
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+Ban tay copy
+  rotate: false
+  xy: 704, 5
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: true
+  xy: 1056, 86
+  size: 1004, 102
+  orig: 1004, 102
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 2, 10
+  size: 700, 653
+  orig: 700, 653
+  offset: 0, 0
+  index: -1
+bantay_1
+  rotate: false
+  xy: 1488, 345
+  size: 150, 254
+  orig: 150, 254
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1160, 388
+  size: 211, 326
+  orig: 211, 326
+  offset: 0, 0
+  index: -1
+bong den
+  rotate: true
+  xy: 1160, 601
+  size: 489, 432
+  orig: 489, 432
+  offset: 0, 0
+  index: -1
+da
+  rotate: true
+  xy: 1482, 219
+  size: 124, 131
+  orig: 124, 131
+  offset: 0, 0
+  index: -1
+khan
+  rotate: true
+  xy: 761, 469
+  size: 194, 279
+  orig: 194, 279
+  offset: 0, 0
+  index: -1
+khan sau
+  rotate: false
+  xy: 704, 90
+  size: 186, 230
+  orig: 186, 230
+  offset: 0, 0
+  index: -1
+kinh oto
+  rotate: false
+  xy: 1056, 1092
+  size: 560, 554
+  orig: 560, 554
+  offset: 0, 0
+  index: -1
+oto
+  rotate: false
+  xy: 2, 665
+  size: 1052, 981
+  orig: 1052, 981
+  offset: 0, 0
+  index: -1
+ta
+  rotate: false
+  xy: 1287, 115
+  size: 130, 109
+  orig: 130, 109
+  offset: 0, 0
+  index: -1
+ta copy
+  rotate: false
+  xy: 892, 9
+  size: 112, 94
+  orig: 112, 94
+  offset: 0, 0
+  index: -1
+ta copy 3
+  rotate: false
+  xy: 1419, 129
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1
+ta copy 4
+  rotate: true
+  xy: 1376, 9
+  size: 104, 89
+  orig: 104, 89
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 1160, 226
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1
+tay copy
+  rotate: false
+  xy: 761, 322
+  size: 275, 145
+  orig: 275, 145
+  offset: 0, 0
+  index: -1
+tay duou
+  rotate: false
+  xy: 1287, 4
+  size: 87, 109
+  orig: 87, 109
+  offset: 0, 0
+  index: -1
+tay tren
+  rotate: false
+  xy: 892, 105
+  size: 155, 215
+  orig: 155, 215
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 1160, 45
+  size: 125, 172
+  orig: 125, 172
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+level_216.png
+size: 1848,1164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TRAITIM
+  rotate: true
+  xy: 281, 455
+  size: 37, 35
+  orig: 39, 38
+  offset: 1, 2
+  index: -1
+VI_bc
+  rotate: true
+  xy: 665, 123
+  size: 65, 76
+  orig: 69, 78
+  offset: 1, 1
+  index: -1
+VI_bc2
+  rotate: true
+  xy: 665, 69
+  size: 52, 69
+  orig: 52, 70
+  offset: 0, 1
+  index: -1
+VI_body
+  rotate: true
+  xy: 1159, 27
+  size: 215, 334
+  orig: 215, 334
+  offset: 0, 0
+  index: -1
+VI_chan1
+  rotate: false
+  xy: 1430, 453
+  size: 239, 707
+  orig: 239, 707
+  offset: 0, 0
+  index: -1
+VI_chan2
+  rotate: true
+  xy: 2, 185
+  size: 266, 627
+  orig: 266, 627
+  offset: 0, 0
+  index: -1
+VI_dau
+  rotate: false
+  xy: 467, 2
+  size: 196, 181
+  orig: 198, 183
+  offset: 1, 1
+  index: -1
+VI_tay1
+  rotate: false
+  xy: 281, 494
+  size: 336, 124
+  orig: 336, 124
+  offset: 0, 0
+  index: -1
+VI_tay2
+  rotate: true
+  xy: 1052, 212
+  size: 287, 105
+  orig: 287, 105
+  offset: 0, 0
+  index: -1
+VI_vai1
+  rotate: true
+  xy: 619, 496
+  size: 122, 281
+  orig: 125, 283
+  offset: 1, 1
+  index: -1
+VI_vai2
+  rotate: false
+  xy: 1495, 26
+  size: 104, 241
+  orig: 106, 243
+  offset: 1, 1
+  index: -1
+bong
+  rotate: false
+  xy: 2, 462
+  size: 277, 156
+  orig: 279, 158
+  offset: 1, 1
+  index: -1
+cai_bc
+  rotate: false
+  xy: 1050, 98
+  size: 90, 112
+  orig: 92, 115
+  offset: 1, 2
+  index: -1
+cai_bc2
+  rotate: true
+  xy: 631, 190
+  size: 91, 112
+  orig: 92, 115
+  offset: 1, 2
+  index: -1
+cai_body
+  rotate: true
+  xy: 631, 283
+  size: 211, 419
+  orig: 211, 419
+  offset: 0, 0
+  index: -1
+cai_chan1
+  rotate: true
+  xy: 1163, 244
+  size: 374, 218
+  orig: 374, 218
+  offset: 0, 0
+  index: -1
+cai_chan2
+  rotate: false
+  xy: 1671, 489
+  size: 173, 671
+  orig: 173, 671
+  offset: 0, 0
+  index: -1
+cai_dui1
+  rotate: true
+  xy: 745, 21
+  size: 260, 303
+  orig: 262, 305
+  offset: 1, 1
+  index: -1
+cai_face
+  rotate: false
+  xy: 1531, 297
+  size: 114, 154
+  orig: 116, 156
+  offset: 1, 1
+  index: -1
+cai_tay1
+  rotate: true
+  xy: 902, 501
+  size: 117, 259
+  orig: 117, 259
+  offset: 0, 0
+  index: -1
+cai_toc sau
+  rotate: false
+  xy: 1671, 7
+  size: 169, 480
+  orig: 169, 480
+  offset: 0, 0
+  index: -1
+cai_toc1
+  rotate: true
+  xy: 2, 10
+  size: 173, 463
+  orig: 173, 463
+  offset: 0, 0
+  index: -1
+cai_vai1
+  rotate: true
+  xy: 1383, 269
+  size: 182, 146
+  orig: 184, 148
+  offset: 1, 1
+  index: -1
+rem
+  rotate: true
+  xy: 2, 620
+  size: 540, 1426
+  orig: 543, 1442
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,160 @@
+
+level_7.png
+size: 964,964
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao1
+  rotate: false
+  xy: 2, 2
+  size: 148, 156
+  orig: 148, 156
+  offset: 0, 0
+  index: -1
+ao2
+  rotate: false
+  xy: 358, 8
+  size: 167, 150
+  orig: 167, 150
+  offset: 0, 0
+  index: -1
+body-nude
+  rotate: true
+  xy: 544, 505
+  size: 163, 306
+  orig: 163, 306
+  offset: 0, 0
+  index: -1
+bong1
+  rotate: true
+  xy: 852, 680
+  size: 282, 96
+  orig: 284, 98
+  offset: 1, 1
+  index: -1
+bong2
+  rotate: false
+  xy: 609, 274
+  size: 194, 25
+  orig: 196, 27
+  offset: 1, 1
+  index: -1
+cuahang
+  rotate: false
+  xy: 2, 471
+  size: 540, 491
+  orig: 540, 491
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 835, 144
+  size: 77, 75
+  orig: 87, 75
+  offset: 1, 0
+  index: -1
+face2
+  rotate: false
+  xy: 741, 160
+  size: 92, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1
+hair-down
+  rotate: true
+  xy: 152, 10
+  size: 148, 204
+  orig: 148, 204
+  offset: 0, 0
+  index: -1
+hair-top
+  rotate: false
+  xy: 852, 489
+  size: 107, 189
+  orig: 107, 189
+  offset: 0, 0
+  index: -1
+hand-l--bt
+  rotate: false
+  xy: 754, 12
+  size: 74, 77
+  orig: 77, 80
+  offset: 2, 1
+  index: -1
+hand-l--bt copy
+  rotate: false
+  xy: 830, 65
+  size: 75, 77
+  orig: 78, 79
+  offset: 2, 1
+  index: -1
+hand-l-ct
+  rotate: true
+  xy: 593, 91
+  size: 67, 165
+  orig: 70, 168
+  offset: 2, 2
+  index: -1
+hand-l-v
+  rotate: false
+  xy: 527, 2
+  size: 64, 156
+  orig: 64, 156
+  offset: 0, 0
+  index: -1
+hand-r-ct
+  rotate: true
+  xy: 593, 27
+  size: 62, 159
+  orig: 65, 162
+  offset: 1, 1
+  index: -1
+hand-r-v
+  rotate: false
+  xy: 841, 221
+  size: 104, 122
+  orig: 106, 125
+  offset: 1, 2
+  index: -1
+head
+  rotate: true
+  xy: 597, 165
+  size: 107, 142
+  orig: 109, 144
+  offset: 1, 1
+  index: -1
+head2
+  rotate: false
+  xy: 841, 345
+  size: 107, 142
+  orig: 107, 142
+  offset: 0, 0
+  index: -1
+leg-l
+  rotate: true
+  xy: 2, 160
+  size: 133, 593
+  orig: 133, 593
+  offset: 0, 0
+  index: -1
+leg-r
+  rotate: true
+  xy: 2, 295
+  size: 174, 605
+  orig: 174, 605
+  offset: 0, 0
+  index: -1
+pop
+  rotate: false
+  xy: 544, 670
+  size: 306, 292
+  orig: 306, 292
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 609, 301
+  size: 202, 230
+  orig: 202, 230
+  offset: 0, 0
+  index: -1

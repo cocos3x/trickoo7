@@ -1,0 +1,69 @@
+
+lv_132.png
+size: 864,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bong
+  rotate: false
+  xy: 423, 10
+  size: 372, 66
+  orig: 372, 66
+  offset: 0, 0
+  index: -1
+Bong copy
+  rotate: true
+  xy: 818, 293
+  size: 233, 41
+  orig: 233, 41
+  offset: 0, 0
+  index: -1
+Bong copy 3
+  rotate: true
+  xy: 818, 293
+  size: 233, 41
+  orig: 233, 41
+  offset: 0, 0
+  index: -1
+Bong copy 2
+  rotate: true
+  xy: 769, 101
+  size: 425, 47
+  orig: 425, 47
+  offset: 0, 0
+  index: -1
+bobfbay
+  rotate: false
+  xy: 2, 43
+  size: 182, 483
+  orig: 182, 483
+  offset: 0, 0
+  index: -1
+book
+  rotate: true
+  xy: 527, 78
+  size: 323, 240
+  orig: 323, 240
+  offset: 0, 0
+  index: -1
+book sang
+  rotate: false
+  xy: 186, 145
+  size: 339, 256
+  orig: 339, 256
+  offset: 0, 0
+  index: -1
+mabay
+  rotate: false
+  xy: 186, 403
+  size: 525, 123
+  orig: 525, 123
+  offset: 0, 0
+  index: -1
+may bay giay
+  rotate: false
+  xy: 186, 2
+  size: 235, 141
+  orig: 235, 141
+  offset: 0, 0
+  index: -1

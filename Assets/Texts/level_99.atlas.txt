@@ -1,0 +1,111 @@
+
+level_99.png
+size: 2016,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: false
+  xy: 746, 47
+  size: 352, 79
+  orig: 352, 79
+  offset: 0, 0
+  index: -1
+buicay
+  rotate: false
+  xy: 746, 579
+  size: 1014, 415
+  orig: 1014, 415
+  offset: 0, 0
+  index: -1
+g-btay1
+  rotate: false
+  xy: 1259, 84
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+g-dau
+  rotate: true
+  xy: 1168, 147
+  size: 134, 174
+  orig: 134, 174
+  offset: 0, 0
+  index: -1
+g-tay1
+  rotate: false
+  xy: 1885, 135
+  size: 123, 136
+  orig: 123, 136
+  offset: 0, 0
+  index: -1
+g-tay2
+  rotate: true
+  xy: 1519, 62
+  size: 55, 179
+  orig: 55, 179
+  offset: 0, 0
+  index: -1
+g-than
+  rotate: false
+  xy: 1762, 577
+  size: 251, 417
+  orig: 251, 417
+  offset: 0, 0
+  index: -1
+g-tocsau
+  rotate: true
+  xy: 1519, 119
+  size: 162, 207
+  orig: 162, 207
+  offset: 0, 0
+  index: -1
+g-vai1
+  rotate: false
+  xy: 1100, 4
+  size: 157, 122
+  orig: 157, 122
+  offset: 0, 0
+  index: -1
+g-vai2
+  rotate: false
+  xy: 1728, 115
+  size: 155, 156
+  orig: 155, 156
+  offset: 0, 0
+  index: -1
+la2
+  rotate: true
+  xy: 1344, 2
+  size: 279, 173
+  orig: 279, 173
+  offset: 0, 0
+  index: -1
+lamiss
+  rotate: true
+  xy: 746, 128
+  size: 449, 420
+  orig: 449, 420
+  offset: 0, 0
+  index: -1
+pose1
+  rotate: true
+  xy: 1168, 283
+  size: 294, 591
+  orig: 294, 591
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 2, 17
+  size: 742, 977
+  orig: 742, 977
+  offset: 0, 0
+  index: -1
+trom
+  rotate: false
+  xy: 1761, 273
+  size: 221, 302
+  orig: 221, 302
+  offset: 0, 0
+  index: -1

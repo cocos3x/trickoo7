@@ -1,0 +1,146 @@
+
+level_106.png
+size: 2004,1220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 3
+  rotate: true
+  xy: 1922, 262
+  size: 341, 78
+  orig: 341, 78
+  offset: 0, 0
+  index: -1
+Layer 3 copy
+  rotate: false
+  xy: 248, 12
+  size: 341, 78
+  orig: 341, 78
+  offset: 0, 0
+  index: -1
+Layer 3 copy 2
+  rotate: true
+  xy: 1905, 47
+  size: 213, 78
+  orig: 213, 78
+  offset: 0, 0
+  index: -1
+TREE
+  rotate: true
+  xy: 2, 228
+  size: 990, 1622
+  orig: 990, 1622
+  offset: 0, 0
+  index: -1
+da_dieuBODY
+  rotate: false
+  xy: 1626, 605
+  size: 331, 292
+  orig: 331, 292
+  offset: 0, 0
+  index: -1
+da_dieuBODY2
+  rotate: false
+  xy: 1626, 899
+  size: 360, 319
+  orig: 360, 319
+  offset: 0, 0
+  index: -1
+da_dieuFACE
+  rotate: true
+  xy: 1353, 43
+  size: 183, 116
+  orig: 183, 116
+  offset: 0, 0
+  index: -1
+da_dieuFACE2
+  rotate: true
+  xy: 1210, 20
+  size: 206, 141
+  orig: 211, 145
+  offset: 2, 2
+  index: -1
+da_dieuLEG
+  rotate: true
+  xy: 575, 121
+  size: 105, 296
+  orig: 105, 296
+  offset: 0, 0
+  index: -1
+da_dieuLEG1
+  rotate: true
+  xy: 591, 14
+  size: 105, 296
+  orig: 105, 296
+  offset: 0, 0
+  index: -1
+da_dieuLEG2
+  rotate: true
+  xy: 248, 92
+  size: 134, 325
+  orig: 134, 325
+  offset: 0, 0
+  index: -1
+da_dieuLayer 2
+  rotate: false
+  xy: 1959, 872
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+db_EAGLE
+  rotate: false
+  xy: 2, 26
+  size: 244, 200
+  orig: 244, 200
+  offset: 0, 0
+  index: -1
+db_WING
+  rotate: true
+  xy: 1626, 13
+  size: 247, 277
+  orig: 247, 277
+  offset: 0, 0
+  index: -1
+db_WING copy
+  rotate: false
+  xy: 1067, 2
+  size: 141, 224
+  orig: 141, 224
+  offset: 0, 0
+  index: -1
+ga_CK
+  rotate: false
+  xy: 1626, 367
+  size: 294, 236
+  orig: 294, 236
+  offset: 0, 0
+  index: -1
+ga_LEG
+  rotate: false
+  xy: 1759, 269
+  size: 126, 96
+  orig: 126, 96
+  offset: 0, 0
+  index: -1
+ga_WING
+  rotate: false
+  xy: 1471, 99
+  size: 133, 127
+  orig: 133, 127
+  offset: 0, 0
+  index: -1
+se_BIRD
+  rotate: true
+  xy: 889, 41
+  size: 185, 176
+  orig: 185, 176
+  offset: 0, 0
+  index: -1
+se_WING
+  rotate: false
+  xy: 1626, 271
+  size: 131, 94
+  orig: 131, 94
+  offset: 0, 0
+  index: -1

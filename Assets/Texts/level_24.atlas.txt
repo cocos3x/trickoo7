@@ -1,0 +1,244 @@
+
+level_24.png
+size: 988,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baptay_T
+  rotate: true
+  xy: 2, 5
+  size: 99, 160
+  orig: 99, 160
+  offset: 0, 0
+  index: -1
+Chan_T
+  rotate: false
+  xy: 207, 479
+  size: 177, 507
+  orig: 177, 507
+  offset: 0, 0
+  index: -1
+Khan tam
+  rotate: true
+  xy: 386, 395
+  size: 158, 310
+  orig: 158, 310
+  offset: 0, 0
+  index: -1
+KhuyTay_T
+  rotate: false
+  xy: 928, 553
+  size: 51, 138
+  orig: 51, 138
+  offset: 0, 0
+  index: -1
+Khuyttay_P
+  rotate: true
+  xy: 207, 449
+  size: 28, 124
+  orig: 28, 124
+  offset: 0, 0
+  index: -1
+Than
+  rotate: false
+  xy: 183, 108
+  size: 155, 338
+  orig: 155, 338
+  offset: 0, 0
+  index: -1
+ban tay
+  rotate: false
+  xy: 280, 2
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1
+ban tay2
+  rotate: false
+  xy: 857, 14
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+baptay_P
+  rotate: true
+  xy: 673, 97
+  size: 71, 147
+  orig: 71, 147
+  offset: 0, 0
+  index: -1
+chan_P
+  rotate: true
+  xy: 386, 796
+  size: 95, 507
+  orig: 95, 507
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 765, 9
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 593, 39
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
+g_forearm
+  rotate: true
+  xy: 372, 19
+  size: 95, 152
+  orig: 95, 152
+  offset: 0, 0
+  index: -1
+girl2_BC
+  rotate: false
+  xy: 671, 5
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+girl2_BC2
+  rotate: true
+  xy: 813, 170
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+girl2_Baptay_P
+  rotate: true
+  xy: 822, 92
+  size: 76, 130
+  orig: 76, 130
+  offset: 0, 0
+  index: -1
+girl2_Baptay_T
+  rotate: true
+  xy: 514, 267
+  size: 126, 139
+  orig: 126, 139
+  offset: 0, 0
+  index: -1
+girl2_Khuytay_P
+  rotate: true
+  xy: 183, 2
+  size: 104, 95
+  orig: 104, 95
+  offset: 0, 0
+  index: -1
+girl2_bantay cam ruou
+  rotate: true
+  xy: 526, 14
+  size: 102, 65
+  orig: 102, 65
+  offset: 0, 0
+  index: -1
+girl2_body
+  rotate: false
+  xy: 2, 106
+  size: 179, 340
+  orig: 179, 340
+  offset: 0, 0
+  index: -1
+girl2_chan_P
+  rotate: false
+  xy: 2, 448
+  size: 203, 538
+  orig: 203, 538
+  offset: 0, 0
+  index: -1
+girl2_chan_T
+  rotate: true
+  xy: 386, 893
+  size: 93, 538
+  orig: 93, 538
+  offset: 0, 0
+  index: -1
+girl2_head
+  rotate: false
+  xy: 546, 125
+  size: 125, 140
+  orig: 125, 140
+  offset: 0, 0
+  index: -1
+girl2_khuytay_T
+  rotate: false
+  xy: 924, 404
+  size: 41, 132
+  orig: 41, 132
+  offset: 0, 0
+  index: -1
+girl2_ringear
+  rotate: false
+  xy: 967, 528
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+girl2_toc
+  rotate: true
+  xy: 386, 555
+  size: 239, 320
+  orig: 239, 320
+  offset: 0, 0
+  index: -1
+girl2_toc duoi
+  rotate: true
+  xy: 698, 363
+  size: 173, 224
+  orig: 173, 224
+  offset: 0, 0
+  index: -1
+girl2_toc2
+  rotate: false
+  xy: 673, 170
+  size: 138, 126
+  orig: 138, 126
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 928, 693
+  size: 293, 58
+  orig: 293, 58
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 340, 116
+  size: 136, 146
+  orig: 136, 146
+  offset: 0, 0
+  index: -1
+khantam duoi
+  rotate: true
+  xy: 478, 118
+  size: 144, 66
+  orig: 144, 66
+  offset: 0, 0
+  index: -1
+q_24.1
+  rotate: true
+  xy: 655, 298
+  size: 63, 194
+  orig: 63, 194
+  offset: 0, 0
+  index: -1
+toc duoi
+  rotate: true
+  xy: 708, 538
+  size: 256, 218
+  orig: 256, 218
+  offset: 0, 0
+  index: -1
+toctren
+  rotate: false
+  xy: 340, 264
+  size: 172, 129
+  orig: 172, 129
+  offset: 0, 0
+  index: -1

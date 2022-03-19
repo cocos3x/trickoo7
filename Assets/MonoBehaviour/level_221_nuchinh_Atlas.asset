@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1497261852, guid: 1c14468f0573ee7c18c192716e63d19d, type: 3}
+  m_Name: "level_221_nuchinh_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: d6b415e38c5a405ca57013cb45aadf59, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 409c0923115b4bc8a14ce4631c318c7e, type: 2}

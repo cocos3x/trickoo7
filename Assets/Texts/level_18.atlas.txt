@@ -1,0 +1,153 @@
+
+level_18.png
+size: 1316,1316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_b_dress_1
+  rotate: true
+  xy: 1195, 405
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+1_b_dress_3
+  rotate: false
+  xy: 765, 910
+  size: 535, 403
+  orig: 535, 403
+  offset: 0, 0
+  index: -1
+1_b_hair
+  rotate: false
+  xy: 1035, 166
+  size: 164, 205
+  orig: 164, 205
+  offset: 0, 0
+  index: -1
+1_b_hair_2
+  rotate: true
+  xy: 795, 47
+  size: 171, 221
+  orig: 171, 221
+  offset: 0, 0
+  index: -1
+1_b_hand_b
+  rotate: false
+  xy: 1201, 272
+  size: 81, 131
+  orig: 81, 131
+  offset: 0, 0
+  index: -1
+1_b_hand_l
+  rotate: true
+  xy: 416, 429
+  size: 169, 296
+  orig: 169, 296
+  offset: 0, 0
+  index: -1
+1_b_hand_r
+  rotate: false
+  xy: 1140, 427
+  size: 53, 194
+  orig: 53, 194
+  offset: 0, 0
+  index: -1
+1_b_head
+  rotate: false
+  xy: 1184, 27
+  size: 124, 137
+  orig: 124, 137
+  offset: 0, 0
+  index: -1
+1_dress
+  rotate: false
+  xy: 416, 600
+  size: 347, 713
+  orig: 347, 713
+  offset: 0, 0
+  index: -1
+1_dress2
+  rotate: true
+  xy: 765, 623
+  size: 285, 428
+  orig: 285, 428
+  offset: 0, 0
+  index: -1
+1_dress_2
+  rotate: false
+  xy: 2, 362
+  size: 412, 951
+  orig: 412, 951
+  offset: 0, 0
+  index: -1
+1_head
+  rotate: false
+  xy: 652, 47
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+1_leg_l
+  rotate: true
+  xy: 2, 153
+  size: 207, 633
+  orig: 207, 633
+  offset: 0, 0
+  index: -1
+1_top
+  rotate: true
+  xy: 765, 442
+  size: 179, 283
+  orig: 179, 283
+  offset: 0, 0
+  index: -1
+Layer 152
+  rotate: false
+  xy: 637, 186
+  size: 156, 241
+  orig: 156, 241
+  offset: 0, 0
+  index: -1
+Layer 153
+  rotate: false
+  xy: 1050, 373
+  size: 88, 248
+  orig: 88, 248
+  offset: 0, 0
+  index: -1
+Shape 145
+  rotate: false
+  xy: 795, 220
+  size: 238, 220
+  orig: 238, 220
+  offset: 0, 0
+  index: -1
+Shape 147
+  rotate: true
+  xy: 1018, 18
+  size: 146, 164
+  orig: 146, 164
+  offset: 0, 0
+  index: -1
+Shape 9
+  rotate: true
+  xy: 416, 363
+  size: 64, 138
+  orig: 64, 138
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 1195, 544
+  size: 364, 111
+  orig: 364, 111
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 2, 45
+  size: 106, 648
+  orig: 106, 648
+  offset: 0, 0
+  index: -1

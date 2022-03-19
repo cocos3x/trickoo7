@@ -1,0 +1,41 @@
+
+level_82.png
+size: 1504,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Guong moi
+  rotate: true
+  xy: 2, 82
+  size: 546, 783
+  orig: 546, 783
+  offset: 0, 0
+  index: -1
+Vet nut
+  rotate: true
+  xy: 1024, 402
+  size: 226, 476
+  orig: 226, 476
+  offset: 0, 0
+  index: -1
+bang dinh
+  rotate: true
+  xy: 1024, 2
+  size: 398, 218
+  orig: 398, 218
+  offset: 0, 0
+  index: -1
+lo keo
+  rotate: false
+  xy: 1244, 59
+  size: 171, 341
+  orig: 171, 341
+  offset: 0, 0
+  index: -1
+ngoi sao lap lanh
+  rotate: true
+  xy: 787, 10
+  size: 618, 235
+  orig: 618, 235
+  offset: 0, 0
+  index: -1

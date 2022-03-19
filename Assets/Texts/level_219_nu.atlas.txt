@@ -1,0 +1,167 @@
+
+level_219_nu.png
+size: 1364,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_bong
+  rotate: false
+  xy: 650, 435
+  size: 482, 120
+  orig: 482, 120
+  offset: 0, 0
+  index: -1
+A_girl_ao
+  rotate: true
+  xy: 1120, 220
+  size: 85, 168
+  orig: 85, 168
+  offset: 0, 0
+  index: -1
+A_girl_ao lot
+  rotate: false
+  xy: 954, 213
+  size: 164, 133
+  orig: 164, 133
+  offset: 0, 0
+  index: -1
+A_girl_bao
+  rotate: false
+  xy: 616, 337
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+A_girl_bc1
+  rotate: false
+  xy: 1161, 21
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+A_girl_bc2
+  rotate: true
+  xy: 1290, 224
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+A_girl_bc3
+  rotate: false
+  xy: 1078, 12
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+A_girl_bua
+  rotate: true
+  xy: 1257, 61
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+A_girl_chan1
+  rotate: true
+  xy: 2, 288
+  size: 126, 612
+  orig: 126, 612
+  offset: 0, 0
+  index: -1
+A_girl_chan2
+  rotate: true
+  xy: 2, 416
+  size: 139, 646
+  orig: 139, 646
+  offset: 0, 0
+  index: -1
+A_girl_giay1
+  rotate: false
+  xy: 854, 175
+  size: 98, 258
+  orig: 98, 258
+  offset: 0, 0
+  index: -1
+A_girl_giay2
+  rotate: true
+  xy: 685, 58
+  size: 88, 265
+  orig: 88, 265
+  offset: 0, 0
+  index: -1
+A_girl_keo
+  rotate: true
+  xy: 565, 15
+  size: 58, 85
+  orig: 58, 85
+  offset: 0, 0
+  index: -1
+A_girl_mat
+  rotate: true
+  xy: 952, 2
+  size: 104, 124
+  orig: 104, 124
+  offset: 0, 0
+  index: -1
+A_girl_quan
+  rotate: true
+  xy: 1134, 307
+  size: 248, 202
+  orig: 248, 202
+  offset: 0, 0
+  index: -1
+A_girl_sensor
+  rotate: false
+  xy: 331, 12
+  size: 232, 61
+  orig: 232, 61
+  offset: 0, 0
+  index: -1
+A_girl_tay1
+  rotate: false
+  xy: 1257, 116
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+A_girl_tay2
+  rotate: false
+  xy: 954, 108
+  size: 150, 103
+  orig: 150, 103
+  offset: 0, 0
+  index: -1
+A_girl_than
+  rotate: true
+  xy: 331, 75
+  size: 211, 352
+  orig: 211, 352
+  offset: 0, 0
+  index: -1
+A_girl_toc1
+  rotate: false
+  xy: 685, 148
+  size: 167, 285
+  orig: 167, 285
+  offset: 0, 0
+  index: -1
+A_girl_toc2
+  rotate: true
+  xy: 2, 17
+  size: 269, 327
+  orig: 269, 327
+  offset: 0, 0
+  index: -1
+A_girl_vai1
+  rotate: true
+  xy: 954, 348
+  size: 85, 178
+  orig: 85, 178
+  offset: 0, 0
+  index: -1
+A_girl_vai2
+  rotate: true
+  xy: 1120, 96
+  size: 122, 135
+  orig: 122, 135
+  offset: 0, 0
+  index: -1

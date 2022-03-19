@@ -1,0 +1,76 @@
+
+level117.png
+size: 476,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 253, 381
+  size: 154, 161
+  orig: 156, 163
+  offset: 1, 1
+  index: -1
+eye_l
+  rotate: true
+  xy: 400, 275
+  size: 104, 43
+  orig: 106, 45
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 253, 243
+  size: 136, 145
+  orig: 138, 147
+  offset: 1, 1
+  index: -1
+leg_1
+  rotate: false
+  xy: 293, 86
+  size: 88, 155
+  orig: 88, 155
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 409, 397
+  size: 45, 145
+  orig: 45, 145
+  offset: 0, 0
+  index: -1
+leg_3
+  rotate: false
+  xy: 383, 4
+  size: 88, 97
+  orig: 88, 97
+  offset: 0, 0
+  index: -1
+leg_4
+  rotate: false
+  xy: 293, 2
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 240
+  size: 249, 302
+  orig: 249, 302
+  offset: 0, 0
+  index: -1
+meo
+  rotate: true
+  xy: 2, 3
+  size: 235, 289
+  orig: 237, 291
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 383, 103
+  size: 79, 138
+  orig: 79, 138
+  offset: 0, 0
+  index: -1

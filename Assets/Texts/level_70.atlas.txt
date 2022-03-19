@@ -1,0 +1,174 @@
+
+level_70.png
+size: 800,800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 566, 67
+  size: 86, 132
+  orig: 86, 132
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 584
+  size: 512, 214
+  orig: 512, 214
+  offset: 0, 0
+  index: -1
+2.1
+  rotate: true
+  xy: 516, 481
+  size: 317, 282
+  orig: 317, 282
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 475, 236
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+3.1
+  rotate: true
+  xy: 475, 420
+  size: 59, 178
+  orig: 59, 178
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 714, 240
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 700, 12
+  size: 141, 79
+  orig: 141, 79
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 576, 243
+  size: 136, 83
+  orig: 136, 83
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 655, 420
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 475, 193
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 4
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 363, 72
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+ban
+  rotate: true
+  xy: 2, 241
+  size: 341, 235
+  orig: 341, 235
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 239, 262
+  size: 320, 171
+  orig: 320, 171
+  offset: 0, 0
+  index: -1
+fissh
+  rotate: false
+  xy: 101, 7
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+fissh1
+  rotate: false
+  xy: 226, 2
+  size: 135, 103
+  orig: 135, 103
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 566, 155
+  size: 143, 79
+  orig: 143, 79
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 608, 339
+  size: 143, 79
+  orig: 143, 79
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 239, 107
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 101, 99
+  size: 140, 123
+  orig: 140, 123
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 392, 36
+  size: 149, 172
+  orig: 149, 172
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 35
+  size: 204, 97
+  orig: 204, 97
+  offset: 0, 0
+  index: -1
+shadow_aqua
+  rotate: true
+  xy: 412, 187
+  size: 395, 61
+  orig: 395, 61
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 475, 328
+  size: 90, 131
+  orig: 90, 131
+  offset: 0, 0
+  index: -1

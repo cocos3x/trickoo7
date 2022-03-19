@@ -1,0 +1,125 @@
+
+level_192.png
+size: 1988,624
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao
+  rotate: true
+  xy: 1224, 2
+  size: 256, 335
+  orig: 256, 335
+  offset: 0, 0
+  index: -1
+baptay1
+  rotate: true
+  xy: 1792, 317
+  size: 67, 178
+  orig: 67, 178
+  offset: 0, 0
+  index: -1
+bc 2
+  rotate: false
+  xy: 1842, 239
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+bc1
+  rotate: false
+  xy: 1727, 42
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 841, 10
+  size: 328, 50
+  orig: 328, 50
+  offset: 0, 0
+  index: -1
+chan1
+  rotate: true
+  xy: 382, 25
+  size: 106, 457
+  orig: 106, 457
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: true
+  xy: 382, 133
+  size: 146, 472
+  orig: 146, 472
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 1810, 386
+  size: 233, 162
+  orig: 233, 162
+  offset: 0, 0
+  index: -1
+giay1
+  rotate: true
+  xy: 1727, 144
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+giay2
+  rotate: false
+  xy: 1561, 3
+  size: 123, 63
+  orig: 123, 63
+  offset: 0, 0
+  index: -1
+lecua
+  rotate: true
+  xy: 1974, 587
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+tay P
+  rotate: false
+  xy: 1561, 68
+  size: 164, 190
+  orig: 164, 190
+  offset: 0, 0
+  index: -1
+tay T
+  rotate: true
+  xy: 856, 62
+  size: 196, 366
+  orig: 196, 366
+  offset: 0, 0
+  index: -1
+tl_boncau
+  rotate: true
+  xy: 2, 23
+  size: 256, 378
+  orig: 256, 378
+  offset: 0, 0
+  index: -1
+tl_cuadong
+  rotate: true
+  xy: 2, 281
+  size: 338, 852
+  orig: 338, 852
+  offset: 0, 0
+  index: -1
+tl_matsau
+  rotate: true
+  xy: 856, 260
+  size: 124, 934
+  orig: 124, 934
+  offset: 0, 0
+  index: -1
+tl_mattruoc
+  rotate: true
+  xy: 856, 386
+  size: 233, 952
+  orig: 233, 952
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+level_118.png
+size: 1988,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Banty_P
+  rotate: false
+  xy: 1488, 150
+  size: 122, 66
+  orig: 124, 68
+  offset: 1, 1
+  index: -1
+Bapchan_T
+  rotate: true
+  xy: 1806, 108
+  size: 275, 151
+  orig: 277, 153
+  offset: 1, 1
+  index: -1
+Baptay_P
+  rotate: true
+  xy: 859, 567
+  size: 110, 168
+  orig: 112, 170
+  offset: 1, 1
+  index: -1
+Baptay_T
+  rotate: false
+  xy: 1383, 23
+  size: 103, 193
+  orig: 105, 195
+  offset: 1, 1
+  index: -1
+Chan_P
+  rotate: false
+  xy: 1339, 218
+  size: 465, 459
+  orig: 465, 459
+  offset: 0, 0
+  index: -1
+Khuytay_T
+  rotate: true
+  xy: 1806, 521
+  size: 156, 35
+  orig: 158, 37
+  offset: 1, 1
+  index: -1
+Shape 5
+  rotate: true
+  xy: 839, 14
+  size: 229, 449
+  orig: 229, 449
+  offset: 0, 0
+  index: -1
+ban
+  rotate: true
+  xy: 395, 245
+  size: 592, 462
+  orig: 594, 464
+  offset: 1, 1
+  index: -1
+bantay_T
+  rotate: false
+  xy: 1290, 2
+  size: 91, 68
+  orig: 93, 70
+  offset: 1, 1
+  index: -1
+bong
+  rotate: false
+  xy: 859, 679
+  size: 1000, 158
+  orig: 1002, 160
+  offset: 1, 1
+  index: -1
+coc
+  rotate: true
+  xy: 1792, 27
+  size: 79, 76
+  orig: 81, 78
+  offset: 1, 1
+  index: -1
+computer
+  rotate: true
+  xy: 1029, 260
+  size: 417, 308
+  orig: 419, 310
+  offset: 1, 1
+  index: -1
+face1
+  rotate: false
+  xy: 1488, 19
+  size: 76, 87
+  orig: 79, 89
+  offset: 1, 1
+  index: -1
+face2
+  rotate: false
+  xy: 1566, 19
+  size: 75, 87
+  orig: 78, 90
+  offset: 2, 2
+  index: -1
+ghe
+  rotate: false
+  xy: 2, 215
+  size: 391, 622
+  orig: 393, 624
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 859, 250
+  size: 133, 168
+  orig: 138, 170
+  offset: 1, 1
+  index: -1
+khuychan_T
+  rotate: false
+  xy: 1861, 385
+  size: 125, 452
+  orig: 125, 452
+  offset: 0, 0
+  index: -1
+khuytay_P
+  rotate: true
+  xy: 1290, 72
+  size: 186, 44
+  orig: 188, 47
+  offset: 1, 1
+  index: -1
+screen_2
+  rotate: false
+  xy: 2, 14
+  size: 396, 199
+  orig: 398, 201
+  offset: 1, 1
+  index: -1
+toc duoi
+  rotate: true
+  xy: 400, 5
+  size: 238, 437
+  orig: 238, 437
+  offset: 0, 0
+  index: -1
+toc tren
+  rotate: false
+  xy: 859, 390
+  size: 164, 175
+  orig: 164, 175
+  offset: 0, 0
+  index: -1
+vay duoi
+  rotate: true
+  xy: 1643, 33
+  size: 183, 147
+  orig: 185, 149
+  offset: 1, 1
+  index: -1

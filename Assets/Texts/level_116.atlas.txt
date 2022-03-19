@@ -1,0 +1,132 @@
+
+level_116.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shape 83
+  rotate: false
+  xy: 2, 1612
+  size: 46, 19
+  orig: 48, 21
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 170, 1318
+  size: 217, 424
+  orig: 217, 424
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 315, 1537
+  size: 283, 94
+  orig: 285, 96
+  offset: 1, 1
+  index: -1
+boy_1_a
+  rotate: true
+  xy: 2, 2
+  size: 459, 1481
+  orig: 459, 1481
+  offset: 0, 0
+  index: -1
+boy_1_b
+  rotate: true
+  xy: 2, 463
+  size: 458, 1109
+  orig: 458, 1109
+  offset: 0, 0
+  index: -1
+boy_2_a
+  rotate: true
+  xy: 2, 983
+  size: 288, 772
+  orig: 288, 772
+  offset: 0, 0
+  index: -1
+boy_2_b
+  rotate: true
+  xy: 776, 923
+  size: 302, 795
+  orig: 302, 795
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 86, 1584
+  size: 110, 47
+  orig: 112, 49
+  offset: 1, 1
+  index: -1
+girl_1
+  rotate: true
+  xy: 867, 1227
+  size: 260, 1055
+  orig: 260, 1055
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 596, 1273
+  size: 247, 269
+  orig: 247, 269
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: true
+  xy: 1697, 1489
+  size: 142, 148
+  orig: 142, 148
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: true
+  xy: 1847, 1489
+  size: 142, 148
+  orig: 142, 148
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 1424
+  size: 158, 166
+  orig: 160, 168
+  offset: 1, 1
+  index: -1
+leg_b
+  rotate: true
+  xy: 752, 1522
+  size: 109, 471
+  orig: 109, 471
+  offset: 0, 0
+  index: -1
+leg_f
+  rotate: true
+  xy: 1225, 1501
+  size: 130, 470
+  orig: 130, 470
+  offset: 0, 0
+  index: -1
+shoulder_b
+  rotate: false
+  xy: 198, 1550
+  size: 115, 81
+  orig: 117, 83
+  offset: 1, 1
+  index: -1
+shoulder_f
+  rotate: true
+  xy: 600, 1527
+  size: 104, 150
+  orig: 106, 152
+  offset: 1, 1
+  index: -1
+vet_can
+  rotate: true
+  xy: 50, 1599
+  size: 32, 34
+  orig: 34, 36
+  offset: 1, 1
+  index: -1

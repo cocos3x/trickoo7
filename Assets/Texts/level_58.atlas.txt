@@ -1,0 +1,118 @@
+
+level_58.png
+size: 1796,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1 copy
+  rotate: false
+  xy: 1614, 84
+  size: 103, 71
+  orig: 103, 71
+  offset: 0, 0
+  index: -1
+Ellipse 1 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Group 1
+  rotate: false
+  xy: 1087, 36
+  size: 225, 213
+  orig: 225, 213
+  offset: 0, 0
+  index: -1
+Group 2
+  rotate: false
+  xy: 1522, 37
+  size: 90, 118
+  orig: 90, 118
+  offset: 0, 0
+  index: -1
+Group 4
+  rotate: true
+  xy: 2, 13
+  size: 764, 839
+  orig: 764, 839
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 1774, 108
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+Shape 11
+  rotate: true
+  xy: 1678, 29
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+Shape 12
+  rotate: true
+  xy: 1614, 33
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+Shape 13
+  rotate: false
+  xy: 1765, 720
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+Shape 16
+  rotate: false
+  xy: 1314, 159
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+Shape 29
+  rotate: false
+  xy: 843, 251
+  size: 556, 526
+  orig: 556, 526
+  offset: 0, 0
+  index: -1
+Shape 30
+  rotate: false
+  xy: 1401, 449
+  size: 362, 328
+  orig: 362, 328
+  offset: 0, 0
+  index: -1
+Shape 36 copy 3
+  rotate: false
+  xy: 843, 19
+  size: 242, 230
+  orig: 242, 230
+  offset: 0, 0
+  index: -1
+Shape 6
+  rotate: true
+  xy: 1314, 9
+  size: 146, 206
+  orig: 146, 206
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 1401, 157
+  size: 388, 290
+  orig: 388, 290
+  offset: 0, 0
+  index: -1
+hand_cat
+  rotate: true
+  xy: 1719, 78
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1

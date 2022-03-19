@@ -1,0 +1,62 @@
+
+level_87.png
+size: 1644,1644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 0
+  rotate: false
+  xy: 1419, 1035
+  size: 197, 287
+  orig: 197, 287
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 1419, 1324
+  size: 317, 222
+  orig: 317, 222
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1084, 676
+  size: 329, 213
+  orig: 329, 213
+  offset: 0, 0
+  index: -1
+choi
+  rotate: true
+  xy: 1419, 792
+  size: 241, 172
+  orig: 241, 172
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 2, 108
+  size: 562, 776
+  orig: 562, 776
+  offset: 0, 0
+  index: -1
+lap_lanh
+  rotate: false
+  xy: 1084, 891
+  size: 333, 750
+  orig: 333, 750
+  offset: 0, 0
+  index: -1
+layer 1
+  rotate: true
+  xy: 780, 108
+  size: 562, 776
+  orig: 562, 776
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 2, 672
+  size: 1080, 969
+  orig: 1080, 969
+  offset: 0, 0
+  index: -1

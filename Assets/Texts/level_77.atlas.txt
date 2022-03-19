@@ -1,0 +1,118 @@
+
+level_77.png
+size: 1652,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_chan1
+  rotate: true
+  xy: 1306, 204
+  size: 248, 342
+  orig: 248, 342
+  offset: 0, 0
+  index: -1
+b_chan2
+  rotate: true
+  xy: 525, 219
+  size: 170, 327
+  orig: 170, 327
+  offset: 0, 0
+  index: -1
+b_dau1
+  rotate: false
+  xy: 1292, 454
+  size: 353, 323
+  orig: 355, 325
+  offset: 1, 1
+  index: -1
+b_dau2
+  rotate: true
+  xy: 894, 448
+  size: 329, 396
+  orig: 331, 398
+  offset: 1, 1
+  index: -1
+b_giay
+  rotate: true
+  xy: 457, 2
+  size: 215, 265
+  orig: 217, 267
+  offset: 1, 1
+  index: -1
+b_tay1
+  rotate: true
+  xy: 854, 209
+  size: 171, 226
+  orig: 173, 228
+  offset: 1, 1
+  index: -1
+b_tay2
+  rotate: true
+  xy: 1082, 198
+  size: 182, 221
+  orig: 184, 223
+  offset: 1, 1
+  index: -1
+b_than
+  rotate: false
+  xy: 525, 391
+  size: 367, 386
+  orig: 369, 388
+  offset: 1, 1
+  index: -1
+bong
+  rotate: false
+  xy: 894, 382
+  size: 410, 64
+  orig: 412, 66
+  offset: 1, 1
+  index: -1
+g_chan1
+  rotate: false
+  xy: 724, 47
+  size: 118, 170
+  orig: 118, 170
+  offset: 0, 0
+  index: -1
+g_chan2
+  rotate: false
+  xy: 1271, 25
+  size: 115, 171
+  orig: 115, 171
+  offset: 0, 0
+  index: -1
+g_dau
+  rotate: false
+  xy: 2, 332
+  size: 521, 445
+  orig: 521, 445
+  offset: 0, 0
+  index: -1
+g_giay
+  rotate: true
+  xy: 844, 24
+  size: 183, 226
+  orig: 185, 228
+  offset: 1, 1
+  index: -1
+g_tay1
+  rotate: true
+  xy: 1072, 31
+  size: 165, 197
+  orig: 167, 199
+  offset: 1, 1
+  index: -1
+g_tay2
+  rotate: true
+  xy: 1388, 46
+  size: 156, 187
+  orig: 158, 189
+  offset: 1, 1
+  index: -1
+g_than
+  rotate: true
+  xy: 2, 24
+  size: 306, 453
+  orig: 306, 453
+  offset: 0, 0
+  index: -1

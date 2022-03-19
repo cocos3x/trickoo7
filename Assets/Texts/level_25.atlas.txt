@@ -1,0 +1,111 @@
+
+level_25.png
+size: 520,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bantay_P
+  rotate: false
+  xy: 390, 57
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+Baptay_P
+  rotate: false
+  xy: 473, 202
+  size: 36, 115
+  orig: 36, 115
+  offset: 0, 0
+  index: -1
+Baptay_T
+  rotate: true
+  xy: 296, 5
+  size: 41, 102
+  orig: 41, 102
+  offset: 0, 0
+  index: -1
+Chan_P
+  rotate: false
+  xy: 296, 48
+  size: 92, 470
+  orig: 92, 470
+  offset: 0, 0
+  index: -1
+Layer 44
+  rotate: false
+  xy: 2, 2
+  size: 292, 74
+  orig: 292, 74
+  offset: 0, 0
+  index: -1
+bantya_T
+  rotate: false
+  xy: 459, 54
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+bieuccam
+  rotate: true
+  xy: 390, 167
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+bieuccam2
+  rotate: true
+  xy: 390, 96
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 168, 267
+  size: 117, 251
+  orig: 117, 251
+  offset: 0, 0
+  index: -1
+chab_T
+  rotate: false
+  xy: 2, 78
+  size: 164, 440
+  orig: 164, 440
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 390, 319
+  size: 87, 106
+  orig: 87, 106
+  offset: 0, 0
+  index: -1
+khuy tay_T
+  rotate: true
+  xy: 390, 240
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+khuytay_P
+  rotate: true
+  xy: 466, 126
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+toc duoi
+  rotate: true
+  xy: 168, 115
+  size: 150, 125
+  orig: 150, 125
+  offset: 0, 0
+  index: -1
+toc tren
+  rotate: true
+  xy: 390, 408
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1

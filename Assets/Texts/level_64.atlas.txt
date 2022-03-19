@@ -1,0 +1,286 @@
+
+level_64.png
+size: 1728,1728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1Layer 3
+  rotate: true
+  xy: 820, 320
+  size: 216, 195
+  orig: 216, 195
+  offset: 0, 0
+  index: -1
+1Layer 4
+  rotate: false
+  xy: 1711, 596
+  size: 14, 47
+  orig: 14, 47
+  offset: 0, 0
+  index: -1
+1Layer 5
+  rotate: false
+  xy: 1711, 548
+  size: 11, 46
+  orig: 11, 46
+  offset: 0, 0
+  index: -1
+1body
+  rotate: true
+  xy: 732, 79
+  size: 182, 254
+  orig: 182, 254
+  offset: 0, 0
+  index: -1
+1eye
+  rotate: true
+  xy: 1017, 447
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+1eye2
+  rotate: false
+  xy: 1595, 70
+  size: 105, 120
+  orig: 105, 120
+  offset: 0, 0
+  index: -1
+1hand copy
+  rotate: true
+  xy: 158, 35
+  size: 79, 108
+  orig: 79, 108
+  offset: 0, 0
+  index: -1
+1hand copy 3
+  rotate: false
+  xy: 988, 75
+  size: 91, 148
+  orig: 91, 148
+  offset: 0, 0
+  index: -1
+1leg copy
+  rotate: false
+  xy: 237, 116
+  size: 154, 204
+  orig: 154, 204
+  offset: 0, 0
+  index: -1
+2Layer 6
+  rotate: false
+  xy: 1703, 447
+  size: 10, 43
+  orig: 10, 43
+  offset: 0, 0
+  index: -1
+2Layer 7
+  rotate: false
+  xy: 1702, 110
+  size: 18, 49
+  orig: 18, 49
+  offset: 0, 0
+  index: -1
+2body
+  rotate: true
+  xy: 237, 322
+  size: 214, 300
+  orig: 214, 300
+  offset: 0, 0
+  index: -1
+2copy 2
+  rotate: false
+  xy: 1595, 514
+  size: 114, 129
+  orig: 114, 129
+  offset: 0, 0
+  index: -1
+2eye copy
+  rotate: true
+  xy: 1017, 340
+  size: 105, 61
+  orig: 105, 61
+  offset: 0, 0
+  index: -1
+2eye2
+  rotate: true
+  xy: 767, 290
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+2hair
+  rotate: true
+  xy: 539, 100
+  size: 271, 191
+  orig: 271, 191
+  offset: 0, 0
+  index: -1
+2hand
+  rotate: true
+  xy: 393, 30
+  size: 89, 140
+  orig: 89, 140
+  offset: 0, 0
+  index: -1
+2leg
+  rotate: false
+  xy: 2, 108
+  size: 154, 204
+  orig: 154, 204
+  offset: 0, 0
+  index: -1
+2mouth
+  rotate: false
+  xy: 1702, 161
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 1595, 192
+  size: 320, 106
+  orig: 320, 106
+  offset: 0, 0
+  index: -1
+Layer 1 copy
+  rotate: true
+  xy: 1595, 192
+  size: 320, 106
+  orig: 320, 106
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 1084, 645
+  size: 1080, 640
+  orig: 1080, 640
+  offset: 0, 0
+  index: -1
+_
+  rotate: false
+  xy: 1721, 51
+  size: 4, 19
+  orig: 4, 19
+  offset: 0, 0
+  index: -1
+bath towels
+  rotate: true
+  xy: 988, 225
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1084, 74
+  size: 509, 569
+  orig: 509, 569
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 393, 121
+  size: 137, 199
+  orig: 137, 199
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 48
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+eue nose mouth
+  rotate: false
+  xy: 819, 264
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 268, 35
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 535, 7
+  size: 91, 103
+  orig: 91, 103
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 890, 274
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 640, 11
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 732, 263
+  size: 33, 108
+  orig: 33, 108
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 2, 538
+  size: 1080, 1187
+  orig: 1080, 1187
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 539, 373
+  size: 163, 279
+  orig: 163, 279
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 2, 314
+  size: 233, 222
+  orig: 233, 222
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1703, 492
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 1702, 72
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 1702, 41
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+phone
+  rotate: true
+  xy: 65, 64
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1

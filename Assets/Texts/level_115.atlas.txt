@@ -1,0 +1,237 @@
+
+level_115.png
+size: 1940,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 1592, 375
+  size: 299, 411
+  orig: 299, 411
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 416, 162
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+Layer 2 copy
+  rotate: false
+  xy: 219, 131
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 518, 166
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Layer 4boy
+  rotate: false
+  xy: 761, 172
+  size: 341, 91
+  orig: 341, 91
+  offset: 0, 0
+  index: -1
+Lboyayer 4 copy
+  rotate: true
+  xy: 600, 249
+  size: 537, 91
+  orig: 537, 91
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1188, 368
+  size: 418, 402
+  orig: 418, 402
+  offset: 0, 0
+  index: -1
+boybodysd
+  rotate: false
+  xy: 693, 265
+  size: 218, 521
+  orig: 218, 521
+  offset: 0, 0
+  index: -1
+boyeye copy 3
+  rotate: false
+  xy: 913, 266
+  size: 89, 32
+  orig: 89, 32
+  offset: 0, 0
+  index: -1
+boyfacesd
+  rotate: false
+  xy: 1194, 9
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+boyglasses
+  rotate: true
+  xy: 1893, 658
+  size: 128, 45
+  orig: 128, 45
+  offset: 0, 0
+  index: -1
+boyhair
+  rotate: true
+  xy: 1344, 16
+  size: 155, 150
+  orig: 155, 150
+  offset: 0, 0
+  index: -1
+boyhand
+  rotate: true
+  xy: 1104, 172
+  size: 126, 142
+  orig: 126, 142
+  offset: 0, 0
+  index: -1
+boyhand bagsd
+  rotate: false
+  xy: 993, 3
+  size: 199, 167
+  orig: 199, 167
+  offset: 0, 0
+  index: -1
+boyhandsda
+  rotate: false
+  xy: 1439, 174
+  size: 90, 192
+  orig: 90, 192
+  offset: 0, 0
+  index: -1
+boyhansd
+  rotate: false
+  xy: 1552, 28
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+boyhavnd
+  rotate: false
+  xy: 1496, 25
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+boylegsad
+  rotate: true
+  xy: 283, 4
+  size: 156, 592
+  orig: 156, 592
+  offset: 0, 0
+  index: -1
+boymouth
+  rotate: false
+  xy: 482, 165
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+boymouth copy
+  rotate: false
+  xy: 1004, 268
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+boysad
+  rotate: false
+  xy: 2, 7
+  size: 136, 101
+  orig: 136, 101
+  offset: 0, 0
+  index: -1
+boysd
+  rotate: false
+  xy: 877, 2
+  size: 114, 168
+  orig: 114, 168
+  offset: 0, 0
+  index: -1
+boyshirrt
+  rotate: false
+  xy: 913, 300
+  size: 273, 486
+  orig: 273, 486
+  offset: 0, 0
+  index: -1
+eboyye
+  rotate: true
+  xy: 600, 164
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+eye copy
+  rotate: false
+  xy: 1611, 29
+  size: 113, 76
+  orig: 113, 76
+  offset: 0, 0
+  index: -1
+eye copy 2
+  rotate: false
+  xy: 644, 165
+  size: 115, 82
+  orig: 115, 82
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1248, 173
+  size: 189, 193
+  orig: 189, 193
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 140, 11
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 1531, 107
+  size: 139, 398
+  orig: 139, 398
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: true
+  xy: 1531, 248
+  size: 118, 405
+  orig: 118, 405
+  offset: 0, 0
+  index: -1
+lboyeg
+  rotate: false
+  xy: 416, 193
+  size: 182, 593
+  orig: 182, 593
+  offset: 0, 0
+  index: -1
+leg copy
+  rotate: false
+  xy: 219, 162
+  size: 195, 624
+  orig: 195, 624
+  offset: 0, 0
+  index: -1
+leg copysad
+  rotate: false
+  xy: 2, 110
+  size: 215, 676
+  orig: 215, 676
+  offset: 0, 0
+  index: -1

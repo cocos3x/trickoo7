@@ -1,0 +1,139 @@
+
+level_122.png
+size: 2020,948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+067
+  rotate: true
+  xy: 912, 30
+  size: 293, 465
+  orig: 293, 465
+  offset: 0, 0
+  index: -1
+067df
+  rotate: true
+  xy: 502, 2
+  size: 205, 408
+  orig: 205, 408
+  offset: 0, 0
+  index: -1
+1run copy
+  rotate: true
+  xy: 794, 325
+  size: 261, 699
+  orig: 261, 699
+  offset: 0, 0
+  index: -1
+Ao hong 1Bantay_T copy
+  rotate: true
+  xy: 794, 588
+  size: 357, 776
+  orig: 357, 776
+  offset: 0, 0
+  index: -1
+Ellipse 1
+  rotate: false
+  xy: 1572, 169
+  size: 357, 776
+  orig: 357, 776
+  offset: 0, 0
+  index: -1
+Group 1
+  rotate: false
+  xy: 1931, 561
+  size: 79, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+Group 4 copy
+  rotate: false
+  xy: 2, 209
+  size: 394, 736
+  orig: 394, 736
+  offset: 0, 0
+  index: -1
+Group 4 copy 2
+  rotate: false
+  xy: 398, 209
+  size: 394, 736
+  orig: 394, 736
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 1931, 654
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+Layer 10sdf
+  rotate: false
+  xy: 1931, 654
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: true
+  xy: 1508, 41
+  size: 126, 465
+  orig: 126, 465
+  offset: 0, 0
+  index: -1
+Layer 22sa
+  rotate: true
+  xy: 1508, 41
+  size: 126, 465
+  orig: 126, 465
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: true
+  xy: 2, 12
+  size: 195, 498
+  orig: 195, 498
+  offset: 0, 0
+  index: -1
+Layer 23df
+  rotate: true
+  xy: 2, 12
+  size: 195, 498
+  orig: 195, 498
+  offset: 0, 0
+  index: -1
+Layer 59
+  rotate: false
+  xy: 1931, 845
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+Layer 59 copy
+  rotate: false
+  xy: 1931, 743
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+Layer 6 copysdf
+  rotate: false
+  xy: 1931, 470
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 1379, 196
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+Layer 8d
+  rotate: false
+  xy: 1379, 67
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1

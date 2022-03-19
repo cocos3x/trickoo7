@@ -1,0 +1,230 @@
+
+level_167.png
+size: 712,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl2_bc
+  rotate: true
+  xy: 332, 8
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+Girl2_bc2
+  rotate: true
+  xy: 649, 353
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+Girl2_body
+  rotate: true
+  xy: 242, 117
+  size: 142, 188
+  orig: 142, 188
+  offset: 0, 0
+  index: -1
+Girl2_btay1
+  rotate: false
+  xy: 162, 381
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+Girl2_dau
+  rotate: false
+  xy: 603, 599
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+Girl2_tay1
+  rotate: false
+  xy: 162, 591
+  size: 77, 119
+  orig: 77, 119
+  offset: 0, 0
+  index: -1
+Girl2_tay2
+  rotate: false
+  xy: 564, 565
+  size: 37, 145
+  orig: 37, 145
+  offset: 0, 0
+  index: -1
+Girl2_vai1
+  rotate: true
+  xy: 545, 58
+  size: 68, 153
+  orig: 68, 153
+  offset: 0, 0
+  index: -1
+Girl2_vai2
+  rotate: true
+  xy: 519, 261
+  size: 68, 152
+  orig: 68, 152
+  offset: 0, 0
+  index: -1
+bb_banchan1
+  rotate: false
+  xy: 673, 316
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+bb_bc1
+  rotate: false
+  xy: 242, 6
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+bb_bc2
+  rotate: true
+  xy: 641, 452
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+bb_bc3
+  rotate: true
+  xy: 162, 502
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+bb_bchan2
+  rotate: true
+  xy: 641, 417
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+bb_chan1
+  rotate: true
+  xy: 162, 271
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+bb_chan2
+  rotate: true
+  xy: 162, 325
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+bb_dau
+  rotate: true
+  xy: 512, 415
+  size: 134, 127
+  orig: 134, 127
+  offset: 0, 0
+  index: -1
+bb_dui1
+  rotate: false
+  xy: 379, 28
+  size: 51, 87
+  orig: 51, 87
+  offset: 0, 0
+  index: -1
+bb_dui2
+  rotate: true
+  xy: 605, 5
+  size: 51, 87
+  orig: 51, 87
+  offset: 0, 0
+  index: -1
+bb_tay1
+  rotate: true
+  xy: 603, 554
+  size: 43, 81
+  orig: 43, 81
+  offset: 0, 0
+  index: -1
+bb_tay2
+  rotate: true
+  xy: 435, 263
+  size: 46, 82
+  orig: 46, 82
+  offset: 0, 0
+  index: -1
+bb_than
+  rotate: false
+  xy: 512, 331
+  size: 135, 82
+  orig: 135, 82
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 162, 73
+  size: 215, 42
+  orig: 215, 42
+  offset: 0, 0
+  index: -1
+chan
+  rotate: false
+  xy: 242, 261
+  size: 191, 449
+  orig: 191, 449
+  offset: 0, 0
+  index: -1
+girl1_bc
+  rotate: false
+  xy: 545, 2
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+girl1_bc2
+  rotate: false
+  xy: 162, 443
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+girl1_body
+  rotate: false
+  xy: 2, 71
+  size: 158, 639
+  orig: 158, 639
+  offset: 0, 0
+  index: -1
+girl1_dau
+  rotate: true
+  xy: 432, 30
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+girl1_tay
+  rotate: false
+  xy: 435, 311
+  size: 75, 238
+  orig: 75, 238
+  offset: 0, 0
+  index: -1
+girl1_tay2
+  rotate: true
+  xy: 2, 3
+  size: 66, 238
+  orig: 66, 238
+  offset: 0, 0
+  index: -1
+girl1_toc
+  rotate: true
+  xy: 432, 128
+  size: 131, 248
+  orig: 131, 248
+  offset: 0, 0
+  index: -1
+tocsau
+  rotate: true
+  xy: 435, 551
+  size: 159, 127
+  orig: 159, 127
+  offset: 0, 0
+  index: -1

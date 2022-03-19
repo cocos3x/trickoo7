@@ -1,0 +1,90 @@
+
+level_164.png
+size: 1216,1216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bc1
+  rotate: true
+  xy: 892, 188
+  size: 344, 288
+  orig: 344, 288
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 623
+  size: 951, 591
+  orig: 951, 591
+  offset: 0, 0
+  index: -1
+longmay
+  rotate: true
+  xy: 1165, 810
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+ma
+  rotate: false
+  xy: 2, 138
+  size: 106, 79
+  orig: 106, 79
+  offset: 0, 0
+  index: -1
+maphinh
+  rotate: true
+  xy: 839, 31
+  size: 155, 162
+  orig: 155, 162
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 682, 71
+  size: 155, 187
+  orig: 155, 187
+  offset: 0, 0
+  index: -1
+mieng1
+  rotate: true
+  xy: 955, 534
+  size: 361, 208
+  orig: 361, 208
+  offset: 0, 0
+  index: -1
+mieng2
+  rotate: true
+  xy: 682, 260
+  size: 361, 208
+  orig: 361, 208
+  offset: 0, 0
+  index: -1
+mu
+  rotate: true
+  xy: 955, 897
+  size: 317, 255
+  orig: 317, 255
+  offset: 0, 0
+  index: -1
+mui
+  rotate: false
+  xy: 1003, 59
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 219
+  size: 678, 402
+  orig: 678, 402
+  offset: 0, 0
+  index: -1
+trong
+  rotate: false
+  xy: 1141, 93
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1

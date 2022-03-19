@@ -1,0 +1,69 @@
+
+level_110.png
+size: 1028,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 657, 22
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 825, 22
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+C
+  rotate: true
+  xy: 711, 27
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+D
+  rotate: true
+  xy: 769, 30
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+a_da
+  rotate: false
+  xy: 843, 290
+  size: 180, 199
+  orig: 180, 199
+  offset: 0, 0
+  index: -1
+b_da
+  rotate: false
+  xy: 840, 83
+  size: 180, 199
+  orig: 180, 199
+  offset: 0, 0
+  index: -1
+c_da
+  rotate: false
+  xy: 657, 78
+  size: 181, 204
+  orig: 181, 204
+  offset: 0, 0
+  index: -1
+ch
+  rotate: false
+  xy: 2, 2
+  size: 653, 487
+  orig: 653, 487
+  offset: 0, 0
+  index: -1
+d_da
+  rotate: false
+  xy: 657, 284
+  size: 184, 205
+  orig: 184, 205
+  offset: 0, 0
+  index: -1

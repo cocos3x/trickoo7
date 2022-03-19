@@ -1,0 +1,153 @@
+
+level_109.png
+size: 1140,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 993, 338
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+2 copy 2
+  rotate: true
+  xy: 689, 326
+  size: 225, 302
+  orig: 225, 302
+  offset: 0, 0
+  index: -1
+EYE copy 5
+  rotate: false
+  xy: 527, 28
+  size: 86, 126
+  orig: 86, 126
+  offset: 0, 0
+  index: -1
+FACE copy 2
+  rotate: false
+  xy: 2, 24
+  size: 327, 495
+  orig: 327, 495
+  offset: 0, 0
+  index: -1
+GIRL
+  rotate: false
+  xy: 331, 155
+  size: 176, 364
+  orig: 209, 364
+  offset: 24, 0
+  index: -1
+GIRLa
+  rotate: false
+  xy: 509, 156
+  size: 171, 364
+  orig: 171, 364
+  offset: 0, 0
+  index: -1
+Group 1
+  rotate: false
+  xy: 963, 138
+  size: 158, 186
+  orig: 158, 189
+  offset: 0, 3
+  index: -1
+Group 1a
+  rotate: false
+  xy: 979, 604
+  size: 158, 189
+  orig: 158, 189
+  offset: 0, 0
+  index: -1
+Group 2
+  rotate: false
+  xy: 993, 408
+  size: 125, 194
+  orig: 143, 194
+  offset: 18, 0
+  index: -1
+Group 2a
+  rotate: true
+  xy: 331, 10
+  size: 143, 194
+  orig: 143, 194
+  offset: 0, 0
+  index: -1
+Group 3
+  rotate: false
+  xy: 689, 553
+  size: 288, 476
+  orig: 288, 476
+  offset: 0, 0
+  index: -1
+HAND copy 2
+  rotate: false
+  xy: 1049, 96
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 2, 521
+  size: 341, 508
+  orig: 341, 508
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 345, 522
+  size: 342, 507
+  orig: 342, 507
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 2
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+doi1
+  rotate: true
+  xy: 979, 795
+  size: 234, 156
+  orig: 234, 156
+  offset: 0, 0
+  index: -1
+doi2
+  rotate: true
+  xy: 979, 795
+  size: 234, 156
+  orig: 234, 156
+  offset: 0, 0
+  index: -1
+doi3
+  rotate: false
+  xy: 615, 35
+  size: 158, 100
+  orig: 158, 100
+  offset: 0, 0
+  index: -1
+doi4
+  rotate: false
+  xy: 775, 35
+  size: 158, 100
+  orig: 158, 100
+  offset: 0, 0
+  index: -1
+doi5
+  rotate: false
+  xy: 935, 35
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+doi6
+  rotate: false
+  xy: 682, 137
+  size: 279, 187
+  orig: 279, 187
+  offset: 0, 0
+  index: -1

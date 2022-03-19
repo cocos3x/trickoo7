@@ -1,0 +1,69 @@
+
+level_182.png
+size: 412,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bentley_camh_ph
+  rotate: true
+  xy: 209, 166
+  size: 158, 162
+  orig: 158, 162
+  offset: 0, 0
+  index: -1
+bentley_canhtr
+  rotate: false
+  xy: 209, 2
+  size: 157, 162
+  orig: 157, 162
+  offset: 0, 0
+  index: -1
+bentley_icon
+  rotate: true
+  xy: 2, 29
+  size: 438, 205
+  orig: 438, 205
+  offset: 0, 0
+  index: -1
+bentley_icon1
+  rotate: true
+  xy: 317, 683
+  size: 115, 93
+  orig: 115, 93
+  offset: 0, 0
+  index: -1
+chanel_1
+  rotate: false
+  xy: 209, 326
+  size: 193, 141
+  orig: 193, 141
+  offset: 0, 0
+  index: -1
+chanel_2
+  rotate: false
+  xy: 366, 984
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+chanel_3
+  rotate: false
+  xy: 2, 748
+  size: 313, 50
+  orig: 313, 50
+  offset: 0, 0
+  index: -1
+ferrari
+  rotate: true
+  xy: 2, 469
+  size: 277, 297
+  orig: 277, 297
+  offset: 0, 0
+  index: -1
+gucci
+  rotate: false
+  xy: 2, 800
+  size: 362, 233
+  orig: 362, 233
+  offset: 0, 0
+  index: -1

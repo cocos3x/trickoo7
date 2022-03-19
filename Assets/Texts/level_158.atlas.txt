@@ -1,0 +1,132 @@
+
+level_158.png
+size: 1220,1220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 1084, 518
+  size: 69, 96
+  orig: 69, 96
+  offset: 0, 0
+  index: -1
+bc1
+  rotate: false
+  xy: 576, 12
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+bc2
+  rotate: true
+  xy: 505, 12
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 33
+  size: 259, 239
+  orig: 259, 239
+  offset: 0, 0
+  index: -1
+bàn tay T
+  rotate: false
+  xy: 1161, 471
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+bắp tay P
+  rotate: true
+  xy: 1084, 680
+  size: 57, 111
+  orig: 57, 111
+  offset: 0, 0
+  index: -1
+bắp tay T
+  rotate: false
+  xy: 1084, 739
+  size: 119, 37
+  orig: 119, 37
+  offset: 0, 0
+  index: -1
+bụi
+  rotate: false
+  xy: 2, 294
+  size: 1080, 353
+  orig: 1080, 353
+  offset: 0, 0
+  index: -1
+chân P
+  rotate: true
+  xy: 1084, 284
+  size: 232, 75
+  orig: 232, 75
+  offset: 0, 0
+  index: -1
+chân T
+  rotate: true
+  xy: 1084, 778
+  size: 199, 122
+  orig: 199, 122
+  offset: 0, 0
+  index: -1
+cánh tay T
+  rotate: false
+  xy: 1084, 589
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+cánh tay p
+  rotate: false
+  xy: 312, 9
+  size: 191, 74
+  orig: 191, 74
+  offset: 0, 0
+  index: -1
+cẳng chân P
+  rotate: true
+  xy: 1052, 89
+  size: 193, 154
+  orig: 193, 154
+  offset: 0, 0
+  index: -1
+cẳng chân T
+  rotate: true
+  xy: 243, 52
+  size: 230, 67
+  orig: 230, 67
+  offset: 0, 0
+  index: -1
+dâylành
+  rotate: true
+  xy: 312, 85
+  size: 207, 738
+  orig: 207, 738
+  offset: 0, 0
+  index: -1
+q_158.2
+  rotate: false
+  xy: 2, 649
+  size: 1080, 566
+  orig: 1080, 566
+  offset: 0, 0
+  index: -1
+tóc
+  rotate: false
+  xy: 1084, 979
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+đầu
+  rotate: false
+  xy: 1084, 1087
+  size: 131, 128
+  orig: 131, 128
+  offset: 0, 0
+  index: -1

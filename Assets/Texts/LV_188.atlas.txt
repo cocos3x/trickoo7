@@ -1,0 +1,195 @@
+
+LV_188.png
+size: 1552,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BBG
+  rotate: false
+  xy: 2, 162
+  size: 1080, 1384
+  orig: 1080, 1384
+  offset: 0, 0
+  index: -1
+Baby_BODY
+  rotate: false
+  xy: 1415, 652
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1
+Baby_Layer 60
+  rotate: true
+  xy: 1469, 874
+  size: 247, 52
+  orig: 247, 52
+  offset: 0, 0
+  index: -1
+Baby_bantay_P
+  rotate: false
+  xy: 696, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Baby_bantay_t
+  rotate: false
+  xy: 728, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Baby_bc
+  rotate: true
+  xy: 1485, 282
+  size: 106, 51
+  orig: 106, 51
+  offset: 0, 0
+  index: -1
+Baby_binhsua
+  rotate: true
+  xy: 1373, 318
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+Baby_canhtay_P
+  rotate: false
+  xy: 1445, 211
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+Baby_canhtay_T
+  rotate: true
+  xy: 1373, 271
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+Baby_chan_P
+  rotate: false
+  xy: 1373, 225
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+Baby_chan_T
+  rotate: true
+  xy: 1492, 210
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+Baby_face
+  rotate: false
+  xy: 1373, 390
+  size: 172, 112
+  orig: 172, 112
+  offset: 0, 0
+  index: -1
+Baby_mu
+  rotate: false
+  xy: 1321, 5
+  size: 135, 91
+  orig: 135, 91
+  offset: 0, 0
+  index: -1
+Girl_BC1
+  rotate: false
+  xy: 1458, 7
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+Girl_BC2
+  rotate: true
+  xy: 1469, 797
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+Girl_Layer 56
+  rotate: true
+  xy: 1084, 624
+  size: 922, 173
+  orig: 922, 173
+  offset: 0, 0
+  index: -1
+Girl_ao
+  rotate: true
+  xy: 1259, 1123
+  size: 423, 263
+  orig: 423, 263
+  offset: 0, 0
+  index: -1
+Girl_baptay_P
+  rotate: true
+  xy: 1321, 98
+  size: 101, 219
+  orig: 101, 219
+  offset: 0, 0
+  index: -1
+Girl_chan
+  rotate: false
+  xy: 396, 14
+  size: 298, 146
+  orig: 298, 146
+  offset: 0, 0
+  index: -1
+Girl_chan copy
+  rotate: false
+  xy: 696, 38
+  size: 203, 122
+  orig: 203, 122
+  offset: 0, 0
+  index: -1
+Girl_face
+  rotate: true
+  xy: 1373, 504
+  size: 136, 150
+  orig: 136, 150
+  offset: 0, 0
+  index: -1
+Girl_khuytay_P
+  rotate: false
+  xy: 901, 42
+  size: 188, 118
+  orig: 188, 118
+  offset: 0, 0
+  index: -1
+Girl_langle
+  rotate: true
+  xy: 2, 18
+  size: 142, 392
+  orig: 142, 392
+  offset: 0, 0
+  index: -1
+Girl_langle_P
+  rotate: false
+  xy: 1259, 779
+  size: 208, 342
+  orig: 208, 342
+  offset: 0, 0
+  index: -1
+Girl_tay
+  rotate: true
+  xy: 1084, 201
+  size: 421, 287
+  orig: 421, 287
+  offset: 0, 0
+  index: -1
+Girl_toc
+  rotate: false
+  xy: 1259, 642
+  size: 154, 135
+  orig: 162, 139
+  offset: 7, 0
+  index: -1
+Girl_tocsau
+  rotate: false
+  xy: 1091, 2
+  size: 228, 197
+  orig: 228, 198
+  offset: 0, 1
+  index: -1

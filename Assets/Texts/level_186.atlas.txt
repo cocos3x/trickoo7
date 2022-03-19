@@ -1,0 +1,76 @@
+
+level_186.png
+size: 2012,1692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 26
+  rotate: false
+  xy: 2, 634
+  size: 1055, 1053
+  orig: 1080, 1198
+  offset: 11, 72
+  index: -1
+May
+  rotate: false
+  xy: 1059, 1397
+  size: 948, 290
+  orig: 948, 290
+  offset: 0, 0
+  index: -1
+cau_full
+  rotate: false
+  xy: 2, 69
+  size: 1080, 563
+  orig: 1080, 563
+  offset: 0, 0
+  index: -1
+cau_ph
+  rotate: false
+  xy: 1206, 552
+  size: 576, 563
+  orig: 576, 563
+  offset: 0, 0
+  index: -1
+cau_tr
+  rotate: true
+  xy: 1206, 2
+  size: 548, 563
+  orig: 549, 563
+  offset: 0, 0
+  index: -1
+den
+  rotate: false
+  xy: 1059, 1117
+  size: 884, 278
+  orig: 884, 278
+  offset: 0, 0
+  index: -1
+oto
+  rotate: true
+  xy: 1784, 769
+  size: 346, 144
+  orig: 346, 144
+  offset: 0, 0
+  index: -1
+oto2
+  rotate: true
+  xy: 1784, 421
+  size: 346, 144
+  orig: 346, 144
+  offset: 0, 0
+  index: -1
+oto3
+  rotate: true
+  xy: 1771, 73
+  size: 346, 144
+  orig: 346, 144
+  offset: 0, 0
+  index: -1
+song
+  rotate: true
+  xy: 1084, 35
+  size: 1080, 120
+  orig: 1080, 120
+  offset: 0, 0
+  index: -1

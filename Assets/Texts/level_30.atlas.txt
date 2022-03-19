@@ -1,0 +1,202 @@
+
+level_30.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_AOKHOAC
+  rotate: false
+  xy: 344, 688
+  size: 274, 328
+  orig: 276, 330
+  offset: 1, 1
+  index: -1
+b_BC1
+  rotate: false
+  xy: 567, 561
+  size: 215, 125
+  orig: 217, 128
+  offset: 1, 1
+  index: -1
+b_BC2
+  rotate: true
+  xy: 859, 371
+  size: 202, 171
+  orig: 204, 173
+  offset: 1, 1
+  index: -1
+b_Bantay_P
+  rotate: false
+  xy: 636, 189
+  size: 64, 43
+  orig: 66, 45
+  offset: 1, 1
+  index: -1
+b_Bantay_T
+  rotate: false
+  xy: 1027, 711
+  size: 76, 75
+  orig: 78, 77
+  offset: 1, 1
+  index: -1
+b_Bantay_tr
+  rotate: false
+  xy: 966, 15
+  size: 68, 45
+  orig: 70, 47
+  offset: 1, 1
+  index: -1
+b_Khuytay_P
+  rotate: false
+  xy: 882, 62
+  size: 96, 137
+  orig: 98, 139
+  offset: 1, 1
+  index: -1
+b_Khuytay_P copy
+  rotate: true
+  xy: 948, 599
+  size: 110, 144
+  orig: 110, 144
+  offset: 0, 0
+  index: -1
+b_body
+  rotate: false
+  xy: 972, 788
+  size: 195, 228
+  orig: 197, 230
+  offset: 1, 1
+  index: -1
+b_chan_P
+  rotate: true
+  xy: 354, 24
+  size: 163, 294
+  orig: 163, 294
+  offset: 0, 0
+  index: -1
+b_dau
+  rotate: true
+  xy: 2, 183
+  size: 368, 336
+  orig: 371, 338
+  offset: 2, 1
+  index: -1
+bong
+  rotate: false
+  xy: 620, 702
+  size: 315, 73
+  orig: 317, 75
+  offset: 1, 1
+  index: -1
+g_Ao_Khoac
+  rotate: true
+  xy: 620, 777
+  size: 239, 350
+  orig: 241, 352
+  offset: 1, 1
+  index: -1
+g_BC 1
+  rotate: false
+  xy: 344, 557
+  size: 221, 129
+  orig: 223, 131
+  offset: 1, 1
+  index: -1
+g_BC2
+  rotate: false
+  xy: 650, 32
+  size: 230, 155
+  orig: 232, 157
+  offset: 1, 1
+  index: -1
+g_Bantay_T
+  rotate: true
+  xy: 702, 196
+  size: 36, 58
+  orig: 38, 60
+  offset: 1, 1
+  index: -1
+g_Baptay_T
+  rotate: false
+  xy: 1029, 291
+  size: 67, 78
+  orig: 71, 80
+  offset: 2, 1
+  index: -1
+g_Baptay_T AOKHOAC
+  rotate: true
+  xy: 943, 258
+  size: 111, 84
+  orig: 113, 86
+  offset: 1, 1
+  index: -1
+g_Face
+  rotate: true
+  xy: 340, 189
+  size: 362, 294
+  orig: 364, 296
+  offset: 1, 1
+  index: -1
+g_Khuytay_T
+  rotate: true
+  xy: 937, 711
+  size: 64, 88
+  orig: 67, 90
+  offset: 1, 1
+  index: -1
+g_Khuytay_T AOKHOAC
+  rotate: false
+  xy: 980, 179
+  size: 70, 77
+  orig: 72, 79
+  offset: 1, 1
+  index: -1
+g_bantay
+  rotate: false
+  xy: 980, 103
+  size: 65, 74
+  orig: 67, 76
+  offset: 1, 1
+  index: -1
+g_chan_T
+  rotate: false
+  xy: 859, 201
+  size: 82, 168
+  orig: 82, 168
+  offset: 0, 0
+  index: -1
+g_chan_p
+  rotate: true
+  xy: 784, 575
+  size: 125, 162
+  orig: 125, 162
+  offset: 0, 0
+  index: -1
+g_mau
+  rotate: false
+  xy: 636, 234
+  size: 221, 325
+  orig: 223, 327
+  offset: 1, 1
+  index: -1
+g_no
+  rotate: false
+  xy: 882, 2
+  size: 82, 58
+  orig: 84, 61
+  offset: 1, 1
+  index: -1
+g_tocduoi
+  rotate: true
+  xy: 2, 553
+  size: 463, 340
+  orig: 466, 342
+  offset: 2, 1
+  index: -1
+g_toctren
+  rotate: false
+  xy: 2, 14
+  size: 350, 167
+  orig: 352, 170
+  offset: 1, 1
+  index: -1

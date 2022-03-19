@@ -1,0 +1,272 @@
+
+level_41.png
+size: 1264,1264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BC 1
+  rotate: false
+  xy: 1115, 809
+  size: 94, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1
+BC 2
+  rotate: false
+  xy: 952, 480
+  size: 151, 143
+  orig: 151, 143
+  offset: 0, 0
+  index: -1
+Banty_P
+  rotate: true
+  xy: 730, 34
+  size: 123, 66
+  orig: 123, 66
+  offset: 0, 0
+  index: -1
+Bapchan_T
+  rotate: false
+  xy: 452, 5
+  size: 276, 152
+  orig: 276, 152
+  offset: 0, 0
+  index: -1
+Baptay_P
+  rotate: true
+  xy: 886, 191
+  size: 111, 169
+  orig: 111, 169
+  offset: 0, 0
+  index: -1
+Baptay_T
+  rotate: false
+  xy: 781, 219
+  size: 103, 194
+  orig: 103, 194
+  offset: 0, 0
+  index: -1
+Chan_P
+  rotate: false
+  xy: 2, 809
+  size: 459, 453
+  orig: 459, 453
+  offset: 0, 0
+  index: -1
+Khuytay_T
+  rotate: true
+  xy: 849, 60
+  size: 157, 35
+  orig: 157, 35
+  offset: 0, 0
+  index: -1
+Layer 50
+  rotate: true
+  xy: 952, 625
+  size: 175, 160
+  orig: 175, 160
+  offset: 0, 0
+  index: -1
+Layer 56
+  rotate: false
+  xy: 1105, 444
+  size: 136, 170
+  orig: 136, 170
+  offset: 0, 0
+  index: -1
+Muduoi
+  rotate: true
+  xy: 1224, 244
+  size: 97, 38
+  orig: 97, 38
+  offset: 0, 0
+  index: -1
+bantay_T
+  rotate: true
+  xy: 1177, 55
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+bong1
+  rotate: false
+  xy: 350, 482
+  size: 528, 65
+  orig: 528, 65
+  offset: 0, 0
+  index: -1
+bong2
+  rotate: false
+  xy: 350, 415
+  size: 487, 65
+  orig: 487, 65
+  offset: 0, 0
+  index: -1
+g-closeeye
+  rotate: true
+  xy: 1232, 148
+  size: 94, 30
+  orig: 94, 30
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 350, 549
+  size: 237, 437
+  orig: 237, 437
+  offset: 0, 0
+  index: -1
+khuychan_T
+  rotate: true
+  xy: 2, 26
+  size: 92, 445
+  orig: 92, 445
+  offset: 0, 0
+  index: -1
+khuytay_P
+  rotate: false
+  xy: 798, 32
+  size: 49, 185
+  orig: 49, 185
+  offset: 0, 0
+  index: -1
+oldman_
+  rotate: false
+  xy: 959, 910
+  size: 226, 352
+  orig: 226, 352
+  offset: 0, 0
+  index: -1
+oldman_Aokhoac_duoi
+  rotate: true
+  xy: 452, 159
+  size: 254, 327
+  orig: 254, 327
+  offset: 0, 0
+  index: -1
+oldman_Banty_P
+  rotate: true
+  xy: 1056, 65
+  size: 87, 119
+  orig: 87, 119
+  offset: 0, 0
+  index: -1
+oldman_Bantya_T
+  rotate: true
+  xy: 1057, 154
+  size: 88, 173
+  orig: 88, 173
+  offset: 0, 0
+  index: -1
+oldman_Baptay_T
+  rotate: true
+  xy: 789, 556
+  size: 230, 161
+  orig: 230, 161
+  offset: 0, 0
+  index: -1
+oldman_Chan_P
+  rotate: true
+  xy: 463, 1018
+  size: 244, 494
+  orig: 244, 494
+  offset: 0, 0
+  index: -1
+oldman_Khuytay_T
+  rotate: true
+  xy: 886, 100
+  size: 89, 168
+  orig: 89, 168
+  offset: 0, 0
+  index: -1
+oldman_Mu tren
+  rotate: true
+  xy: 1187, 1073
+  size: 189, 72
+  orig: 189, 72
+  offset: 0, 0
+  index: -1
+oldman_Toc
+  rotate: false
+  xy: 1057, 244
+  size: 165, 97
+  orig: 165, 97
+  offset: 0, 0
+  index: -1
+oldman_baptay_P
+  rotate: true
+  xy: 1050, 343
+  size: 99, 189
+  orig: 99, 189
+  offset: 0, 0
+  index: -1
+oldman_body
+  rotate: true
+  xy: 2, 120
+  size: 241, 448
+  orig: 241, 448
+  offset: 0, 0
+  index: -1
+oldman_chan_T
+  rotate: false
+  xy: 2, 363
+  size: 346, 444
+  orig: 346, 444
+  offset: 0, 0
+  index: -1
+oldman_khuytay_P
+  rotate: false
+  xy: 914, 802
+  size: 199, 106
+  orig: 199, 106
+  offset: 0, 0
+  index: -1
+oldman_rau
+  rotate: false
+  xy: 886, 19
+  size: 114, 79
+  orig: 114, 79
+  offset: 0, 0
+  index: -1
+q41.2
+  rotate: false
+  xy: 1187, 979
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+q41.3
+  rotate: false
+  xy: 350, 382
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+q_41.1
+  rotate: false
+  xy: 1187, 918
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+toc tren
+  rotate: false
+  xy: 886, 304
+  size: 162, 174
+  orig: 162, 174
+  offset: 0, 0
+  index: -1
+vay duoi
+  rotate: true
+  xy: 1114, 616
+  size: 184, 148
+  orig: 184, 148
+  offset: 0, 0
+  index: -1
+vayb
+  rotate: true
+  xy: 463, 788
+  size: 228, 449
+  orig: 228, 449
+  offset: 0, 0
+  index: -1

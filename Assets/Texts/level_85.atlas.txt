@@ -1,0 +1,55 @@
+
+level_85.png
+size: 1748,1392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 3
+  rotate: false
+  xy: 2, 296
+  size: 1080, 1091
+  orig: 1080, 1091
+  offset: 0, 0
+  index: -1
+Layer 4 copy
+  rotate: false
+  xy: 2, 20
+  size: 1080, 274
+  orig: 1080, 274
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 1553, 1025
+  size: 362, 193
+  orig: 362, 193
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1084, 285
+  size: 467, 1102
+  orig: 467, 1102
+  offset: 0, 0
+  index: -1
+eye copy
+  rotate: false
+  xy: 1553, 888
+  size: 154, 135
+  orig: 154, 135
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1391, 16
+  size: 263, 267
+  orig: 263, 267
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1084, 2
+  size: 281, 305
+  orig: 281, 305
+  offset: 0, 0
+  index: -1

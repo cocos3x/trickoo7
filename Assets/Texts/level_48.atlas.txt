@@ -1,0 +1,125 @@
+
+level_48.png
+size: 1700,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 4 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Ellipse 4 copy 3
+  rotate: false
+  xy: 1658, 337
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 1453, 151
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 2
+  rotate: true
+  xy: 2, 21
+  size: 158, 681
+  orig: 158, 681
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1529, 537
+  size: 172, 168
+  orig: 172, 168
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 1529, 356
+  size: 155, 179
+  orig: 155, 179
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 1183, 22
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 1309, 24
+  size: 102, 155
+  orig: 102, 155
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 1453, 356
+  size: 74, 353
+  orig: 74, 353
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 685, 2
+  size: 177, 190
+  orig: 177, 190
+  offset: 0, 0
+  index: -1
+head_smile
+  rotate: true
+  xy: 877, 2
+  size: 177, 190
+  orig: 177, 190
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 1069, 6
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 1125, 10
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 1241, 22
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1069, 80
+  size: 238, 99
+  orig: 238, 99
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 2, 181
+  size: 1449, 528
+  orig: 1449, 528
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 1413, 93
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1

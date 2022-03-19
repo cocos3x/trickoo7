@@ -1,0 +1,202 @@
+
+141.png
+size: 944,944
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: false
+  xy: 2, 41
+  size: 278, 238
+  orig: 278, 238
+  offset: 0, 0
+  index: -1
+Layer 20 copy
+  rotate: true
+  xy: 544, 447
+  size: 495, 44
+  orig: 495, 44
+  offset: 0, 0
+  index: -1
+Layer 20 copy 3
+  rotate: true
+  xy: 340, 439
+  size: 83, 28
+  orig: 83, 28
+  offset: 0, 0
+  index: -1
+Shape 52
+  rotate: false
+  xy: 396, 7
+  size: 136, 145
+  orig: 136, 145
+  offset: 0, 0
+  index: -1
+Shape 52 copy
+  rotate: true
+  xy: 825, 152
+  size: 106, 98
+  orig: 106, 98
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: true
+  xy: 282, 2
+  size: 89, 112
+  orig: 89, 112
+  offset: 0, 0
+  index: -1
+ban
+  rotate: true
+  xy: 377, 324
+  size: 618, 165
+  orig: 618, 165
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 391, 154
+  size: 148, 168
+  orig: 148, 168
+  offset: 0, 0
+  index: -1
+ghe_sau
+  rotate: false
+  xy: 2, 524
+  size: 373, 418
+  orig: 373, 418
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 281
+  size: 309, 241
+  orig: 309, 241
+  offset: 0, 0
+  index: -1
+head_duoi
+  rotate: false
+  xy: 590, 735
+  size: 328, 207
+  orig: 328, 207
+  offset: 0, 0
+  index: -1
+head_tren
+  rotate: false
+  xy: 590, 574
+  size: 282, 159
+  orig: 282, 159
+  offset: 0, 0
+  index: -1
+meu_gian
+  rotate: true
+  xy: 727, 298
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+meu_khoc
+  rotate: false
+  xy: 590, 517
+  size: 293, 55
+  orig: 293, 55
+  offset: 0, 0
+  index: -1
+meu_mat
+  rotate: true
+  xy: 874, 574
+  size: 159, 66
+  orig: 159, 66
+  offset: 0, 0
+  index: -1
+meu_mieng
+  rotate: true
+  xy: 534, 2
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: -1
+motion (52)
+  rotate: true
+  xy: 2, 16
+  size: 23, 80
+  orig: 23, 80
+  offset: 0, 0
+  index: -1
+q_141.1
+  rotate: true
+  xy: 590, 400
+  size: 115, 217
+  orig: 115, 217
+  offset: 0, 0
+  index: -1
+q_141.2
+  rotate: true
+  xy: 541, 169
+  size: 127, 161
+  orig: 127, 161
+  offset: 0, 0
+  index: -1
+q_141.3
+  rotate: false
+  xy: 282, 93
+  size: 107, 186
+  orig: 107, 186
+  offset: 0, 0
+  index: -1
+tay_ph
+  rotate: false
+  xy: 816, 260
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+tay_tr
+  rotate: false
+  xy: 724, 77
+  size: 99, 107
+  orig: 99, 107
+  offset: 0, 0
+  index: -1
+uong_nuoc/Ellipse 1 copy
+  rotate: true
+  xy: 313, 299
+  size: 223, 25
+  orig: 223, 25
+  offset: 0, 0
+  index: -1
+uong_nuoc/Shape 51
+  rotate: false
+  xy: 594, 20
+  size: 128, 147
+  orig: 128, 147
+  offset: 0, 0
+  index: -1
+uong_nuoc/Shape 51 copy
+  rotate: false
+  xy: 809, 368
+  size: 128, 147
+  orig: 128, 147
+  offset: 0, 0
+  index: -1
+uong_nuoc/coc
+  rotate: false
+  xy: 704, 186
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+uong_nuoc/mat_vui
+  rotate: false
+  xy: 544, 298
+  size: 181, 100
+  orig: 181, 100
+  offset: 0, 0
+  index: -1
+uong_nuoc/mat_vui_mieng
+  rotate: false
+  xy: 724, 36
+  size: 82, 39
+  orig: 82, 39
+  offset: 0, 0
+  index: -1

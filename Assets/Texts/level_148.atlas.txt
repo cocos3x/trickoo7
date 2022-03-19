@@ -1,0 +1,321 @@
+
+level_148.png
+size: 856,856
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boy1/bc
+  rotate: false
+  xy: 732, 49
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+Boy1/ongtayao
+  rotate: false
+  xy: 333, 117
+  size: 73, 121
+  orig: 73, 121
+  offset: 0, 0
+  index: -1
+Boy1/tay
+  rotate: false
+  xy: 517, 45
+  size: 98, 111
+  orig: 98, 111
+  offset: 0, 0
+  index: -1
+Boy2/DT_Cohinh
+  rotate: false
+  xy: 732, 99
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+Boy2/Dienthoai
+  rotate: true
+  xy: 565, 165
+  size: 56, 88
+  orig: 56, 88
+  offset: 0, 0
+  index: -1
+Boy2/Group 3
+  rotate: false
+  xy: 661, 165
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+Boy2/Layer 33 copy 5
+  rotate: false
+  xy: 175, 300
+  size: 244, 63
+  orig: 244, 63
+  offset: 0, 0
+  index: -1
+Boy2/Layer 40
+  rotate: false
+  xy: 611, 419
+  size: 87, 101
+  orig: 87, 101
+  offset: 0, 0
+  index: -1
+Boy2/body
+  rotate: true
+  xy: 188, 365
+  size: 155, 217
+  orig: 155, 217
+  offset: 0, 0
+  index: -1
+Boy2/hair
+  rotate: false
+  xy: 408, 159
+  size: 107, 129
+  orig: 107, 129
+  offset: 0, 0
+  index: -1
+Boy2/ongtayao copy
+  rotate: true
+  xy: 576, 329
+  size: 88, 115
+  orig: 88, 115
+  offset: 0, 0
+  index: -1
+Boy2/ongtayao copy 2
+  rotate: false
+  xy: 421, 290
+  size: 141, 96
+  orig: 141, 96
+  offset: 0, 0
+  index: -1
+Boy2/quan
+  rotate: true
+  xy: 188, 675
+  size: 179, 468
+  orig: 179, 468
+  offset: 0, 0
+  index: -1
+Boy2/tay copy
+  rotate: true
+  xy: 298, 2
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: true
+  xy: 2, 21
+  size: 111, 158
+  orig: 111, 158
+  offset: 0, 0
+  index: -1
+Layer 27
+  rotate: true
+  xy: 661, 224
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+Layer 37
+  rotate: false
+  xy: 517, 158
+  size: 46, 130
+  orig: 46, 130
+  offset: 0, 0
+  index: -1
+Layer 37 copy
+  rotate: true
+  xy: 720, 498
+  size: 72, 125
+  orig: 72, 125
+  offset: 0, 0
+  index: -1
+bc copy
+  rotate: false
+  xy: 800, 360
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+do_1/Layer 25
+  rotate: true
+  xy: 175, 128
+  size: 110, 156
+  orig: 110, 156
+  offset: 0, 0
+  index: -1
+do_1/Layer 26
+  rotate: false
+  xy: 2, 387
+  size: 184, 467
+  orig: 184, 467
+  offset: 0, 0
+  index: -1
+do_1/bc
+  rotate: false
+  xy: 762, 210
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+do_1/tay
+  rotate: true
+  xy: 408, 53
+  size: 104, 107
+  orig: 104, 107
+  offset: 0, 0
+  index: -1
+do_1/tay2
+  rotate: true
+  xy: 175, 240
+  size: 58, 214
+  orig: 58, 214
+  offset: 0, 0
+  index: -1
+do_1/tpoc duoi
+  rotate: true
+  xy: 693, 311
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 731, 179
+  size: 29, 103
+  orig: 29, 103
+  offset: 0, 0
+  index: -1
+tay copy 2
+  rotate: true
+  xy: 384, 7
+  size: 44, 105
+  orig: 44, 105
+  offset: 0, 0
+  index: -1
+tpoc duoi
+  rotate: false
+  xy: 565, 223
+  size: 94, 104
+  orig: 94, 104
+  offset: 0, 0
+  index: -1
+trai tim
+  rotate: false
+  xy: 800, 325
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+vang_1/Group 2
+  rotate: false
+  xy: 491, 2
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+vang_1/Layer 18
+  rotate: true
+  xy: 407, 427
+  size: 93, 202
+  orig: 93, 202
+  offset: 0, 0
+  index: -1
+vang_2/Group 2
+  rotate: true
+  xy: 784, 106
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+vang_2/Layer 13
+  rotate: true
+  xy: 188, 522
+  size: 151, 442
+  orig: 151, 442
+  offset: 0, 0
+  index: -1
+vang_2/Layer 14
+  rotate: false
+  xy: 2, 134
+  size: 171, 251
+  orig: 171, 251
+  offset: 0, 0
+  index: -1
+vang_2/Layer 15
+  rotate: false
+  xy: 720, 572
+  size: 118, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+vang_2/Layer 16
+  rotate: false
+  xy: 617, 62
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1
+vang_2/Layer 17
+  rotate: true
+  xy: 162, 6
+  size: 120, 134
+  orig: 120, 134
+  offset: 0, 0
+  index: -1
+vang_2/Layer 19
+  rotate: true
+  xy: 658, 683
+  size: 171, 185
+  orig: 171, 185
+  offset: 0, 0
+  index: -1
+vang_2/Layer 30
+  rotate: true
+  xy: 555, 14
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+vang_2/Layer 31
+  rotate: false
+  xy: 698, 59
+  size: 32, 104
+  orig: 32, 104
+  offset: 0, 0
+  index: -1
+vang_2/Layer 32
+  rotate: true
+  xy: 833, 118
+  size: 59, 21
+  orig: 59, 21
+  offset: 0, 0
+  index: -1
+vang_2/Layer 33 copy 3
+  rotate: false
+  xy: 407, 388
+  size: 167, 37
+  orig: 167, 37
+  offset: 0, 0
+  index: -1
+vang_2/Layer 41
+  rotate: false
+  xy: 840, 667
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+vang_2/tay
+  rotate: true
+  xy: 700, 414
+  size: 82, 128
+  orig: 82, 128
+  offset: 0, 0
+  index: -1
+vang_2/toc tren
+  rotate: false
+  xy: 632, 532
+  size: 86, 141
+  orig: 86, 141
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+level_6.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bold
+  rotate: false
+  xy: 86, 100
+  size: 129, 197
+  orig: 129, 197
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 2
+  size: 82, 295
+  orig: 82, 295
+  offset: 0, 0
+  index: -1
+water2
+  rotate: false
+  xy: 86, 41
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1

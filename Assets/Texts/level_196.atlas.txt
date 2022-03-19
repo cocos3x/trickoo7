@@ -1,0 +1,48 @@
+
+level_196.png
+size: 1468,584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 579, 579
+  orig: 579, 579
+  offset: 0, 0
+  index: -1
+khung1
+  rotate: false
+  xy: 1164, 17
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+khung2
+  rotate: false
+  xy: 1193, 17
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 1164, 44
+  size: 70, 295
+  orig: 70, 295
+  offset: 0, 0
+  index: -1
+lonxon
+  rotate: false
+  xy: 583, 2
+  size: 579, 579
+  orig: 579, 579
+  offset: 0, 0
+  index: -1
+nhanvien
+  rotate: false
+  xy: 1164, 116
+  size: 299, 465
+  orig: 299, 465
+  offset: 0, 0
+  index: -1

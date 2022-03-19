@@ -1,0 +1,202 @@
+
+level_207.png
+size: 1900,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_bap tay
+  rotate: true
+  xy: 1500, 11
+  size: 165, 162
+  orig: 165, 162
+  offset: 0, 0
+  index: -1
+Girl_dau
+  rotate: false
+  xy: 848, 2
+  size: 167, 147
+  orig: 167, 147
+  offset: 0, 0
+  index: -1
+Girl_khuytay
+  rotate: false
+  xy: 1017, 20
+  size: 192, 129
+  orig: 192, 129
+  offset: 0, 0
+  index: -1
+Girl_toc sau
+  rotate: false
+  xy: 1343, 699
+  size: 259, 285
+  orig: 259, 285
+  offset: 0, 0
+  index: -1
+Girl_vay
+  rotate: true
+  xy: 810, 649
+  size: 335, 283
+  orig: 335, 283
+  offset: 0, 0
+  index: -1
+Onggia_BC
+  rotate: true
+  xy: 1355, 468
+  size: 229, 279
+  orig: 229, 279
+  offset: 0, 0
+  index: -1
+Onggia_tay1
+  rotate: false
+  xy: 1156, 157
+  size: 233, 303
+  orig: 233, 303
+  offset: 0, 0
+  index: -1
+Onggia_than
+  rotate: false
+  xy: 522, 38
+  size: 324, 418
+  orig: 324, 418
+  offset: 0, 0
+  index: -1
+Onggia_vai1
+  rotate: true
+  xy: 1391, 177
+  size: 111, 75
+  orig: 111, 75
+  offset: 0, 0
+  index: -1
+as
+  rotate: true
+  xy: 1664, 20
+  size: 156, 194
+  orig: 156, 194
+  offset: 0, 0
+  index: -1
+bagia_ao
+  rotate: false
+  xy: 454, 458
+  size: 354, 526
+  orig: 354, 526
+  offset: 0, 0
+  index: -1
+bagia_ban tay
+  rotate: false
+  xy: 1211, 30
+  size: 109, 125
+  orig: 109, 125
+  offset: 0, 0
+  index: -1
+bagia_bantay
+  rotate: true
+  xy: 1719, 196
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+bagia_bc1
+  rotate: false
+  xy: 1322, 34
+  size: 176, 121
+  orig: 176, 121
+  offset: 0, 0
+  index: -1
+bagia_bc2
+  rotate: true
+  xy: 1083, 462
+  size: 185, 199
+  orig: 185, 199
+  offset: 0, 0
+  index: -1
+bagia_dau
+  rotate: true
+  xy: 1391, 290
+  size: 176, 227
+  orig: 176, 227
+  offset: 0, 0
+  index: -1
+bagia_mu
+  rotate: true
+  xy: 1095, 686
+  size: 298, 246
+  orig: 298, 246
+  offset: 0, 0
+  index: -1
+bagia_tay1
+  rotate: true
+  xy: 1636, 304
+  size: 183, 251
+  orig: 183, 251
+  offset: 0, 0
+  index: -1
+bagia_tay2
+  rotate: true
+  xy: 1468, 178
+  size: 110, 249
+  orig: 110, 249
+  offset: 0, 0
+  index: -1
+bagia_tocsau
+  rotate: true
+  xy: 1604, 701
+  size: 283, 258
+  orig: 283, 258
+  offset: 0, 0
+  index: -1
+bagia_vai1
+  rotate: true
+  xy: 810, 459
+  size: 188, 271
+  orig: 188, 271
+  offset: 0, 0
+  index: -1
+bagia_vai2
+  rotate: true
+  xy: 1636, 489
+  size: 210, 257
+  orig: 210, 257
+  offset: 0, 0
+  index: -1
+caynen
+  rotate: false
+  xy: 1284, 465
+  size: 69, 219
+  orig: 69, 219
+  offset: 0, 0
+  index: -1
+chan
+  rotate: true
+  xy: 2, 9
+  size: 380, 518
+  orig: 380, 518
+  offset: 0, 0
+  index: -1
+den1
+  rotate: false
+  xy: 1810, 215
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+den2
+  rotate: false
+  xy: 848, 151
+  size: 306, 306
+  orig: 306, 306
+  offset: 0, 0
+  index: -1
+giuong
+  rotate: false
+  xy: 2, 391
+  size: 450, 593
+  orig: 450, 593
+  offset: 0, 0
+  index: -1
+lua
+  rotate: false
+  xy: 454, 404
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+level_222.png
+size: 1244,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: false
+  xy: 940, 208
+  size: 300, 88
+  orig: 302, 90
+  offset: 1, 1
+  index: -1
+poppy_bao
+  rotate: false
+  xy: 761, 2
+  size: 113, 99
+  orig: 119, 101
+  offset: 5, 1
+  index: -1
+poppy_body
+  rotate: false
+  xy: 401, 84
+  size: 188, 212
+  orig: 190, 214
+  offset: 1, 1
+  index: -1
+poppy_btay1
+  rotate: true
+  xy: 401, 11
+  size: 71, 67
+  orig: 74, 69
+  offset: 1, 1
+  index: -1
+poppy_bua
+  rotate: true
+  xy: 940, 119
+  size: 87, 86
+  orig: 89, 88
+  offset: 1, 1
+  index: -1
+poppy_dau
+  rotate: false
+  xy: 2, 8
+  size: 322, 288
+  orig: 324, 290
+  offset: 1, 1
+  index: -1
+poppy_keo
+  rotate: false
+  xy: 653, 4
+  size: 106, 93
+  orig: 111, 101
+  offset: 4, 7
+  index: -1
+poppy_leg
+  rotate: false
+  xy: 690, 103
+  size: 177, 193
+  orig: 179, 195
+  offset: 1, 1
+  index: -1
+poppy_longvu
+  rotate: false
+  xy: 326, 33
+  size: 73, 263
+  orig: 73, 263
+  offset: 0, 0
+  index: -1
+poppy_mat
+  rotate: false
+  xy: 1028, 123
+  size: 163, 83
+  orig: 165, 85
+  offset: 1, 1
+  index: -1
+poppy_mom1
+  rotate: false
+  xy: 470, 13
+  size: 181, 69
+  orig: 183, 71
+  offset: 1, 1
+  index: -1
+poppy_mom2
+  rotate: false
+  xy: 876, 26
+  size: 163, 87
+  orig: 165, 89
+  offset: 1, 1
+  index: -1
+poppy_mom3
+  rotate: true
+  xy: 869, 115
+  size: 181, 69
+  orig: 183, 71
+  offset: 1, 1
+  index: -1
+poppy_tay1
+  rotate: true
+  xy: 1041, 4
+  size: 117, 156
+  orig: 117, 156
+  offset: 0, 0
+  index: -1
+poppy_tay2
+  rotate: true
+  xy: 591, 99
+  size: 197, 97
+  orig: 197, 97
+  offset: 0, 0
+  index: -1

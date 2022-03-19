@@ -1,0 +1,62 @@
+
+level_91.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1084, 1060
+  size: 980, 655
+  orig: 982, 657
+  offset: 1, 1
+  index: -1
+chan
+  rotate: false
+  xy: 2, 629
+  size: 1080, 1411
+  orig: 1082, 1413
+  offset: 1, 1
+  index: -1
+face1
+  rotate: false
+  xy: 1084, 15
+  size: 404, 358
+  orig: 406, 360
+  offset: 1, 1
+  index: -1
+face2
+  rotate: false
+  xy: 2, 2
+  size: 399, 43
+  orig: 401, 45
+  offset: 1, 1
+  index: -1
+goi
+  rotate: false
+  xy: 2, 186
+  size: 1080, 441
+  orig: 1082, 443
+  offset: 1, 1
+  index: -1
+light
+  rotate: false
+  xy: 201, 54
+  size: 130, 130
+  orig: 136, 136
+  offset: 3, 3
+  index: -1
+mat
+  rotate: true
+  xy: 1084, 375
+  size: 683, 791
+  orig: 685, 793
+  offset: 1, 1
+  index: -1
+mieng
+  rotate: false
+  xy: 2, 47
+  size: 197, 137
+  orig: 199, 139
+  offset: 1, 1
+  index: -1

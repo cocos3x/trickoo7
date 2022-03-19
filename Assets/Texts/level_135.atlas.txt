@@ -1,0 +1,160 @@
+
+level_135.png
+size: 868,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 11
+  rotate: false
+  xy: 2, 659
+  size: 335, 357
+  orig: 337, 359
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: true
+  xy: 2, 336
+  size: 321, 377
+  orig: 323, 379
+  offset: 1, 1
+  index: -1
+b_body
+  rotate: false
+  xy: 597, 441
+  size: 153, 238
+  orig: 153, 238
+  offset: 0, 0
+  index: -1
+b_face1
+  rotate: false
+  xy: 796, 728
+  size: 67, 77
+  orig: 69, 79
+  offset: 1, 1
+  index: -1
+b_face2
+  rotate: false
+  xy: 796, 807
+  size: 67, 81
+  orig: 69, 83
+  offset: 1, 1
+  index: -1
+b_face3
+  rotate: false
+  xy: 682, 41
+  size: 112, 94
+  orig: 114, 96
+  offset: 1, 1
+  index: -1
+b_hand1
+  rotate: true
+  xy: 597, 197
+  size: 99, 186
+  orig: 101, 188
+  offset: 1, 1
+  index: -1
+b_hand2
+  rotate: false
+  xy: 512, 9
+  size: 168, 126
+  orig: 170, 128
+  offset: 1, 1
+  index: -1
+b_head
+  rotate: true
+  xy: 354, 2
+  size: 133, 156
+  orig: 135, 158
+  offset: 1, 1
+  index: -1
+b_leg1
+  rotate: false
+  xy: 381, 197
+  size: 109, 482
+  orig: 109, 482
+  offset: 0, 0
+  index: -1
+b_leg2
+  rotate: true
+  xy: 339, 890
+  size: 126, 482
+  orig: 126, 482
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 374, 137
+  size: 451, 58
+  orig: 453, 60
+  offset: 1, 1
+  index: -1
+g_body
+  rotate: true
+  xy: 2, 185
+  size: 149, 370
+  orig: 149, 370
+  offset: 0, 0
+  index: -1
+g_face1
+  rotate: true
+  xy: 796, 61
+  size: 74, 63
+  orig: 76, 65
+  offset: 1, 1
+  index: -1
+g_face2
+  rotate: true
+  xy: 785, 222
+  size: 74, 71
+  orig: 76, 73
+  offset: 1, 1
+  index: -1
+g_gun
+  rotate: false
+  xy: 752, 445
+  size: 100, 83
+  orig: 102, 85
+  offset: 1, 1
+  index: -1
+g_hand1
+  rotate: false
+  xy: 597, 298
+  size: 234, 141
+  orig: 234, 141
+  offset: 0, 0
+  index: -1
+g_hand2
+  rotate: true
+  xy: 752, 530
+  size: 149, 112
+  orig: 151, 114
+  offset: 1, 1
+  index: -1
+g_head
+  rotate: true
+  xy: 2, 23
+  size: 160, 205
+  orig: 162, 207
+  offset: 1, 1
+  index: -1
+g_leg1
+  rotate: true
+  xy: 339, 681
+  size: 207, 455
+  orig: 207, 455
+  offset: 0, 0
+  index: -1
+g_leg2
+  rotate: false
+  xy: 492, 239
+  size: 103, 440
+  orig: 103, 440
+  offset: 0, 0
+  index: -1
+g_tocsau
+  rotate: false
+  xy: 209, 18
+  size: 143, 165
+  orig: 145, 167
+  offset: 1, 1
+  index: -1

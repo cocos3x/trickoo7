@@ -1,0 +1,125 @@
+
+level_16.png
+size: 1748,1748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 3
+  size: 1080, 1743
+  orig: 1080, 1743
+  offset: 0, 0
+  index: -1
+Layer 76
+  rotate: true
+  xy: 1560, 590
+  size: 314, 91
+  orig: 314, 91
+  offset: 0, 0
+  index: -1
+bikini
+  rotate: false
+  xy: 1451, 7
+  size: 146, 129
+  orig: 146, 129
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1084, 32
+  size: 212, 872
+  orig: 212, 872
+  offset: 0, 0
+  index: -1
+dress
+  rotate: false
+  xy: 1298, 516
+  size: 260, 388
+  orig: 260, 388
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: true
+  xy: 1628, 1218
+  size: 101, 87
+  orig: 101, 87
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1628, 1321
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1298, 138
+  size: 230, 376
+  orig: 230, 376
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 1599, 2
+  size: 101, 243
+  orig: 101, 243
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 1530, 247
+  size: 165, 267
+  orig: 165, 267
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1298, 3
+  size: 133, 151
+  orig: 133, 151
+  offset: 0, 0
+  index: -1
+head copy
+  rotate: false
+  xy: 1628, 1593
+  size: 108, 153
+  orig: 108, 153
+  offset: 0, 0
+  index: -1
+q_16.2
+  rotate: false
+  xy: 1084, 906
+  size: 542, 840
+  orig: 542, 840
+  offset: 0, 0
+  index: -1
+shoes_b_1
+  rotate: false
+  xy: 1628, 1009
+  size: 73, 105
+  orig: 73, 105
+  offset: 0, 0
+  index: -1
+shoes_b_2
+  rotate: true
+  xy: 1084, 11
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+shoes_f
+  rotate: false
+  xy: 1628, 1116
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+trouser
+  rotate: true
+  xy: 1628, 1423
+  size: 168, 97
+  orig: 168, 97
+  offset: 0, 0
+  index: -1

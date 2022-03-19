@@ -1,0 +1,104 @@
+
+level_19.png
+size: 596,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1_BC
+  rotate: false
+  xy: 138, 4
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+g1_Bantay_T
+  rotate: false
+  xy: 212, 9
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+g1_Bap_Tay
+  rotate: false
+  xy: 466, 415
+  size: 96, 179
+  orig: 96, 179
+  offset: 0, 0
+  index: -1
+g1_Body
+  rotate: false
+  xy: 138, 327
+  size: 138, 267
+  orig: 138, 267
+  offset: 0, 0
+  index: -1
+g1_Chan_T
+  rotate: false
+  xy: 2, 2
+  size: 134, 592
+  orig: 134, 592
+  offset: 0, 0
+  index: -1
+g1_Toc_Tren
+  rotate: false
+  xy: 278, 414
+  size: 186, 180
+  orig: 186, 180
+  offset: 0, 0
+  index: -1
+g1_ao
+  rotate: false
+  xy: 438, 112
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+g1_face
+  rotate: false
+  xy: 468, 300
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+g1_khuytay_T
+  rotate: true
+  xy: 251, 82
+  size: 66, 138
+  orig: 66, 138
+  offset: 0, 0
+  index: -1
+g1_khuytay_p
+  rotate: true
+  xy: 251, 188
+  size: 64, 229
+  orig: 64, 229
+  offset: 0, 0
+  index: -1
+g1_quan copy
+  rotate: true
+  xy: 482, 188
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+g1_toc sau
+  rotate: false
+  xy: 278, 254
+  size: 188, 158
+  orig: 188, 158
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 251, 150
+  size: 185, 36
+  orig: 185, 36
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 138, 83
+  size: 111, 242
+  orig: 111, 242
+  offset: 0, 0
+  index: -1

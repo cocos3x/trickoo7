@@ -1,0 +1,90 @@
+
+level_103.png
+size: 1092,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 991, 424
+  size: 66, 116
+  orig: 66, 116
+  offset: 0, 0
+  index: -1
+Layer 7 copy
+  rotate: false
+  xy: 991, 424
+  size: 66, 116
+  orig: 66, 116
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 991, 76
+  size: 12, 110
+  orig: 12, 110
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 181, 152
+  size: 165, 118
+  orig: 165, 118
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 991, 306
+  size: 64, 116
+  orig: 64, 116
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 991, 188
+  size: 60, 116
+  orig: 60, 116
+  offset: 0, 0
+  index: -1
+ELECTRONIC CLOCK
+  rotate: false
+  xy: 2, 272
+  size: 488, 207
+  orig: 488, 207
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 481
+  size: 738, 607
+  orig: 738, 607
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 2, 110
+  size: 160, 177
+  orig: 160, 177
+  offset: 0, 0
+  index: -1
+bom
+  rotate: true
+  xy: 742, 15
+  size: 525, 247
+  orig: 525, 247
+  offset: 0, 0
+  index: -1
+drag
+  rotate: true
+  xy: 492, 35
+  size: 444, 213
+  orig: 444, 213
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 742, 542
+  size: 346, 546
+  orig: 346, 546
+  offset: 0, 0
+  index: -1

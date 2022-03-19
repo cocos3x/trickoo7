@@ -1,0 +1,174 @@
+
+level_78.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: true
+  xy: 1190, 231
+  size: 279, 71
+  orig: 281, 73
+  offset: 1, 1
+  index: -1
+dog_chan1
+  rotate: false
+  xy: 2, 6
+  size: 205, 123
+  orig: 207, 125
+  offset: 1, 1
+  index: -1
+dog_chan2
+  rotate: true
+  xy: 1150, 43
+  size: 170, 121
+  orig: 172, 123
+  offset: 1, 1
+  index: -1
+dog_dau
+  rotate: true
+  xy: 1541, 2
+  size: 236, 161
+  orig: 239, 163
+  offset: 1, 1
+  index: -1
+dog_duoi
+  rotate: true
+  xy: 493, 40
+  size: 102, 114
+  orig: 102, 114
+  offset: 0, 0
+  index: -1
+dog_than
+  rotate: true
+  xy: 532, 200
+  size: 310, 159
+  orig: 312, 161
+  offset: 1, 1
+  index: -1
+rabbit_body
+  rotate: true
+  xy: 693, 210
+  size: 300, 231
+  orig: 300, 231
+  offset: 0, 0
+  index: -1
+rabbit_duoi
+  rotate: true
+  xy: 1623, 259
+  size: 85, 84
+  orig: 87, 86
+  offset: 1, 1
+  index: -1
+rabbit_leg1
+  rotate: false
+  xy: 215, 134
+  size: 108, 54
+  orig: 108, 54
+  offset: 0, 0
+  index: -1
+rabbit_leg2
+  rotate: false
+  xy: 880, 35
+  size: 110, 173
+  orig: 110, 173
+  offset: 0, 0
+  index: -1
+rabbit_tai1
+  rotate: true
+  xy: 461, 144
+  size: 44, 153
+  orig: 48, 156
+  offset: 2, 2
+  index: -1
+rabbit_tai2
+  rotate: false
+  xy: 403, 12
+  size: 88, 128
+  orig: 91, 130
+  offset: 2, 1
+  index: -1
+sheep_body
+  rotate: true
+  xy: 2, 131
+  size: 379, 211
+  orig: 381, 213
+  offset: 1, 1
+  index: -1
+sheep_face
+  rotate: false
+  xy: 616, 6
+  size: 262, 192
+  orig: 265, 194
+  offset: 1, 1
+  index: -1
+sheep_leg
+  rotate: true
+  xy: 1561, 240
+  size: 270, 60
+  orig: 272, 62
+  offset: 1, 1
+  index: -1
+sheep_leg2
+  rotate: true
+  xy: 1494, 240
+  size: 270, 65
+  orig: 272, 67
+  offset: 1, 1
+  index: -1
+sun
+  rotate: true
+  xy: 215, 190
+  size: 320, 315
+  orig: 322, 318
+  offset: 1, 2
+  index: -1
+wolf_ tail
+  rotate: false
+  xy: 992, 3
+  size: 156, 210
+  orig: 156, 210
+  offset: 0, 0
+  index: -1
+wolf_body
+  rotate: true
+  xy: 1263, 239
+  size: 271, 229
+  orig: 273, 231
+  offset: 1, 1
+  index: -1
+wolf_dau
+  rotate: true
+  xy: 926, 215
+  size: 295, 262
+  orig: 297, 264
+  offset: 1, 1
+  index: -1
+wolf_hand
+  rotate: true
+  xy: 1623, 346
+  size: 164, 84
+  orig: 164, 84
+  offset: 0, 0
+  index: -1
+wolf_hand2
+  rotate: false
+  xy: 209, 6
+  size: 192, 123
+  orig: 192, 123
+  offset: 0, 0
+  index: -1
+wolf_leg1
+  rotate: true
+  xy: 1273, 68
+  size: 169, 266
+  orig: 169, 266
+  offset: 0, 0
+  index: -1
+wolf_leg2
+  rotate: true
+  xy: 325, 142
+  size: 46, 134
+  orig: 46, 134
+  offset: 0, 0
+  index: -1

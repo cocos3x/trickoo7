@@ -1,0 +1,55 @@
+
+level_3.png
+size: 1476,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 94
+  rotate: false
+  xy: 2, 140
+  size: 880, 132
+  orig: 880, 132
+  offset: 0, 0
+  index: -1
+mat_trang
+  rotate: false
+  xy: 884, 96
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+may1
+  rotate: false
+  xy: 405, 9
+  size: 313, 129
+  orig: 313, 129
+  offset: 0, 0
+  index: -1
+may2
+  rotate: false
+  xy: 2, 2
+  size: 401, 136
+  orig: 401, 136
+  offset: 0, 0
+  index: -1
+nu1
+  rotate: false
+  xy: 1095, 11
+  size: 376, 997
+  orig: 376, 997
+  offset: 0, 0
+  index: -1
+nu2
+  rotate: true
+  xy: 2, 624
+  size: 384, 1091
+  orig: 384, 1091
+  offset: 0, 0
+  index: -1
+nu3
+  rotate: true
+  xy: 2, 274
+  size: 348, 1048
+  orig: 348, 1048
+  offset: 0, 0
+  index: -1

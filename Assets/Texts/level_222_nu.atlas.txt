@@ -1,0 +1,132 @@
+
+level_222_nu.png
+size: 1188,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: false
+  xy: 872, 147
+  size: 300, 88
+  orig: 302, 90
+  offset: 1, 1
+  index: -1
+gm_body
+  rotate: false
+  xy: 2, 158
+  size: 218, 384
+  orig: 218, 384
+  offset: 0, 0
+  index: -1
+gm_head
+  rotate: true
+  xy: 872, 237
+  size: 305, 312
+  orig: 307, 314
+  offset: 1, 1
+  index: -1
+gm_tay1
+  rotate: true
+  xy: 199, 6
+  size: 150, 179
+  orig: 152, 181
+  offset: 1, 1
+  index: -1
+gm_tay2
+  rotate: true
+  xy: 2, 2
+  size: 154, 195
+  orig: 156, 197
+  offset: 1, 1
+  index: -1
+gm_tear
+  rotate: true
+  xy: 264, 171
+  size: 26, 47
+  orig: 28, 49
+  offset: 1, 1
+  index: -1
+nu_body
+  rotate: false
+  xy: 481, 200
+  size: 187, 342
+  orig: 187, 342
+  offset: 0, 0
+  index: -1
+nu_daytroi1
+  rotate: false
+  xy: 783, 116
+  size: 52, 50
+  orig: 54, 52
+  offset: 1, 1
+  index: -1
+nu_daytroi2
+  rotate: false
+  xy: 1123, 97
+  size: 50, 48
+  orig: 52, 50
+  offset: 1, 1
+  index: -1
+nu_face
+  rotate: false
+  xy: 543, 15
+  size: 238, 183
+  orig: 240, 185
+  offset: 1, 1
+  index: -1
+nu_mat
+  rotate: false
+  xy: 783, 12
+  size: 168, 102
+  orig: 171, 104
+  offset: 2, 1
+  index: -1
+nu_mat2
+  rotate: false
+  xy: 953, 43
+  size: 168, 102
+  orig: 171, 104
+  offset: 2, 1
+  index: -1
+nu_mom1
+  rotate: true
+  xy: 222, 159
+  size: 38, 40
+  orig: 41, 42
+  offset: 2, 1
+  index: -1
+nu_mom2
+  rotate: false
+  xy: 783, 168
+  size: 77, 56
+  orig: 79, 58
+  offset: 1, 1
+  index: -1
+nu_mom3
+  rotate: false
+  xy: 1123, 53
+  size: 48, 42
+  orig: 50, 44
+  offset: 1, 1
+  index: -1
+nu_tay1
+  rotate: true
+  xy: 380, 6
+  size: 191, 161
+  orig: 191, 161
+  offset: 0, 0
+  index: -1
+nu_toc1
+  rotate: true
+  xy: 670, 226
+  size: 316, 200
+  orig: 318, 202
+  offset: 1, 1
+  index: -1
+nu_toc2
+  rotate: true
+  xy: 222, 199
+  size: 343, 257
+  orig: 345, 259
+  offset: 1, 1
+  index: -1

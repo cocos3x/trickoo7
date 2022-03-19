@@ -1,0 +1,125 @@
+
+level1_tetmong.png
+size: 1596,1596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 56
+  size: 541, 722
+  orig: 541, 722
+  offset: 0, 0
+  index: -1
+p_bodyy
+  rotate: false
+  xy: 2, 780
+  size: 758, 813
+  orig: 758, 813
+  offset: 0, 0
+  index: -1
+p_tay1_tetmong
+  rotate: false
+  xy: 762, 963
+  size: 411, 630
+  orig: 411, 630
+  offset: 0, 0
+  index: -1
+p_tay2_tetmong
+  rotate: true
+  xy: 966, 6
+  size: 369, 602
+  orig: 369, 602
+  offset: 0, 0
+  index: -1
+red_btay
+  rotate: false
+  xy: 545, 9
+  size: 117, 147
+  orig: 117, 147
+  offset: 0, 0
+  index: -1
+red_x
+  rotate: true
+  xy: 1175, 1251
+  size: 342, 405
+  orig: 342, 405
+  offset: 0, 0
+  index: -1
+slap
+  rotate: false
+  xy: 1048, 797
+  size: 202, 164
+  orig: 202, 164
+  offset: 0, 0
+  index: -1
+x_body
+  rotate: true
+  xy: 966, 377
+  size: 402, 612
+  orig: 402, 612
+  offset: 0, 0
+  index: -1
+x_btay
+  rotate: false
+  xy: 664, 24
+  size: 120, 132
+  orig: 120, 132
+  offset: 0, 0
+  index: -1
+x_face
+  rotate: false
+  xy: 1175, 990
+  size: 307, 259
+  orig: 307, 259
+  offset: 0, 0
+  index: -1
+x_lmay
+  rotate: false
+  xy: 2, 2
+  size: 147, 52
+  orig: 147, 52
+  offset: 0, 0
+  index: -1
+x_mat
+  rotate: false
+  xy: 288, 16
+  size: 113, 38
+  orig: 113, 38
+  offset: 0, 0
+  index: -1
+x_mom
+  rotate: false
+  xy: 403, 17
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+x_mong
+  rotate: false
+  xy: 545, 158
+  size: 419, 620
+  orig: 419, 620
+  offset: 0, 0
+  index: -1
+x_ncmat1
+  rotate: true
+  xy: 786, 39
+  size: 117, 91
+  orig: 117, 91
+  offset: 0, 0
+  index: -1
+x_ncmat2
+  rotate: false
+  xy: 151, 11
+  size: 135, 43
+  orig: 135, 43
+  offset: 0, 0
+  index: -1
+x_toc
+  rotate: false
+  xy: 762, 781
+  size: 284, 180
+  orig: 284, 180
+  offset: 0, 0
+  index: -1

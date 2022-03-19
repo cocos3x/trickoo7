@@ -1,0 +1,69 @@
+
+level_108.png
+size: 1056,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 791, 82
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 735, 66
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 678, 66
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 637, 49
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+A
+  rotate: false
+  xy: 637, 314
+  size: 207, 208
+  orig: 207, 208
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 637, 104
+  size: 207, 208
+  orig: 207, 208
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 846, 314
+  size: 207, 208
+  orig: 207, 208
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 846, 104
+  size: 207, 208
+  orig: 207, 208
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 2
+  size: 633, 520
+  orig: 633, 520
+  offset: 0, 0
+  index: -1

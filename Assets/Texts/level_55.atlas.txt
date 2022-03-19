@@ -1,0 +1,202 @@
+
+level_55.png
+size: 1216,1216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 7
+  rotate: false
+  xy: 1122, 47
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+Layer 7 copy
+  rotate: false
+  xy: 1122, 129
+  size: 73, 87
+  orig: 73, 87
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 443, 731
+  size: 450, 111
+  orig: 450, 111
+  offset: 0, 0
+  index: -1
+Layer 8 copy
+  rotate: false
+  xy: 443, 731
+  size: 450, 111
+  orig: 450, 111
+  offset: 0, 0
+  index: -1
+alien_body
+  rotate: false
+  xy: 1073, 369
+  size: 129, 273
+  orig: 129, 273
+  offset: 0, 0
+  index: -1
+alien_eye
+  rotate: false
+  xy: 443, 697
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+alien_hand
+  rotate: true
+  xy: 2, 30
+  size: 64, 138
+  orig: 64, 138
+  offset: 0, 0
+  index: -1
+alien_hand copy
+  rotate: false
+  xy: 1056, 78
+  size: 64, 138
+  orig: 64, 138
+  offset: 0, 0
+  index: -1
+alien_leg
+  rotate: false
+  xy: 895, 732
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+alien_leg2
+  rotate: true
+  xy: 952, 397
+  size: 60, 102
+  orig: 60, 102
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 379, 307
+  size: 217, 388
+  orig: 217, 388
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: true
+  xy: 739, 55
+  size: 301, 168
+  orig: 301, 168
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1055, 218
+  size: 134, 149
+  orig: 134, 149
+  offset: 0, 0
+  index: -1
+left arm
+  rotate: false
+  xy: 1049, 1027
+  size: 165, 187
+  orig: 165, 187
+  offset: 0, 0
+  index: -1
+left leg copy
+  rotate: true
+  xy: 443, 844
+  size: 193, 584
+  orig: 193, 584
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 697
+  size: 439, 517
+  orig: 439, 517
+  offset: 0, 0
+  index: -1
+lwaiter_efft arm
+  rotate: false
+  xy: 803, 358
+  size: 147, 371
+  orig: 147, 371
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 909, 192
+  size: 144, 164
+  orig: 144, 164
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: false
+  xy: 1073, 644
+  size: 131, 381
+  orig: 131, 381
+  offset: 0, 0
+  index: -1
+right leg copy
+  rotate: false
+  xy: 192, 102
+  size: 185, 593
+  orig: 185, 593
+  offset: 0, 0
+  index: -1
+ufo
+  rotate: true
+  xy: 598, 359
+  size: 370, 203
+  orig: 370, 203
+  offset: 0, 0
+  index: -1
+waiter_body
+  rotate: true
+  xy: 379, 118
+  size: 187, 358
+  orig: 187, 358
+  offset: 0, 0
+  index: -1
+waiter_face
+  rotate: false
+  xy: 142, 8
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+waiter_face2
+  rotate: false
+  xy: 215, 20
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+waiter_head
+  rotate: false
+  xy: 909, 43
+  size: 145, 147
+  orig: 145, 147
+  offset: 0, 0
+  index: -1
+waiter_left leg
+  rotate: false
+  xy: 2, 96
+  size: 188, 599
+  orig: 188, 599
+  offset: 0, 0
+  index: -1
+waiter_right leg
+  rotate: true
+  xy: 443, 1039
+  size: 175, 604
+  orig: 175, 604
+  offset: 0, 0
+  index: -1
+waiter_righy arm
+  rotate: false
+  xy: 952, 459
+  size: 119, 383
+  orig: 119, 383
+  offset: 0, 0
+  index: -1

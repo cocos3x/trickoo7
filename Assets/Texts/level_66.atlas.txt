@@ -1,0 +1,146 @@
+
+level_66.png
+size: 2032,924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: false
+  xy: 1648, 830
+  size: 381, 89
+  orig: 383, 91
+  offset: 1, 1
+  index: -1
+g_chan1
+  rotate: true
+  xy: 2, 8
+  size: 201, 532
+  orig: 201, 532
+  offset: 0, 0
+  index: -1
+g_chan2
+  rotate: false
+  xy: 675, 19
+  size: 134, 246
+  orig: 134, 246
+  offset: 0, 0
+  index: -1
+g_face1
+  rotate: true
+  xy: 1539, 22
+  size: 95, 77
+  orig: 97, 79
+  offset: 1, 1
+  index: -1
+g_face2
+  rotate: false
+  xy: 1618, 32
+  size: 83, 85
+  orig: 85, 87
+  offset: 1, 1
+  index: -1
+g_head1
+  rotate: false
+  xy: 1648, 267
+  size: 310, 280
+  orig: 310, 280
+  offset: 0, 0
+  index: -1
+g_head2
+  rotate: false
+  xy: 1127, 25
+  size: 310, 280
+  orig: 310, 280
+  offset: 0, 0
+  index: -1
+g_tayp
+  rotate: true
+  xy: 1703, 84
+  size: 181, 279
+  orig: 181, 279
+  offset: 0, 0
+  index: -1
+g_taytr1
+  rotate: true
+  xy: 1439, 13
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+g_taytr2
+  rotate: false
+  xy: 1512, 343
+  size: 113, 103
+  orig: 113, 103
+  offset: 0, 0
+  index: -1
+g_tocsau
+  rotate: true
+  xy: 811, 2
+  size: 272, 212
+  orig: 272, 212
+  offset: 0, 0
+  index: -1
+g_vai
+  rotate: false
+  xy: 2, 211
+  size: 517, 708
+  orig: 517, 708
+  offset: 0, 0
+  index: -1
+man_body
+  rotate: true
+  xy: 1648, 549
+  size: 279, 359
+  orig: 281, 361
+  offset: 1, 1
+  index: -1
+man_chan1
+  rotate: true
+  xy: 1057, 307
+  size: 139, 453
+  orig: 139, 453
+  offset: 0, 0
+  index: -1
+man_chan2
+  rotate: false
+  xy: 536, 19
+  size: 137, 427
+  orig: 137, 427
+  offset: 0, 0
+  index: -1
+man_face2
+  rotate: true
+  xy: 675, 276
+  size: 170, 190
+  orig: 172, 192
+  offset: 1, 1
+  index: -1
+man_face3
+  rotate: true
+  xy: 867, 277
+  size: 169, 188
+  orig: 171, 190
+  offset: 1, 1
+  index: -1
+man_tayp2
+  rotate: false
+  xy: 1439, 119
+  size: 190, 186
+  orig: 190, 186
+  offset: 0, 0
+  index: -1
+man_taytr
+  rotate: true
+  xy: 1025, 24
+  size: 241, 100
+  orig: 241, 100
+  offset: 0, 0
+  index: -1
+spider_man
+  rotate: true
+  xy: 521, 448
+  size: 471, 1125
+  orig: 471, 1125
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 106799970, guid: 1c14468f0573ee7c18c192716e63d19d, type: 3}
+  m_Name: "level_23_SkeletonData"
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 9b8c9a71769746c59ae6d3e50e155c84, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: fef5bd6e92d14e939af29a13c434e110, type: 3}
+  isUpgradingBlendModeMaterials: 0
+  blendModeMaterials:
+    requiresBlendModeMaterials: 1
+    applyAdditiveMaterial: 1
+    additiveMaterials: []
+    multiplyMaterials: []
+    screenMaterials:
+    - pageName: "level_23.png"
+      material: {fileID: 2100000, guid: ca03c29ce1ee4b80b3e713277e6680f3, type: 2}
+  skeletonDataModifiers: []
+  fromAnimation:
+  - "2"
+  toAnimation:
+  - "3"
+  duration: 
+  - 0
+  defaultMix: 0
+  controller: {fileID: 0}

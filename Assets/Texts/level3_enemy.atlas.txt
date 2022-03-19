@@ -1,0 +1,76 @@
+
+level3_enemy.png
+size: 852,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: false
+  xy: 349, 195
+  size: 397, 130
+  orig: 397, 130
+  offset: 0, 0
+  index: -1
+eye copy 3
+  rotate: false
+  xy: 320, 2
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+p_bao
+  rotate: false
+  xy: 2, 3
+  size: 120, 62
+  orig: 120, 62
+  offset: 0, 0
+  index: -1
+p_bua
+  rotate: false
+  xy: 229, 7
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+p_chan1
+  rotate: false
+  xy: 2, 67
+  size: 345, 782
+  orig: 345, 782
+  offset: 0, 0
+  index: -1
+p_dau
+  rotate: true
+  xy: 555, 56
+  size: 137, 148
+  orig: 137, 148
+  offset: 0, 0
+  index: -1
+p_keo
+  rotate: false
+  xy: 124, 4
+  size: 103, 61
+  orig: 103, 61
+  offset: 0, 0
+  index: -1
+p_tay2
+  rotate: false
+  xy: 349, 103
+  size: 204, 90
+  orig: 204, 90
+  offset: 0, 0
+  index: -1
+p_than
+  rotate: false
+  xy: 349, 327
+  size: 442, 522
+  orig: 442, 522
+  offset: 0, 0
+  index: -1
+p_vai2
+  rotate: false
+  xy: 748, 66
+  size: 86, 259
+  orig: 86, 259
+  offset: 0, 0
+  index: -1

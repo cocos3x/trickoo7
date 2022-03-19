@@ -1,0 +1,62 @@
+
+level_43.png
+size: 1632,888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anh_den
+  rotate: false
+  xy: 2, 149
+  size: 326, 735
+  orig: 326, 735
+  offset: 0, 0
+  index: -1
+bong_batmam1
+  rotate: true
+  xy: 330, 2
+  size: 332, 230
+  orig: 332, 230
+  offset: 0, 0
+  index: -1
+head_batman
+  rotate: true
+  xy: 1310, 473
+  size: 411, 317
+  orig: 411, 317
+  offset: 0, 0
+  index: -1
+house_1_day
+  rotate: true
+  xy: 330, 336
+  size: 548, 488
+  orig: 548, 488
+  offset: 0, 0
+  index: -1
+house_1_night
+  rotate: true
+  xy: 820, 336
+  size: 548, 488
+  orig: 548, 488
+  offset: 0, 0
+  index: -1
+house_2_day
+  rotate: false
+  xy: 562, 4
+  size: 427, 330
+  orig: 427, 330
+  offset: 0, 0
+  index: -1
+house_2_night
+  rotate: false
+  xy: 991, 4
+  size: 427, 330
+  orig: 427, 330
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 1420, 262
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1

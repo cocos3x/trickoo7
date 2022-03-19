@@ -1,0 +1,132 @@
+
+level_62.png
+size: 1980,1980
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 260
+  size: 1080, 1958
+  orig: 1080, 1958
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 507, 1605
+  size: 225, 315
+  orig: 225, 315
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1774, 1753
+  size: 204, 225
+  orig: 204, 225
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 548, 1859
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+fc1
+  rotate: true
+  xy: 672, 1856
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2, 1349
+  size: 282, 475
+  orig: 282, 475
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 235, 1633
+  size: 261, 270
+  orig: 261, 270
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1047, 1811
+  size: 269, 167
+  orig: 269, 167
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: true
+  xy: 802, 1832
+  size: 146, 243
+  orig: 146, 243
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 824, 1555
+  size: 196, 1004
+  orig: 196, 1004
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 479, 1342
+  size: 211, 1207
+  orig: 211, 1207
+  offset: 0, 0
+  index: -1
+pupil2
+  rotate: true
+  xy: 28, 1954
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+pupli1
+  rotate: false
+  xy: 2, 1954
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+q_62.2
+  rotate: false
+  xy: 425, 1896
+  size: 121, 82
+  orig: 121, 82
+  offset: 0, 0
+  index: -1
+rhand
+  rotate: true
+  xy: 2, 1700
+  size: 216, 231
+  orig: 216, 231
+  offset: 0, 0
+  index: -1
+rhand-c
+  rotate: false
+  xy: 278, 1902
+  size: 145, 76
+  orig: 145, 76
+  offset: 0, 0
+  index: -1
+rhand_b
+  rotate: true
+  xy: 56, 1918
+  size: 60, 220
+  orig: 60, 220
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1318, 1794
+  size: 454, 184
+  orig: 454, 184
+  offset: 0, 0
+  index: -1

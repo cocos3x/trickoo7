@@ -1,0 +1,132 @@
+
+level_97.png
+size: 2008,1760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baptay_P
+  rotate: false
+  xy: 1819, 510
+  size: 162, 241
+  orig: 162, 241
+  offset: 0, 0
+  index: -1
+Baptay_tr
+  rotate: false
+  xy: 1819, 267
+  size: 162, 241
+  orig: 162, 241
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 681, 265
+  size: 294, 452
+  orig: 294, 452
+  offset: 0, 0
+  index: -1
+Guong
+  rotate: true
+  xy: 135, 719
+  size: 1038, 953
+  orig: 1040, 955
+  offset: 1, 1
+  index: -1
+bc1
+  rotate: false
+  xy: 169, 34
+  size: 155, 110
+  orig: 155, 110
+  offset: 0, 0
+  index: -1
+bc2
+  rotate: false
+  xy: 1769, 109
+  size: 225, 156
+  orig: 227, 170
+  offset: 1, 6
+  index: -1
+bong
+  rotate: true
+  xy: 977, 293
+  size: 424, 59
+  orig: 426, 61
+  offset: 1, 1
+  index: -1
+do dung
+  rotate: true
+  xy: 2, 681
+  size: 1076, 131
+  orig: 1078, 133
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 1318, 32
+  size: 224, 233
+  orig: 226, 235
+  offset: 1, 1
+  index: -1
+g_Baptay_T
+  rotate: true
+  xy: 2, 13
+  size: 131, 165
+  orig: 131, 165
+  offset: 0, 0
+  index: -1
+g_body
+  rotate: true
+  xy: 1544, 32
+  size: 233, 223
+  orig: 233, 223
+  offset: 0, 0
+  index: -1
+g_nguoi den
+  rotate: true
+  xy: 1038, 336
+  size: 381, 779
+  orig: 383, 780
+  offset: 1, 0
+  index: -1
+g_toc
+  rotate: true
+  xy: 768, 5
+  size: 258, 273
+  orig: 260, 275
+  offset: 1, 1
+  index: -1
+g_toc sau
+  rotate: true
+  xy: 326, 2
+  size: 261, 440
+  orig: 261, 440
+  offset: 0, 0
+  index: -1
+ghe
+  rotate: true
+  xy: 1043, 10
+  size: 324, 273
+  orig: 326, 275
+  offset: 1, 1
+  index: -1
+kinh
+  rotate: true
+  xy: 1090, 753
+  size: 1004, 916
+  orig: 1006, 918
+  offset: 1, 1
+  index: -1
+run so
+  rotate: false
+  xy: 260, 265
+  size: 419, 452
+  orig: 421, 454
+  offset: 1, 1
+  index: -1
+toc
+  rotate: false
+  xy: 2, 146
+  size: 256, 533
+  orig: 256, 533
+  offset: 0, 0
+  index: -1

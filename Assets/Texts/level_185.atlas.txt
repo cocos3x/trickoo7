@@ -1,0 +1,41 @@
+
+level_185.png
+size: 1048,664
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shape 65
+  rotate: false
+  xy: 605, 23
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+Shape 66
+  rotate: false
+  xy: 700, 75
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+brush
+  rotate: true
+  xy: 605, 108
+  size: 74, 440
+  orig: 74, 440
+  offset: 0, 0
+  index: -1
+picture_1
+  rotate: false
+  xy: 2, 2
+  size: 601, 660
+  orig: 601, 660
+  offset: 0, 0
+  index: -1
+picture_2
+  rotate: false
+  xy: 605, 184
+  size: 439, 478
+  orig: 439, 478
+  offset: 0, 0
+  index: -1

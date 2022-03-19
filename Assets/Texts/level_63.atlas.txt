@@ -1,0 +1,244 @@
+
+level_63.png
+size: 1376,1376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1body
+  rotate: false
+  xy: 650, 279
+  size: 210, 304
+  orig: 210, 304
+  offset: 0, 0
+  index: -1
+1car
+  rotate: true
+  xy: 1225, 1199
+  size: 175, 121
+  orig: 175, 121
+  offset: 0, 0
+  index: -1
+1eye
+  rotate: false
+  xy: 790, 21
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+1hair
+  rotate: true
+  xy: 1089, 312
+  size: 271, 235
+  orig: 271, 235
+  offset: 0, 0
+  index: -1
+1hand
+  rotate: true
+  xy: 488, 12
+  size: 186, 160
+  orig: 186, 160
+  offset: 0, 0
+  index: -1
+1hand copy
+  rotate: false
+  xy: 1089, 155
+  size: 187, 155
+  orig: 187, 155
+  offset: 0, 0
+  index: -1
+1leg
+  rotate: true
+  xy: 1176, 1019
+  size: 173, 198
+  orig: 173, 198
+  offset: 0, 0
+  index: -1
+1mouth
+  rotate: false
+  xy: 348, 525
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 1249, 697
+  size: 320, 106
+  orig: 320, 106
+  offset: 0, 0
+  index: -1
+Layer 51
+  rotate: false
+  xy: 539, 576
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 862, 296
+  size: 225, 287
+  orig: 225, 287
+  offset: 0, 0
+  index: -1
+boom
+  rotate: true
+  xy: 1025, 27
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 897, 36
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 1278, 184
+  size: 126, 95
+  orig: 126, 95
+  offset: 0, 0
+  index: -1
+gift copy
+  rotate: false
+  xy: 1052, 766
+  size: 195, 221
+  orig: 195, 221
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 252, 133
+  size: 390, 234
+  orig: 390, 234
+  offset: 0, 0
+  index: -1
+hand copy 2
+  rotate: false
+  xy: 897, 137
+  size: 186, 157
+  orig: 186, 157
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 650, 91
+  size: 186, 245
+  orig: 186, 245
+  offset: 0, 0
+  index: -1
+q_63
+  rotate: false
+  xy: 721, 766
+  size: 329, 221
+  orig: 329, 221
+  offset: 0, 0
+  index: -1
+santa_beard
+  rotate: false
+  xy: 1230, 586
+  size: 142, 109
+  orig: 142, 109
+  offset: 0, 0
+  index: -1
+santa_body
+  rotate: false
+  xy: 417, 993
+  size: 347, 381
+  orig: 347, 381
+  offset: 0, 0
+  index: -1
+santa_brow
+  rotate: false
+  xy: 650, 12
+  size: 138, 77
+  orig: 138, 77
+  offset: 0, 0
+  index: -1
+santa_eye
+  rotate: false
+  xy: 417, 942
+  size: 116, 49
+  orig: 116, 49
+  offset: 0, 0
+  index: -1
+santa_face
+  rotate: true
+  xy: 1057, 585
+  size: 179, 171
+  orig: 179, 171
+  offset: 0, 0
+  index: -1
+santa_hand
+  rotate: false
+  xy: 348, 547
+  size: 189, 379
+  orig: 189, 379
+  offset: 0, 0
+  index: -1
+santa_hand copy
+  rotate: false
+  xy: 539, 613
+  size: 180, 378
+  orig: 180, 378
+  offset: 0, 0
+  index: -1
+santa_hand copy3
+  rotate: false
+  xy: 488, 200
+  size: 160, 345
+  orig: 160, 345
+  offset: 0, 0
+  index: -1
+santa_hand3
+  rotate: true
+  xy: 721, 585
+  size: 179, 334
+  orig: 179, 334
+  offset: 0, 0
+  index: -1
+santa_hat
+  rotate: false
+  xy: 252, 8
+  size: 184, 123
+  orig: 184, 123
+  offset: 0, 0
+  index: -1
+santa_leg copy
+  rotate: false
+  xy: 2, 66
+  size: 248, 457
+  orig: 248, 457
+  offset: 0, 0
+  index: -1
+santa_leg copy 2
+  rotate: true
+  xy: 766, 989
+  size: 203, 408
+  orig: 203, 408
+  offset: 0, 0
+  index: -1
+santa_leg2
+  rotate: false
+  xy: 2, 928
+  size: 413, 446
+  orig: 413, 446
+  offset: 0, 0
+  index: -1
+santa_legl
+  rotate: true
+  xy: 766, 1194
+  size: 180, 457
+  orig: 180, 457
+  offset: 0, 0
+  index: -1
+santa_shirt
+  rotate: false
+  xy: 2, 525
+  size: 344, 401
+  orig: 344, 401
+  offset: 0, 0
+  index: -1

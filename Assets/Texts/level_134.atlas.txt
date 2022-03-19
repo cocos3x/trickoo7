@@ -1,0 +1,132 @@
+
+level_134.png
+size: 860,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 3
+  rotate: false
+  xy: 661, 194
+  size: 191, 177
+  orig: 191, 177
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 2
+  size: 227, 109
+  orig: 227, 109
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 2, 113
+  size: 919, 354
+  orig: 919, 354
+  offset: 0, 0
+  index: -1
+bong mat
+  rotate: true
+  xy: 406, 43
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+chair
+  rotate: false
+  xy: 358, 373
+  size: 362, 324
+  orig: 362, 324
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 231, 19
+  size: 92, 173
+  orig: 92, 173
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 744, 857
+  size: 88, 175
+  orig: 88, 175
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 744, 661
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 358, 699
+  size: 333, 384
+  orig: 333, 384
+  offset: 0, 0
+  index: -1
+long may
+  rotate: false
+  xy: 358, 145
+  size: 120, 26
+  orig: 120, 26
+  offset: 0, 0
+  index: -1
+ma
+  rotate: true
+  xy: 744, 736
+  size: 119, 62
+  orig: 119, 62
+  offset: 0, 0
+  index: -1
+mat
+  rotate: true
+  xy: 670, 16
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1
+mat1
+  rotate: true
+  xy: 808, 736
+  size: 119, 40
+  orig: 119, 40
+  offset: 0, 0
+  index: -1
+moi
+  rotate: true
+  xy: 834, 991
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+mun
+  rotate: false
+  xy: 722, 509
+  size: 118, 150
+  orig: 118, 150
+  offset: 0, 0
+  index: -1
+muui
+  rotate: false
+  xy: 834, 964
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+shirrt
+  rotate: true
+  xy: 358, 173
+  size: 198, 301
+  orig: 198, 301
+  offset: 0, 0
+  index: -1
+toc
+  rotate: true
+  xy: 480, 10
+  size: 161, 188
+  orig: 161, 188
+  offset: 0, 0
+  index: -1

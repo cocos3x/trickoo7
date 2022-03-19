@@ -1,0 +1,62 @@
+
+level_205.png
+size: 332,628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E
+  rotate: false
+  xy: 185, 38
+  size: 120, 175
+  orig: 122, 177
+  offset: 1, 1
+  index: -1
+E2
+  rotate: false
+  xy: 185, 38
+  size: 120, 175
+  orig: 122, 177
+  offset: 1, 1
+  index: -1
+F
+  rotate: true
+  xy: 2, 2
+  size: 106, 180
+  orig: 108, 182
+  offset: 1, 1
+  index: -1
+I
+  rotate: false
+  xy: 232, 439
+  size: 89, 185
+  orig: 91, 187
+  offset: 1, 1
+  index: -1
+L copy 2
+  rotate: true
+  xy: 2, 110
+  size: 118, 181
+  orig: 120, 183
+  offset: 1, 1
+  index: -1
+O
+  rotate: false
+  xy: 188, 215
+  size: 139, 180
+  orig: 141, 182
+  offset: 1, 1
+  index: -1
+V
+  rotate: true
+  xy: 2, 230
+  size: 165, 184
+  orig: 167, 186
+  offset: 1, 1
+  index: -1
+ovuong
+  rotate: false
+  xy: 2, 397
+  size: 228, 227
+  orig: 230, 229
+  offset: 1, 1
+  index: -1

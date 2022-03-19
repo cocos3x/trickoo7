@@ -1,0 +1,83 @@
+
+level_102.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bien
+  rotate: false
+  xy: 2, 1873
+  size: 235, 49
+  orig: 237, 51
+  offset: 1, 1
+  index: -1
+bien do
+  rotate: false
+  xy: 239, 1842
+  size: 241, 80
+  orig: 243, 82
+  offset: 1, 1
+  index: -1
+lightxe
+  rotate: false
+  xy: 1084, 1557
+  size: 473, 254
+  orig: 475, 330
+  offset: 1, 75
+  index: -1
+may
+  rotate: false
+  xy: 479, 1084
+  size: 1080, 373
+  orig: 1082, 375
+  offset: 1, 1
+  index: -1
+maysang
+  rotate: false
+  xy: 2, 1595
+  size: 1080, 216
+  orig: 1082, 300
+  offset: 1, 1
+  index: -1
+mua
+  rotate: true
+  xy: 2, 2
+  size: 1080, 1281
+  orig: 1082, 1283
+  offset: 1, 1
+  index: -1
+nc1
+  rotate: false
+  xy: 1158, 1813
+  size: 470, 109
+  orig: 472, 111
+  offset: 1, 1
+  index: -1
+nc2
+  rotate: false
+  xy: 686, 1813
+  size: 470, 109
+  orig: 470, 109
+  offset: 0, 0
+  index: -1
+set
+  rotate: true
+  xy: 482, 1819
+  size: 103, 202
+  orig: 105, 204
+  offset: 1, 1
+  index: -1
+xe
+  rotate: false
+  xy: 1559, 1459
+  size: 473, 352
+  orig: 475, 354
+  offset: 1, 1
+  index: -1
+xxe
+  rotate: false
+  xy: 2, 1239
+  size: 475, 354
+  orig: 475, 354
+  offset: 0, 0
+  index: -1

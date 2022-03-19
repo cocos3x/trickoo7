@@ -1,0 +1,272 @@
+
+level_9.png
+size: 1020,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 35
+  rotate: false
+  xy: 2, 872
+  size: 905, 146
+  orig: 905, 146
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 774, 696
+  size: 174, 135
+  orig: 174, 135
+  offset: 0, 0
+  index: -1
+boy1_Layer 32
+  rotate: false
+  xy: 885, 168
+  size: 114, 87
+  orig: 114, 87
+  offset: 0, 0
+  index: -1
+boy1_body
+  rotate: true
+  xy: 279, 385
+  size: 198, 247
+  orig: 198, 247
+  offset: 0, 0
+  index: -1
+boy1_eye
+  rotate: true
+  xy: 928, 634
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+boy1_hair
+  rotate: false
+  xy: 678, 16
+  size: 93, 72
+  orig: 93, 72
+  offset: 0, 0
+  index: -1
+boy1_hand
+  rotate: true
+  xy: 378, 22
+  size: 126, 199
+  orig: 126, 199
+  offset: 0, 0
+  index: -1
+boy1_hand copy
+  rotate: false
+  xy: 2, 27
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+boy1_hand2
+  rotate: false
+  xy: 629, 298
+  size: 89, 285
+  orig: 89, 285
+  offset: 0, 0
+  index: -1
+boy1_head
+  rotate: false
+  xy: 909, 908
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
+boy1_left leg
+  rotate: true
+  xy: 279, 585
+  size: 116, 466
+  orig: 116, 466
+  offset: 0, 0
+  index: -1
+boy1_mouth
+  rotate: true
+  xy: 528, 150
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+boy1_mouth copy
+  rotate: true
+  xy: 105, 34
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+boy1_right leg
+  rotate: true
+  xy: 279, 703
+  size: 167, 493
+  orig: 167, 493
+  offset: 0, 0
+  index: -1
+boy2_body
+  rotate: false
+  xy: 378, 150
+  size: 148, 233
+  orig: 148, 233
+  offset: 0, 0
+  index: -1
+boy2_face1
+  rotate: true
+  xy: 751, 104
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+boy2_face2
+  rotate: false
+  xy: 579, 78
+  size: 74, 106
+  orig: 74, 106
+  offset: 0, 0
+  index: -1
+boy2_hair
+  rotate: false
+  xy: 579, 2
+  size: 97, 74
+  orig: 97, 74
+  offset: 0, 0
+  index: -1
+boy2_head1
+  rotate: false
+  xy: 528, 192
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+boy2_head2
+  rotate: false
+  xy: 625, 186
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+boy2_left hand
+  rotate: false
+  xy: 528, 304
+  size: 99, 279
+  orig: 99, 279
+  offset: 0, 0
+  index: -1
+boy2_right hand
+  rotate: false
+  xy: 209, 63
+  size: 79, 314
+  orig: 79, 314
+  offset: 0, 0
+  index: -1
+boy2_stiltss
+  rotate: false
+  xy: 2, 379
+  size: 275, 491
+  orig: 275, 491
+  offset: 0, 0
+  index: -1
+boy2_underwear
+  rotate: false
+  xy: 889, 257
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+butt
+  rotate: false
+  xy: 889, 378
+  size: 118, 144
+  orig: 118, 144
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 911, 711
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 928, 529
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 911, 800
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+hair_s
+  rotate: false
+  xy: 655, 90
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+heart1
+  rotate: false
+  xy: 59, 33
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+heart2
+  rotate: true
+  xy: 720, 562
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+hải
+  rotate: false
+  xy: 747, 524
+  size: 179, 170
+  orig: 179, 170
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: false
+  xy: 720, 324
+  size: 167, 198
+  orig: 167, 198
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: false
+  xy: 290, 31
+  size: 86, 352
+  orig: 86, 352
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 859, 148
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 2, 5
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: true
+  xy: 722, 178
+  size: 144, 161
+  orig: 144, 161
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: false
+  xy: 2, 70
+  size: 205, 307
+  orig: 205, 307
+  offset: 0, 0
+  index: -1

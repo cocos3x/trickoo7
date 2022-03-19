@@ -1,0 +1,139 @@
+
+level_160.png
+size: 1756,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 1632, 211
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 109, 2
+  size: 1080, 153
+  orig: 1080, 153
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 1156, 173
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Layer 33
+  rotate: true
+  xy: 2, 70
+  size: 480, 87
+  orig: 480, 87
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 1411, 22
+  size: 228, 219
+  orig: 228, 225
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 1589, 345
+  size: 68, 157
+  orig: 105, 157
+  offset: 0, 0
+  index: -1
+Layer 5 copy
+  rotate: true
+  xy: 1589, 289
+  size: 54, 155
+  orig: 54, 155
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 962, 166
+  size: 121, 192
+  orig: 121, 192
+  offset: 0, 0
+  index: -1
+Layer 6 copy
+  rotate: true
+  xy: 1589, 415
+  size: 135, 165
+  orig: 135, 165
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 1402, 252
+  size: 55, 174
+  orig: 55, 174
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 2, 4
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 698, 179
+  size: 31, 101
+  orig: 31, 101
+  offset: 0, 0
+  index: -1
+May copy 4
+  rotate: true
+  xy: 698, 212
+  size: 338, 163
+  orig: 338, 164
+  offset: 0, 1
+  index: -1
+b2
+  rotate: false
+  xy: 863, 159
+  size: 97, 128
+  orig: 102, 129
+  offset: 5, 1
+  index: -1
+balo
+  rotate: false
+  xy: 91, 157
+  size: 605, 393
+  orig: 605, 393
+  offset: 0, 0
+  index: -1
+bc1
+  rotate: true
+  xy: 1333, 173
+  size: 77, 76
+  orig: 83, 82
+  offset: 3, 3
+  index: -1
+bc2
+  rotate: true
+  xy: 55, 12
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1191, 19
+  size: 152, 209
+  orig: 152, 209
+  offset: 0, 0
+  index: -1
+dù
+  rotate: false
+  xy: 863, 309
+  size: 724, 241
+  orig: 724, 241
+  offset: 0, 0
+  index: -1

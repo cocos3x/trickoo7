@@ -1,0 +1,272 @@
+
+level_26.png
+size: 1924,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1 copy
+  rotate: false
+  xy: 1200, 537
+  size: 473, 143
+  orig: 473, 143
+  offset: 0, 0
+  index: -1
+Layer 149
+  rotate: false
+  xy: 1788, 719
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+Layer 154
+  rotate: false
+  xy: 1460, 378
+  size: 205, 157
+  orig: 205, 157
+  offset: 0, 0
+  index: -1
+Layer 157
+  rotate: true
+  xy: 1460, 19
+  size: 99, 245
+  orig: 99, 245
+  offset: 0, 0
+  index: -1
+Layer 158
+  rotate: false
+  xy: 1713, 176
+  size: 157, 200
+  orig: 157, 200
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 447
+  size: 540, 845
+  orig: 540, 845
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1200, 936
+  size: 225, 496
+  orig: 225, 496
+  offset: 0, 0
+  index: -1
+coat
+  rotate: false
+  xy: 2, 989
+  size: 428, 931
+  orig: 428, 931
+  offset: 0, 0
+  index: -1
+dracula_
+  rotate: true
+  xy: 1460, 229
+  size: 147, 251
+  orig: 147, 251
+  offset: 0, 0
+  index: -1
+dracula_2
+  rotate: true
+  xy: 1788, 816
+  size: 164, 128
+  orig: 164, 128
+  offset: 0, 0
+  index: -1
+dracula_cloak
+  rotate: true
+  xy: 432, 1442
+  size: 478, 885
+  orig: 478, 885
+  offset: 0, 0
+  index: -1
+dracula_eye_b
+  rotate: true
+  xy: 56, 12
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+dracula_eye_f
+  rotate: false
+  xy: 2, 7
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+dracula_hand1
+  rotate: true
+  xy: 432, 995
+  size: 139, 152
+  orig: 139, 152
+  offset: 0, 0
+  index: -1
+dracula_hand_b
+  rotate: true
+  xy: 651, 50
+  size: 395, 163
+  orig: 395, 163
+  offset: 0, 0
+  index: -1
+dracula_hand_f
+  rotate: false
+  xy: 1200, 682
+  size: 346, 252
+  orig: 346, 252
+  offset: 0, 0
+  index: -1
+dracula_head
+  rotate: true
+  xy: 1548, 718
+  size: 216, 238
+  orig: 216, 238
+  offset: 0, 0
+  index: -1
+dracula_leg
+  rotate: true
+  xy: 849, 199
+  size: 329, 498
+  orig: 329, 498
+  offset: 0, 0
+  index: -1
+dracula_leg2
+  rotate: false
+  xy: 849, 530
+  size: 349, 604
+  orig: 349, 604
+  offset: 0, 0
+  index: -1
+dracula_shirt1
+  rotate: true
+  xy: 1585, 1243
+  size: 221, 325
+  orig: 221, 325
+  offset: 0, 0
+  index: -1
+dracula_shirt3
+  rotate: true
+  xy: 1791, 475
+  size: 242, 120
+  orig: 242, 120
+  offset: 0, 0
+  index: -1
+dracula_shirt4
+  rotate: true
+  xy: 432, 1136
+  size: 304, 721
+  orig: 304, 721
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 758, 1030
+  size: 89, 104
+  orig: 89, 104
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 1791, 380
+  size: 129, 93
+  orig: 129, 93
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 1675, 378
+  size: 338, 114
+  orig: 338, 114
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1155, 1163
+  size: 277, 428
+  orig: 277, 428
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: true
+  xy: 1708, 63
+  size: 111, 204
+  orig: 111, 204
+  offset: 0, 0
+  index: -1
+hand_b2
+  rotate: true
+  xy: 1460, 120
+  size: 107, 246
+  orig: 107, 246
+  offset: 0, 0
+  index: -1
+hand_b_1
+  rotate: false
+  xy: 1698, 982
+  size: 158, 259
+  orig: 158, 259
+  offset: 0, 0
+  index: -1
+hand_b_2
+  rotate: true
+  xy: 1108, 95
+  size: 102, 185
+  orig: 102, 185
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: false
+  xy: 1349, 72
+  size: 109, 463
+  orig: 109, 463
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 586, 998
+  size: 136, 170
+  orig: 136, 170
+  offset: 0, 0
+  index: -1
+leg_b
+  rotate: true
+  xy: 2, 286
+  size: 159, 647
+  orig: 159, 647
+  offset: 0, 0
+  index: -1
+leg_f
+  rotate: true
+  xy: 2, 55
+  size: 229, 632
+  orig: 229, 632
+  offset: 0, 0
+  index: -1
+q_26
+  rotate: true
+  xy: 1319, 1466
+  size: 454, 569
+  orig: 454, 569
+  offset: 0, 0
+  index: -1
+shoes_b
+  rotate: true
+  xy: 816, 74
+  size: 123, 133
+  orig: 123, 133
+  offset: 0, 0
+  index: -1
+shoes_f
+  rotate: true
+  xy: 951, 93
+  size: 104, 155
+  orig: 104, 155
+  offset: 0, 0
+  index: -1
+sweat
+  rotate: true
+  xy: 758, 1018
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1

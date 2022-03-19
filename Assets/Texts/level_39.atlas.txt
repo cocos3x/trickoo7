@@ -1,0 +1,314 @@
+
+level_39.png
+size: 1288,1288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baptay_T
+  rotate: true
+  xy: 545, 36
+  size: 88, 142
+  orig: 88, 142
+  offset: 0, 0
+  index: -1
+Baptay_T copy
+  rotate: false
+  xy: 1035, 350
+  size: 50, 160
+  orig: 50, 160
+  offset: 0, 0
+  index: -1
+Chan_T
+  rotate: false
+  xy: 429, 389
+  size: 140, 455
+  orig: 140, 455
+  offset: 0, 0
+  index: -1
+Dao dinh mau
+  rotate: true
+  xy: 1087, 408
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+Day tui duoi
+  rotate: true
+  xy: 689, 191
+  size: 70, 206
+  orig: 70, 206
+  offset: 0, 0
+  index: -1
+Khuy tay_T
+  rotate: true
+  xy: 1086, 2
+  size: 59, 157
+  orig: 59, 157
+  offset: 0, 0
+  index: -1
+Layer 36 copy
+  rotate: true
+  xy: 897, 42
+  size: 259, 51
+  orig: 259, 51
+  offset: 0, 0
+  index: -1
+Layer 71
+  rotate: false
+  xy: 1262, 901
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Longmay
+  rotate: true
+  xy: 1262, 779
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1
+Mieng
+  rotate: true
+  xy: 1262, 875
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Nam bi dam
+  rotate: false
+  xy: 2, 846
+  size: 1033, 440
+  orig: 1033, 440
+  offset: 0, 0
+  index: -1
+Nap tui
+  rotate: false
+  xy: 1035, 242
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+Vay duoi
+  rotate: true
+  xy: 950, 57
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+b_Ao
+  rotate: true
+  xy: 2, 549
+  size: 295, 425
+  orig: 295, 425
+  offset: 0, 0
+  index: -1
+b_BC
+  rotate: true
+  xy: 396, 3
+  size: 119, 129
+  orig: 119, 129
+  offset: 0, 0
+  index: -1
+b_BC2
+  rotate: true
+  xy: 244, 2
+  size: 111, 120
+  orig: 111, 120
+  offset: 0, 0
+  index: -1
+b_Bantay
+  rotate: false
+  xy: 1086, 63
+  size: 171, 125
+  orig: 171, 125
+  offset: 0, 0
+  index: -1
+b_Banty_T
+  rotate: false
+  xy: 1035, 512
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+b_Baptay_P
+  rotate: false
+  xy: 422, 124
+  size: 121, 263
+  orig: 121, 263
+  offset: 0, 0
+  index: -1
+b_Baptay_T
+  rotate: false
+  xy: 571, 126
+  size: 116, 309
+  orig: 116, 309
+  offset: 0, 0
+  index: -1
+b_Chan_P
+  rotate: true
+  xy: 571, 642
+  size: 202, 367
+  orig: 202, 367
+  offset: 0, 0
+  index: -1
+b_Khuytay_P
+  rotate: true
+  xy: 689, 48
+  size: 141, 178
+  orig: 141, 178
+  offset: 0, 0
+  index: -1
+b_Khuytay_T
+  rotate: false
+  xy: 689, 263
+  size: 146, 172
+  orig: 146, 172
+  offset: 0, 0
+  index: -1
+b_chan_T
+  rotate: true
+  xy: 571, 437
+  size: 200, 384
+  orig: 200, 384
+  offset: 0, 0
+  index: -1
+b_head
+  rotate: false
+  xy: 244, 115
+  size: 150, 179
+  orig: 150, 179
+  offset: 0, 0
+  index: -1
+bantay2
+  rotate: true
+  xy: 940, 682
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+bantay_P
+  rotate: true
+  xy: 689, 2
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+bantay_T
+  rotate: true
+  xy: 837, 264
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+chan_P
+  rotate: false
+  xy: 957, 228
+  size: 76, 452
+  orig: 76, 452
+  offset: 0, 0
+  index: -1
+day tyi copy
+  rotate: false
+  xy: 1161, 520
+  size: 99, 117
+  orig: 99, 117
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 366, 76
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1262, 848
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 837, 303
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+g_BC
+  rotate: true
+  xy: 1143, 299
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 2, 93
+  size: 454, 90
+  orig: 454, 90
+  offset: 0, 0
+  index: -1
+khuytay_P
+  rotate: true
+  xy: 94, 7
+  size: 85, 120
+  orig: 85, 120
+  offset: 0, 0
+  index: -1
+lop ngoai tui
+  rotate: true
+  xy: 950, 190
+  size: 36, 306
+  orig: 36, 306
+  offset: 0, 0
+  index: -1
+run
+  rotate: true
+  xy: 2, 42
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+sweat
+  rotate: false
+  xy: 1275, 1275
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+tay cam dao
+  rotate: true
+  xy: 940, 733
+  size: 111, 90
+  orig: 111, 90
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 244, 296
+  size: 251, 176
+  orig: 251, 176
+  offset: 0, 0
+  index: -1
+toc duoi
+  rotate: false
+  xy: 1037, 639
+  size: 223, 287
+  orig: 223, 287
+  offset: 0, 0
+  index: -1
+toc tren
+  rotate: false
+  xy: 1037, 928
+  size: 236, 358
+  orig: 236, 358
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 94, 94
+  size: 148, 453
+  orig: 148, 453
+  offset: 0, 0
+  index: -1

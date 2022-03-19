@@ -1,0 +1,125 @@
+
+level_38.png
+size: 1952,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bong
+  rotate: true
+  xy: 1472, 165
+  size: 336, 115
+  orig: 338, 117
+  offset: 1, 1
+  index: -1
+lake
+  rotate: false
+  xy: 2, 394
+  size: 1080, 613
+  orig: 1082, 615
+  offset: 1, 1
+  index: -1
+m_dau
+  rotate: false
+  xy: 1543, 662
+  size: 206, 187
+  orig: 208, 189
+  offset: 1, 1
+  index: -1
+m_mom
+  rotate: true
+  xy: 1883, 245
+  size: 90, 58
+  orig: 92, 60
+  offset: 1, 1
+  index: -1
+m_than
+  rotate: true
+  xy: 1209, 642
+  size: 365, 332
+  orig: 367, 334
+  offset: 1, 1
+  index: -1
+m_trongmat
+  rotate: false
+  xy: 1926, 986
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+m_vay
+  rotate: false
+  xy: 1401, 43
+  size: 130, 117
+  orig: 132, 119
+  offset: 1, 1
+  index: -1
+q_38b
+  rotate: true
+  xy: 2, 15
+  size: 377, 1059
+  orig: 377, 1059
+  offset: 0, 0
+  index: -1
+r_body
+  rotate: true
+  xy: 1589, 171
+  size: 164, 292
+  orig: 164, 292
+  offset: 0, 0
+  index: -1
+r_cancau
+  rotate: true
+  xy: 1084, 2
+  size: 1005, 123
+  orig: 1007, 125
+  offset: 1, 1
+  index: -1
+r_fear
+  rotate: false
+  xy: 1614, 337
+  size: 295, 323
+  orig: 297, 326
+  offset: 1, 2
+  index: -1
+r_hand_f
+  rotate: true
+  xy: 1589, 20
+  size: 149, 184
+  orig: 149, 184
+  offset: 0, 0
+  index: -1
+r_hand_r
+  rotate: false
+  xy: 1209, 13
+  size: 190, 147
+  orig: 190, 147
+  offset: 0, 0
+  index: -1
+r_hat
+  rotate: false
+  xy: 1751, 667
+  size: 192, 182
+  orig: 194, 184
+  offset: 1, 1
+  index: -1
+r_leg_b
+  rotate: false
+  xy: 1209, 162
+  size: 261, 339
+  orig: 261, 339
+  offset: 0, 0
+  index: -1
+r_leg_f
+  rotate: true
+  xy: 1543, 851
+  size: 156, 381
+  orig: 156, 381
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 1209, 503
+  size: 403, 137
+  orig: 405, 139
+  offset: 1, 1
+  index: -1

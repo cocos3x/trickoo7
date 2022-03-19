@@ -1,0 +1,132 @@
+
+level_96.png
+size: 1672,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BC1
+  rotate: false
+  xy: 309, 129
+  size: 337, 293
+  orig: 339, 296
+  offset: 1, 2
+  index: -1
+BC2
+  rotate: false
+  xy: 525, 3
+  size: 207, 124
+  orig: 209, 127
+  offset: 1, 2
+  index: -1
+Bantay
+  rotate: true
+  xy: 1281, 194
+  size: 67, 54
+  orig: 69, 56
+  offset: 1, 1
+  index: -1
+Bantayp
+  rotate: false
+  xy: 1212, 191
+  size: 67, 55
+  orig: 69, 57
+  offset: 1, 1
+  index: -1
+Baptay_P
+  rotate: true
+  xy: 372, 35
+  size: 62, 151
+  orig: 65, 154
+  offset: 2, 1
+  index: -1
+Baptay_T
+  rotate: false
+  xy: 1439, 23
+  size: 119, 124
+  orig: 121, 126
+  offset: 1, 1
+  index: -1
+Khuytay_P
+  rotate: false
+  xy: 1080, 192
+  size: 130, 54
+  orig: 134, 58
+  offset: 2, 2
+  index: -1
+Khuytay_T
+  rotate: false
+  xy: 947, 186
+  size: 131, 60
+  orig: 134, 62
+  offset: 1, 1
+  index: -1
+Nen
+  rotate: true
+  xy: 309, 99
+  size: 28, 111
+  orig: 30, 113
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 1067, 3
+  size: 181, 226
+  orig: 181, 226
+  offset: 0, 0
+  index: -1
+bong
+  rotate: false
+  xy: 2, 2
+  size: 368, 84
+  orig: 370, 86
+  offset: 1, 1
+  index: -1
+chan_P
+  rotate: true
+  xy: 947, 248
+  size: 174, 311
+  orig: 174, 311
+  offset: 0, 0
+  index: -1
+chan_T
+  rotate: true
+  xy: 734, 22
+  size: 137, 331
+  orig: 137, 331
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 648, 161
+  size: 297, 261
+  orig: 299, 263
+  offset: 1, 1
+  index: -1
+light
+  rotate: true
+  xy: 1396, 149
+  size: 273, 274
+  orig: 281, 282
+  offset: 4, 4
+  index: -1
+moon
+  rotate: false
+  xy: 2, 88
+  size: 305, 334
+  orig: 344, 363
+  offset: 24, 14
+  index: -1
+star
+  rotate: false
+  xy: 1295, 5
+  size: 142, 142
+  orig: 160, 167
+  offset: 12, 12
+  index: -1
+toc
+  rotate: false
+  xy: 1260, 263
+  size: 134, 159
+  orig: 134, 159
+  offset: 0, 0
+  index: -1

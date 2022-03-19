@@ -1,0 +1,55 @@
+
+level_79.png
+size: 1852,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boxes
+  rotate: true
+  xy: 1686, 37
+  size: 216, 142
+  orig: 218, 144
+  offset: 1, 1
+  index: -1
+pit
+  rotate: false
+  xy: 963, 6
+  size: 174, 67
+  orig: 176, 69
+  offset: 1, 1
+  index: -1
+sand
+  rotate: true
+  xy: 2, 2
+  size: 507, 701
+  orig: 507, 701
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 705, 18
+  size: 256, 55
+  orig: 258, 57
+  offset: 1, 1
+  index: -1
+shovel
+  rotate: true
+  xy: 1686, 255
+  size: 254, 163
+  orig: 256, 165
+  offset: 1, 1
+  index: -1
+slide
+  rotate: true
+  xy: 705, 75
+  size: 434, 617
+  orig: 436, 619
+  offset: 1, 1
+  index: -1
+swing
+  rotate: false
+  xy: 1324, 39
+  size: 360, 470
+  orig: 362, 472
+  offset: 1, 1
+  index: -1

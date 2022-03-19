@@ -1,0 +1,62 @@
+
+level_65.2.png
+size: 524,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+agirl_2ngry
+  rotate: true
+  xy: 409, 211
+  size: 118, 112
+  orig: 118, 112
+  offset: 0, 0
+  index: -1
+girl_22
+  rotate: true
+  xy: 104, 44
+  size: 285, 145
+  orig: 285, 145
+  offset: 0, 0
+  index: -1
+girl_23
+  rotate: false
+  xy: 333, 172
+  size: 74, 157
+  orig: 74, 157
+  offset: 0, 0
+  index: -1
+girl_24
+  rotate: false
+  xy: 251, 105
+  size: 80, 224
+  orig: 80, 224
+  offset: 0, 0
+  index: -1
+girl_26
+  rotate: false
+  xy: 409, 2
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+girl_27
+  rotate: true
+  xy: 2, 25
+  size: 304, 100
+  orig: 304, 100
+  offset: 0, 0
+  index: -1
+girl_28
+  rotate: false
+  xy: 251, 4
+  size: 156, 99
+  orig: 156, 99
+  offset: 0, 0
+  index: -1
+girl_2smile
+  rotate: true
+  xy: 409, 91
+  size: 118, 112
+  orig: 118, 112
+  offset: 0, 0
+  index: -1

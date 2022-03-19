@@ -1,0 +1,48 @@
+
+level_154.png
+size: 688,688
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+230310wn64b6sf6xjsu4x8
+  rotate: false
+  xy: 498, 556
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Nuoc
+  rotate: true
+  xy: 2, 2
+  size: 297, 184
+  orig: 297, 184
+  offset: 0, 0
+  index: -1
+particle (35)
+  rotate: false
+  xy: 498, 426
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+voi nuoc
+  rotate: false
+  xy: 2, 301
+  size: 494, 383
+  orig: 494, 383
+  offset: 0, 0
+  index: -1
+xedo
+  rotate: false
+  xy: 188, 161
+  size: 466, 138
+  orig: 466, 138
+  offset: 0, 0
+  index: -1
+xedo copy
+  rotate: false
+  xy: 188, 21
+  size: 466, 138
+  orig: 466, 138
+  offset: 0, 0
+  index: -1

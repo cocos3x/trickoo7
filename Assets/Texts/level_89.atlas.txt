@@ -1,0 +1,237 @@
+
+level_89.png
+size: 1972,816
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11;30
+  rotate: false
+  xy: 1734, 147
+  size: 214, 113
+  orig: 214, 113
+  offset: 0, 0
+  index: -1
+8-8
+  rotate: false
+  xy: 291, 6
+  size: 178, 80
+  orig: 178, 80
+  offset: 0, 0
+  index: -1
+AM
+  rotate: false
+  xy: 1356, 297
+  size: 124, 64
+  orig: 124, 64
+  offset: 0, 0
+  index: -1
+ELECTRONIC CLOCK
+  rotate: false
+  xy: 1022, 8
+  size: 509, 228
+  orig: 509, 228
+  offset: 0, 0
+  index: -1
+ELECTRONIC CLOCK copy
+  rotate: true
+  xy: 1076, 242
+  size: 397, 180
+  orig: 397, 180
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 174, 5
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 1734, 20
+  size: 125, 203
+  orig: 125, 203
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 553, 206
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Layer 3 copy
+  rotate: false
+  xy: 1258, 241
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 1076, 642
+  size: 171, 130
+  orig: 171, 130
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 1363, 363
+  size: 450, 167
+  orig: 450, 167
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 1208, 660
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+Layer 7 copy
+  rotate: true
+  xy: 1258, 471
+  size: 187, 103
+  orig: 187, 103
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 1532, 581
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+MOUTH1
+  rotate: true
+  xy: 392, 95
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+OMG Im late
+  rotate: false
+  xy: 1588, 403
+  size: 382, 236
+  orig: 382, 236
+  offset: 0, 0
+  index: -1
+PM
+  rotate: true
+  xy: 1817, 288
+  size: 113, 64
+  orig: 113, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 614, 3
+  size: 233, 406
+  orig: 233, 406
+  offset: 0, 0
+  index: -1
+eye copy 2
+  rotate: true
+  xy: 1532, 286
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1533, 24
+  size: 199, 218
+  orig: 199, 218
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 471, 2
+  size: 195, 141
+  orig: 195, 141
+  offset: 0, 0
+  index: -1
+handdf
+  rotate: true
+  xy: 1533, 641
+  size: 172, 431
+  orig: 172, 431
+  offset: 0, 0
+  index: -1
+handdfd
+  rotate: true
+  xy: 1258, 281
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+handdfdaac
+  rotate: false
+  xy: 1258, 373
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 2, 7
+  size: 170, 806
+  orig: 170, 806
+  offset: 0, 0
+  index: -1
+leg copy
+  rotate: false
+  xy: 174, 88
+  size: 216, 725
+  orig: 216, 725
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 392, 141
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+q_89.1
+  rotate: false
+  xy: 1883, 285
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+q_89.2
+  rotate: true
+  xy: 1883, 345
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+q_89.3
+  rotate: false
+  xy: 1609, 262
+  size: 206, 139
+  orig: 206, 139
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 392, 199
+  size: 614, 159
+  orig: 614, 159
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: false
+  xy: 1289, 244
+  size: 297, 35
+  orig: 297, 35
+  offset: 0, 0
+  index: -1
+table
+  rotate: true
+  xy: 553, 238
+  size: 575, 521
+  orig: 575, 521
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+level_119.png
+size: 1404,1140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1_face1
+  rotate: false
+  xy: 1204, 801
+  size: 127, 112
+  orig: 130, 114
+  offset: 1, 1
+  index: -1
+g1_face2
+  rotate: false
+  xy: 1204, 1024
+  size: 149, 113
+  orig: 152, 115
+  offset: 1, 1
+  index: -1
+g2_eye
+  rotate: false
+  xy: 1062, 21
+  size: 152, 65
+  orig: 152, 65
+  offset: 0, 0
+  index: -1
+g2_head
+  rotate: false
+  xy: 1193, 535
+  size: 205, 225
+  orig: 207, 227
+  offset: 1, 1
+  index: -1
+g2_mouth
+  rotate: false
+  xy: 1355, 1113
+  size: 47, 24
+  orig: 49, 26
+  offset: 1, 1
+  index: -1
+g3_face1
+  rotate: false
+  xy: 1204, 915
+  size: 133, 107
+  orig: 135, 109
+  offset: 1, 1
+  index: -1
+g3_face2
+  rotate: false
+  xy: 1193, 432
+  size: 133, 101
+  orig: 135, 103
+  offset: 1, 1
+  index: -1
+girl_1
+  rotate: true
+  xy: 2, 762
+  size: 375, 1200
+  orig: 375, 1200
+  offset: 0, 0
+  index: -1
+girl_2
+  rotate: true
+  xy: 2, 423
+  size: 337, 1189
+  orig: 337, 1189
+  offset: 0, 0
+  index: -1
+girl_3
+  rotate: true
+  xy: 2, 2
+  size: 419, 1058
+  orig: 419, 1058
+  offset: 0, 0
+  index: -1
+girl_3_head
+  rotate: false
+  xy: 1062, 88
+  size: 276, 333
+  orig: 278, 335
+  offset: 1, 1
+  index: -1

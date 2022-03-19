@@ -1,0 +1,244 @@
+
+level_130.png
+size: 792,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+18
+  rotate: false
+  xy: 543, 392
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 540, 96
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 343, 12
+  size: 77, 103
+  orig: 77, 103
+  offset: 0, 0
+  index: -1
+Layer 3 copy
+  rotate: true
+  xy: 538, 17
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 550, 564
+  size: 466, 50
+  orig: 466, 50
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 742, 814
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+X + 2X =7   Y + T = X
+  rotate: true
+  xy: 420, 300
+  size: 224, 121
+  orig: 224, 121
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 602, 614
+  size: 182, 184
+  orig: 182, 184
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 205, 221
+  size: 213, 303
+  orig: 213, 303
+  offset: 0, 0
+  index: -1
+boy_Layer 3
+  rotate: true
+  xy: 644, 25
+  size: 67, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+boy_Layer 3 copy
+  rotate: false
+  xy: 448, 5
+  size: 88, 92
+  orig: 95, 92
+  offset: 6, 0
+  index: -1
+boy_Layer 6
+  rotate: false
+  xy: 665, 305
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+boy_body
+  rotate: false
+  xy: 602, 800
+  size: 138, 230
+  orig: 165, 309
+  offset: 27, 79
+  index: -1
+boy_eye copy
+  rotate: true
+  xy: 742, 955
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+boy_hair
+  rotate: false
+  xy: 420, 200
+  size: 132, 98
+  orig: 132, 98
+  offset: 0, 0
+  index: -1
+ccmt
+  rotate: false
+  xy: 2, 526
+  size: 546, 504
+  orig: 546, 504
+  offset: 0, 0
+  index: -1
+dress copy
+  rotate: false
+  xy: 2, 94
+  size: 201, 430
+  orig: 201, 432
+  offset: 0, 0
+  index: -1
+eye copy
+  rotate: true
+  xy: 742, 29
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+eye copy 4
+  rotate: true
+  xy: 742, 880
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+eye copy 5
+  rotate: true
+  xy: 735, 539
+  size: 73, 35
+  orig: 73, 35
+  offset: 0, 0
+  index: -1
+face copy
+  rotate: false
+  xy: 554, 197
+  size: 113, 105
+  orig: 113, 105
+  offset: 0, 0
+  index: -1
+face copy 2
+  rotate: false
+  xy: 669, 195
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+face copy 3
+  rotate: true
+  xy: 657, 94
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+fboy_ace copy
+  rotate: true
+  xy: 663, 395
+  size: 115, 105
+  orig: 115, 105
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 205, 91
+  size: 128, 147
+  orig: 128, 147
+  offset: 0, 0
+  index: -1
+hairfd
+  rotate: false
+  xy: 602, 512
+  size: 131, 100
+  orig: 131, 100
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 543, 304
+  size: 86, 120
+  orig: 86, 120
+  offset: 0, 0
+  index: -1
+hand copy
+  rotate: false
+  xy: 189, 17
+  size: 152, 72
+  orig: 152, 72
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 407, 99
+  size: 131, 99
+  orig: 131, 99
+  offset: 0, 0
+  index: -1
+mo_hoi
+  rotate: false
+  xy: 2, 6
+  size: 185, 86
+  orig: 185, 86
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 538, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+boy_mouth
+  rotate: false
+  xy: 538, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+mouth copy 5
+  rotate: false
+  xy: 550, 535
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+tuc_gian
+  rotate: true
+  xy: 354, 91
+  size: 128, 51
+  orig: 128, 51
+  offset: 0, 0
+  index: -1

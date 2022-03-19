@@ -1,0 +1,195 @@
+
+level_195.png
+size: 1416,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3-01
+  rotate: true
+  xy: 576, 5
+  size: 53, 31
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+3-02
+  rotate: false
+  xy: 700, 11
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+3-03
+  rotate: false
+  xy: 486, 2
+  size: 88, 48
+  orig: 89, 48
+  offset: 0, 0
+  index: -1
+3-04
+  rotate: false
+  xy: 609, 9
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+3-05
+  rotate: true
+  xy: 1355, 99
+  size: 87, 59
+  orig: 88, 61
+  offset: 1, 0
+  index: -1
+3-06
+  rotate: true
+  xy: 1011, 89
+  size: 97, 59
+  orig: 98, 61
+  offset: 1, 0
+  index: -1
+3-07
+  rotate: true
+  xy: 486, 52
+  size: 134, 64
+  orig: 135, 65
+  offset: 0, 0
+  index: -1
+3-08
+  rotate: true
+  xy: 421, 34
+  size: 152, 63
+  orig: 153, 63
+  offset: 0, 0
+  index: -1
+3-09
+  rotate: true
+  xy: 365, 16
+  size: 170, 54
+  orig: 172, 57
+  offset: 2, 3
+  index: -1
+rua copy/bc1
+  rotate: false
+  xy: 1355, 54
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+rua copy/bc2
+  rotate: false
+  xy: 1334, 7
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+rua copy/chansau
+  rotate: true
+  xy: 931, 10
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+rua copy/chansau copy
+  rotate: true
+  xy: 1009, 12
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+rua copy/chantrc
+  rotate: true
+  xy: 1128, 9
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+rua copy/chantrc copy
+  rotate: true
+  xy: 1208, 9
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+rua copy/q_195
+  rotate: false
+  xy: 552, 60
+  size: 201, 126
+  orig: 201, 126
+  offset: 0, 0
+  index: -1
+rua copy/rùa
+  rotate: false
+  xy: 1072, 90
+  size: 281, 96
+  orig: 281, 96
+  offset: 0, 0
+  index: -1
+rua copy/tenlua
+  rotate: false
+  xy: 784, 5
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+rua copy/tenlua copy
+  rotate: true
+  xy: 949, 79
+  size: 107, 60
+  orig: 107, 60
+  offset: 0, 0
+  index: -1
+rua copy/tia lửa
+  rotate: true
+  xy: 280, 9
+  size: 177, 83
+  orig: 177, 84
+  offset: 0, 0
+  index: -1
+tho/bc1
+  rotate: false
+  xy: 894, 6
+  size: 35, 69
+  orig: 36, 69
+  offset: 1, 0
+  index: -1
+tho/chan sau
+  rotate: true
+  xy: 845, 77
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+tho/chan sau copy
+  rotate: false
+  xy: 755, 67
+  size: 88, 119
+  orig: 88, 119
+  offset: 0, 0
+  index: -1
+tho/chan truoc
+  rotate: true
+  xy: 1087, 6
+  size: 82, 39
+  orig: 82, 39
+  offset: 0, 0
+  index: -1
+tho/chan truoc copy
+  rotate: true
+  xy: 1288, 9
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+tho/head
+  rotate: false
+  xy: 2, 3
+  size: 160, 183
+  orig: 160, 183
+  offset: 0, 0
+  index: -1
+tho/tho
+  rotate: true
+  xy: 164, 5
+  size: 181, 114
+  orig: 228, 128
+  offset: 0, 14
+  index: -1

@@ -1,0 +1,265 @@
+
+level_145.png
+size: 1008,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2.2
+  rotate: true
+  xy: 815, 720
+  size: 73, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+2.3
+  rotate: false
+  xy: 505, 253
+  size: 122, 118
+  orig: 122, 118
+  offset: 0, 0
+  index: -1
+Ellipse 4
+  rotate: false
+  xy: 376, 787
+  size: 258, 109
+  orig: 258, 109
+  offset: 0, 0
+  index: -1
+Ellipse 4 copy
+  rotate: false
+  xy: 376, 787
+  size: 258, 109
+  orig: 258, 109
+  offset: 0, 0
+  index: -1
+Ellipse 4 copy 2
+  rotate: false
+  xy: 376, 787
+  size: 258, 109
+  orig: 258, 109
+  offset: 0, 0
+  index: -1
+bubble not me
+  rotate: false
+  xy: 636, 783
+  size: 177, 113
+  orig: 177, 113
+  offset: 0, 0
+  index: -1
+char_black/body
+  rotate: false
+  xy: 667, 297
+  size: 175, 226
+  orig: 175, 226
+  offset: 0, 0
+  index: -1
+char_black/face_2
+  rotate: true
+  xy: 903, 658
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+char_black/hair
+  rotate: false
+  xy: 540, 373
+  size: 123, 150
+  orig: 123, 150
+  offset: 0, 0
+  index: -1
+char_black/hand
+  rotate: true
+  xy: 2, 4
+  size: 45, 116
+  orig: 45, 116
+  offset: 0, 0
+  index: -1
+char_black/hand2
+  rotate: true
+  xy: 183, 22
+  size: 28, 77
+  orig: 28, 77
+  offset: 0, 0
+  index: -1
+char_black/hand4
+  rotate: true
+  xy: 120, 8
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+char_black/hand5
+  rotate: false
+  xy: 915, 732
+  size: 64, 274
+  orig: 64, 274
+  offset: 0, 0
+  index: -1
+char_black/leg
+  rotate: true
+  xy: 262, 4
+  size: 108, 403
+  orig: 108, 403
+  offset: 0, 0
+  index: -1
+char_black/leg1
+  rotate: false
+  xy: 128, 52
+  size: 124, 403
+  orig: 124, 403
+  offset: 0, 0
+  index: -1
+char_black/mouh_1
+  rotate: false
+  xy: 805, 579
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+char_yellow/Layer 83
+  rotate: false
+  xy: 805, 649
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+char_yellow/Shape 62
+  rotate: true
+  xy: 368, 293
+  size: 118, 135
+  orig: 118, 135
+  offset: 0, 0
+  index: -1
+char_yellow/body
+  rotate: false
+  xy: 667, 69
+  size: 175, 226
+  orig: 175, 226
+  offset: 0, 0
+  index: -1
+char_yellow/hair
+  rotate: true
+  xy: 492, 128
+  size: 123, 104
+  orig: 123, 104
+  offset: 0, 0
+  index: -1
+char_yellow/hair2
+  rotate: false
+  xy: 368, 173
+  size: 122, 118
+  orig: 122, 118
+  offset: 0, 0
+  index: -1
+char_yellow/hand
+  rotate: true
+  xy: 352, 532
+  size: 85, 272
+  orig: 85, 272
+  offset: 0, 0
+  index: -1
+char_yellow/leg
+  rotate: true
+  xy: 376, 898
+  size: 108, 403
+  orig: 108, 403
+  offset: 0, 0
+  index: -1
+char_yellow/leg1
+  rotate: false
+  xy: 2, 51
+  size: 124, 404
+  orig: 124, 404
+  offset: 0, 0
+  index: -1
+gay_bong_chay
+  rotate: false
+  xy: 640, 525
+  size: 163, 256
+  orig: 163, 256
+  offset: 0, 0
+  index: -1
+hand_f2
+  rotate: false
+  xy: 155, 778
+  size: 219, 228
+  orig: 219, 228
+  offset: 0, 0
+  index: -1
+handcuff
+  rotate: false
+  xy: 815, 795
+  size: 82, 103
+  orig: 82, 103
+  offset: 0, 0
+  index: -1
+police/Layer 79
+  rotate: true
+  xy: 368, 413
+  size: 117, 170
+  orig: 117, 170
+  offset: 0, 0
+  index: -1
+police/Shape 87
+  rotate: true
+  xy: 183, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+police/body
+  rotate: false
+  xy: 155, 521
+  size: 195, 255
+  orig: 195, 255
+  offset: 0, 0
+  index: -1
+police/face
+  rotate: false
+  xy: 844, 270
+  size: 142, 209
+  orig: 142, 209
+  offset: 0, 0
+  index: -1
+police/hand
+  rotate: true
+  xy: 352, 619
+  size: 157, 286
+  orig: 157, 286
+  offset: 0, 0
+  index: -1
+police/handcuff
+  rotate: false
+  xy: 781, 900
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+police/hat
+  rotate: true
+  xy: 882, 481
+  size: 175, 114
+  orig: 175, 114
+  offset: 0, 0
+  index: -1
+police/left_b
+  rotate: false
+  xy: 2, 457
+  size: 151, 549
+  orig: 151, 549
+  offset: 0, 0
+  index: -1
+police/leg_f
+  rotate: false
+  xy: 254, 114
+  size: 112, 405
+  orig: 112, 405
+  offset: 0, 0
+  index: -1
+security_camera1
+  rotate: true
+  xy: 844, 88
+  size: 180, 142
+  orig: 180, 142
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+level_152.png
+size: 1540,1540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7510
+  rotate: true
+  xy: 1456, 1388
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+7511
+  rotate: true
+  xy: 1456, 1316
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+7512
+  rotate: false
+  xy: 1456, 1465
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+7513
+  rotate: false
+  xy: 1456, 1260
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+Congtac xanh
+  rotate: false
+  xy: 591, 758
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+Den1
+  rotate: true
+  xy: 2, 718
+  size: 164, 250
+  orig: 164, 250
+  offset: 0, 0
+  index: -1
+Den1 copy
+  rotate: true
+  xy: 254, 718
+  size: 164, 205
+  orig: 164, 205
+  offset: 0, 0
+  index: -1
+ct do
+  rotate: false
+  xy: 718, 758
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+ct vang
+  rotate: false
+  xy: 591, 632
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+dau dung
+  rotate: false
+  xy: 2, 884
+  size: 856, 654
+  orig: 856, 654
+  offset: 0, 0
+  index: -1
+dau dung copy
+  rotate: true
+  xy: 860, 674
+  size: 864, 594
+  orig: 864, 594
+  offset: 0, 0
+  index: -1
+glow (155)
+  rotate: false
+  xy: 461, 754
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

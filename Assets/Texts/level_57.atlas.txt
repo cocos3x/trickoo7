@@ -1,0 +1,412 @@
+
+level_57.png
+size: 1716,1716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BC1
+  rotate: true
+  xy: 1555, 105
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+BC2
+  rotate: false
+  xy: 1620, 117
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 81
+  size: 1061, 1633
+  orig: 1061, 1633
+  offset: 0, 0
+  index: -1
+Bantay_T BC2
+  rotate: true
+  xy: 1465, 246
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+Baptay_P
+  rotate: false
+  xy: 1531, 1329
+  size: 83, 147
+  orig: 83, 147
+  offset: 0, 0
+  index: -1
+Baptay_T1
+  rotate: false
+  xy: 1531, 1180
+  size: 83, 147
+  orig: 83, 147
+  offset: 0, 0
+  index: -1
+Khoac_P
+  rotate: true
+  xy: 1065, 739
+  size: 92, 424
+  orig: 92, 424
+  offset: 0, 0
+  index: -1
+Khuytay_P
+  rotate: true
+  xy: 1234, 22
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+Khuytay_T
+  rotate: false
+  xy: 1302, 121
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 1065, 102
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+Layer 49
+  rotate: false
+  xy: 747, 19
+  size: 292, 60
+  orig: 292, 60
+  offset: 0, 0
+  index: -1
+Layer 49 copy
+  rotate: false
+  xy: 1041, 18
+  size: 191, 61
+  orig: 191, 61
+  offset: 0, 0
+  index: -1
+Layer 49 copy 2
+  rotate: false
+  xy: 346, 17
+  size: 399, 62
+  orig: 399, 62
+  offset: 0, 0
+  index: -1
+Layer 78
+  rotate: false
+  xy: 438, 2
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Layer 80
+  rotate: true
+  xy: 1387, 404
+  size: 92, 171
+  orig: 92, 171
+  offset: 0, 0
+  index: -1
+Layer 83
+  rotate: false
+  xy: 1425, 52
+  size: 87, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1
+Layer 84
+  rotate: false
+  xy: 1493, 1229
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Layer 85
+  rotate: true
+  xy: 346, 3
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+Layer 87
+  rotate: false
+  xy: 1515, 742
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Layer 88
+  rotate: true
+  xy: 383, 4
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+Layer 89
+  rotate: true
+  xy: 1491, 743
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+Layer 90
+  rotate: true
+  xy: 411, 8
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+Layer 91
+  rotate: false
+  xy: 427, 4
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+Nam3_Baptay_T
+  rotate: false
+  xy: 1234, 107
+  size: 66, 155
+  orig: 66, 155
+  offset: 0, 0
+  index: -1
+Nam3_Body
+  rotate: false
+  xy: 1360, 933
+  size: 120, 247
+  orig: 120, 247
+  offset: 0, 0
+  index: -1
+Nam3_Chan_P
+  rotate: false
+  xy: 1065, 1247
+  size: 164, 467
+  orig: 164, 467
+  offset: 0, 0
+  index: -1
+Nam3_Khuytayu_P
+  rotate: false
+  xy: 1632, 238
+  size: 69, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: -1
+Nam3_Nam3_Banty_P
+  rotate: true
+  xy: 1164, 82
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+Nam3_Nam3_Bap_p
+  rotate: true
+  xy: 1220, 368
+  size: 128, 165
+  orig: 128, 165
+  offset: 0, 0
+  index: -1
+Nam3_Toc
+  rotate: false
+  xy: 1065, 293
+  size: 131, 159
+  orig: 131, 159
+  offset: 0, 0
+  index: -1
+Nam3_ao khoac ngoai_P
+  rotate: true
+  xy: 1234, 590
+  size: 147, 395
+  orig: 147, 395
+  offset: 0, 0
+  index: -1
+Nam3_aokhoacngoai_T
+  rotate: true
+  xy: 1220, 498
+  size: 90, 367
+  orig: 90, 367
+  offset: 0, 0
+  index: -1
+Nam3_bantay_T
+  rotate: false
+  xy: 1620, 177
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+Nam3_bc
+  rotate: false
+  xy: 1555, 172
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+Nam3_chan_T
+  rotate: false
+  xy: 1231, 833
+  size: 127, 436
+  orig: 127, 436
+  offset: 0, 0
+  index: -1
+Nam3_face1
+  rotate: true
+  xy: 1387, 296
+  size: 106, 129
+  orig: 106, 129
+  offset: 0, 0
+  index: -1
+Nam3_khuytay_T
+  rotate: false
+  xy: 1348, 4
+  size: 75, 115
+  orig: 75, 115
+  offset: 0, 0
+  index: -1
+Nam_T_Bantay_T
+  rotate: true
+  xy: 1374, 243
+  size: 51, 89
+  orig: 51, 89
+  offset: 0, 0
+  index: -1
+Nam_T_Bantya_P
+  rotate: false
+  xy: 1360, 837
+  size: 122, 94
+  orig: 122, 94
+  offset: 0, 0
+  index: -1
+Nam_T_Khuytay_T
+  rotate: false
+  xy: 1321, 235
+  size: 51, 131
+  orig: 51, 131
+  offset: 0, 0
+  index: -1
+Nam_T_baptay_P
+  rotate: true
+  xy: 1560, 332
+  size: 92, 152
+  orig: 92, 152
+  offset: 0, 0
+  index: -1
+Nam_T_baptay_T
+  rotate: false
+  xy: 1631, 577
+  size: 70, 160
+  orig: 70, 160
+  offset: 0, 0
+  index: -1
+Nam_T_body
+  rotate: true
+  xy: 1231, 1271
+  size: 205, 298
+  orig: 205, 298
+  offset: 0, 0
+  index: -1
+Nam_T_chan_P
+  rotate: true
+  xy: 1234, 1478
+  size: 236, 382
+  orig: 236, 382
+  offset: 0, 0
+  index: -1
+Nam_T_chan_T
+  rotate: false
+  xy: 1065, 870
+  size: 142, 375
+  orig: 142, 375
+  offset: 0, 0
+  index: -1
+Nam_T_face1
+  rotate: false
+  xy: 1545, 251
+  size: 85, 79
+  orig: 85, 79
+  offset: 0, 0
+  index: -1
+Nam_T_face2
+  rotate: true
+  xy: 1198, 264
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+Nam_T_head
+  rotate: false
+  xy: 1589, 426
+  size: 118, 149
+  orig: 118, 149
+  offset: 0, 0
+  index: -1
+Nam_T_khuytay_P
+  rotate: false
+  xy: 1171, 144
+  size: 54, 118
+  orig: 54, 118
+  offset: 0, 0
+  index: -1
+Toc
+  rotate: false
+  xy: 1360, 1182
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+bantaycam dao
+  rotate: false
+  xy: 1474, 153
+  size: 79, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+bantaycam dao2
+  rotate: false
+  xy: 1065, 189
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1065, 454
+  size: 153, 283
+  orig: 153, 283
+  offset: 0, 0
+  index: -1
+chan_P
+  rotate: false
+  xy: 1616, 739
+  size: 88, 475
+  orig: 88, 475
+  offset: 0, 0
+  index: -1
+chan_T
+  rotate: false
+  xy: 1618, 1216
+  size: 89, 498
+  orig: 89, 498
+  offset: 0, 0
+  index: -1
+gay
+  rotate: true
+  xy: 2, 6
+  size: 73, 342
+  orig: 73, 342
+  offset: 0, 0
+  index: -1
+khoa_T
+  rotate: false
+  xy: 1491, 762
+  size: 123, 416
+  orig: 123, 416
+  offset: 0, 0
+  index: -1
+ma do BC2
+  rotate: false
+  xy: 1387, 144
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1

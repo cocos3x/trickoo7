@@ -1,0 +1,146 @@
+
+level_19.png
+size: 720,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bantay_p2
+  rotate: true
+  xy: 416, 8
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+Baptay_T
+  rotate: false
+  xy: 634, 570
+  size: 71, 147
+  orig: 71, 147
+  offset: 0, 0
+  index: -1
+g2_Baptay_T
+  rotate: false
+  xy: 634, 570
+  size: 71, 147
+  orig: 71, 147
+  offset: 0, 0
+  index: -1
+Bnaty_T2
+  rotate: false
+  xy: 335, 27
+  size: 79, 36
+  orig: 79, 36
+  offset: 0, 0
+  index: -1
+KhuyTay_P2
+  rotate: false
+  xy: 552, 211
+  size: 61, 155
+  orig: 61, 155
+  offset: 0, 0
+  index: -1
+Khuytay_T2
+  rotate: true
+  xy: 2, 9
+  size: 108, 124
+  orig: 108, 124
+  offset: 0, 0
+  index: -1
+g2_BC
+  rotate: true
+  xy: 576, 5
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+g2_BC2
+  rotate: false
+  xy: 496, 2
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+g2_Banytay_T
+  rotate: true
+  xy: 335, 65
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+g2_Baptay_P
+  rotate: false
+  xy: 634, 408
+  size: 54, 160
+  orig: 54, 160
+  offset: 0, 0
+  index: -1
+g2_Bnatay_p
+  rotate: false
+  xy: 250, 9
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+g2_KhuyTay_P
+  rotate: true
+  xy: 176, 91
+  size: 46, 157
+  orig: 46, 157
+  offset: 0, 0
+  index: -1
+g2_Khuytay_T
+  rotate: true
+  xy: 128, 11
+  size: 78, 120
+  orig: 78, 120
+  offset: 0, 0
+  index: -1
+g2_ao
+  rotate: false
+  xy: 400, 368
+  size: 232, 349
+  orig: 232, 349
+  offset: 0, 0
+  index: -1
+g2_face
+  rotate: false
+  xy: 533, 84
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+g2_hair_back
+  rotate: false
+  xy: 400, 199
+  size: 150, 167
+  orig: 150, 167
+  offset: 0, 0
+  index: -1
+g2_lleg
+  rotate: false
+  xy: 2, 119
+  size: 172, 598
+  orig: 172, 598
+  offset: 0, 0
+  index: -1
+g2_rleg
+  rotate: false
+  xy: 176, 177
+  size: 222, 540
+  orig: 222, 540
+  offset: 0, 0
+  index: -1
+g2_toc tren
+  rotate: false
+  xy: 400, 77
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 176, 139
+  size: 185, 36
+  orig: 185, 36
+  offset: 0, 0
+  index: -1

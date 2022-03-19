@@ -1,0 +1,167 @@
+
+level_140.png
+size: 1860,800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 469
+  size: 329, 1035
+  orig: 331, 1037
+  offset: 1, 1
+  index: -1
+1_body
+  rotate: false
+  xy: 1384, 218
+  size: 184, 237
+  orig: 184, 237
+  offset: 0, 0
+  index: -1
+1_chan1
+  rotate: true
+  xy: 1039, 569
+  size: 105, 648
+  orig: 105, 648
+  offset: 0, 0
+  index: -1
+1_chan2
+  rotate: true
+  xy: 1039, 676
+  size: 122, 648
+  orig: 122, 648
+  offset: 0, 0
+  index: -1
+1_dau
+  rotate: false
+  xy: 1275, 19
+  size: 219, 180
+  orig: 221, 182
+  offset: 1, 1
+  index: -1
+1_hong
+  rotate: false
+  xy: 1687, 290
+  size: 171, 128
+  orig: 171, 128
+  offset: 0, 0
+  index: -1
+1_tay1
+  rotate: false
+  xy: 1570, 235
+  size: 99, 220
+  orig: 99, 220
+  offset: 0, 0
+  index: -1
+1_tay2
+  rotate: false
+  xy: 1496, 29
+  size: 124, 187
+  orig: 124, 187
+  offset: 0, 0
+  index: -1
+1_vai1
+  rotate: false
+  xy: 1782, 163
+  size: 40, 125
+  orig: 42, 127
+  offset: 1, 1
+  index: -1
+1_vai2
+  rotate: true
+  xy: 1014, 11
+  size: 62, 167
+  orig: 64, 169
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 2, 125
+  size: 342, 1013
+  orig: 344, 1015
+  offset: 1, 1
+  index: -1
+2_chan1
+  rotate: true
+  xy: 2, 6
+  size: 117, 640
+  orig: 117, 640
+  offset: 0, 0
+  index: -1
+2_chan2
+  rotate: true
+  xy: 1039, 457
+  size: 110, 621
+  orig: 110, 621
+  offset: 0, 0
+  index: -1
+2_dau
+  rotate: false
+  xy: 1689, 420
+  size: 164, 167
+  orig: 166, 169
+  offset: 1, 1
+  index: -1
+2_giay1
+  rotate: false
+  xy: 926, 26
+  size: 86, 97
+  orig: 88, 99
+  offset: 1, 1
+  index: -1
+2_giay2
+  rotate: true
+  xy: 1761, 74
+  size: 86, 97
+  orig: 88, 99
+  offset: 1, 1
+  index: -1
+2_tay1
+  rotate: true
+  xy: 1017, 75
+  size: 124, 256
+  orig: 124, 256
+  offset: 0, 0
+  index: -1
+2_tay2
+  rotate: true
+  xy: 644, 15
+  size: 108, 280
+  orig: 108, 280
+  offset: 0, 0
+  index: -1
+2_than
+  rotate: false
+  xy: 1689, 589
+  size: 159, 209
+  orig: 161, 211
+  offset: 1, 1
+  index: -1
+2_tocsau
+  rotate: true
+  xy: 1017, 201
+  size: 254, 365
+  orig: 254, 365
+  offset: 0, 0
+  index: -1
+2_vai1
+  rotate: false
+  xy: 1687, 162
+  size: 93, 126
+  orig: 95, 128
+  offset: 1, 1
+  index: -1
+2_vai2
+  rotate: false
+  xy: 1687, 26
+  size: 72, 134
+  orig: 74, 136
+  offset: 1, 1
+  index: -1
+bong
+  rotate: true
+  xy: 1622, 2
+  size: 231, 63
+  orig: 233, 65
+  offset: 1, 1
+  index: -1
